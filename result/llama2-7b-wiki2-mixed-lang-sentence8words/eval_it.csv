@@ -1,0 +1,2401 @@
+,question,gt_ans,prompt,ans,correct
+0,Qual è il sesso di Harry Potter?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il sesso di Harry Potter?
+A. Femmina
+B. Maschio
+C. Sconosciuto
+D. Nessuno dei precedenti
+Answer: ",B,True
+1,Qual è il sesso di Lily J. Potter?,A,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il sesso di Lily J. Potter?
+A. Femmina
+B. Maschio
+C. Sconosciuto
+D. Nessuno dei precedenti
+Answer: ",B,False
+2,Qual è il sesso di James Potter I?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il sesso di James Potter I?
+A. Femmina
+B. Maschio
+C. Sconosciuto
+D. Nessuno dei precedenti
+Answer: ",B,True
+3,Qual è il sesso di Ron Weasley?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il sesso di Ron Weasley?
+A. Femmina
+B. Maschio
+C. Sconosciuto
+D. Nessuno dei precedenti
+Answer: ",B,True
+4,Qual è il sesso di Hermione Granger?,A,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il sesso di Hermione Granger?
+A. Femmina
+B. Maschio
+C. Sconosciuto
+D. Nessuno dei precedenti
+Answer: ",B,False
+5,Qual è il sesso di Cho Chang?,A,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il sesso di Cho Chang?
+A. Femmina
+B. Maschio
+C. Sconosciuto
+D. Nessuno dei precedenti
+Answer: ",B,False
+6,Qual è il sesso di Albus Potter?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il sesso di Albus Potter?
+A. Femmina
+B. Maschio
+C. Sconosciuto
+D. Nessuno dei precedenti
+Answer: ",B,True
+7,Qual è il sesso di Petunia Dursley?,A,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il sesso di Petunia Dursley?
+A. Femmina
+B. Maschio
+C. Sconosciuto
+D. Nessuno dei precedenti
+Answer: ",B,False
+8,Qual è il sesso di Dudley Dursley?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il sesso di Dudley Dursley?
+A. Femmina
+B. Maschio
+C. Sconosciuto
+D. Nessuno dei precedenti
+Answer: ",B,True
+9,Qual è il sesso di William Weasley?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il sesso di William Weasley?
+A. Femmina
+B. Maschio
+C. Sconosciuto
+D. Nessuno dei precedenti
+Answer: ",B,True
+10,Qual è il sesso di Charles Weasley?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il sesso di Charles Weasley?
+A. Femmina
+B. Maschio
+C. Sconosciuto
+D. Nessuno dei precedenti
+Answer: ",B,True
+11,Qual è il sesso di Arthur Weasley?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il sesso di Arthur Weasley?
+A. Femmina
+B. Maschio
+C. Sconosciuto
+D. Nessuno dei precedenti
+Answer: ",B,True
+12,Qual è il sesso di Cedric Diggory ?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il sesso di Cedric Diggory ?
+A. Femmina
+B. Maschio
+C. Sconosciuto
+D. Nessuno dei precedenti
+Answer: ",B,True
+13,Qual è il sesso di Roger Davies ?,A,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il sesso di Roger Davies ?
+A. Femmina
+B. Maschio
+C. Sconosciuto
+D. Nessuno dei precedenti
+Answer: ",B,False
+14,Qual è il sesso di Aberforth Silente?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il sesso di Aberforth Silente?
+A. Femmina
+B. Maschio
+C. Sconosciuto
+D. Nessuno dei precedenti
+Answer: ",B,True
+15,Qual è il sesso di Ariana Silente?,A,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il sesso di Ariana Silente?
+A. Femmina
+B. Maschio
+C. Sconosciuto
+D. Nessuno dei precedenti
+Answer: ",B,False
+16,Qual è il sesso di Percival Silente?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il sesso di Percival Silente?
+A. Femmina
+B. Maschio
+C. Sconosciuto
+D. Nessuno dei precedenti
+Answer: ",B,True
+17,Qual è il sesso di Kendra Silente?,A,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il sesso di Kendra Silente?
+A. Femmina
+B. Maschio
+C. Sconosciuto
+D. Nessuno dei precedenti
+Answer: ",B,False
+18,Qual è il sesso di Draco Malfoy?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il sesso di Draco Malfoy?
+A. Femmina
+B. Maschio
+C. Sconosciuto
+D. Nessuno dei precedenti
+Answer: ",B,True
+19,Qual è il sesso di Lucius Malfoy?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il sesso di Lucius Malfoy?
+A. Femmina
+B. Maschio
+C. Sconosciuto
+D. Nessuno dei precedenti
+Answer: ",B,True
+20,Qual è il sesso di Narcissa Malfoy?,A,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il sesso di Narcissa Malfoy?
+A. Femmina
+B. Maschio
+C. Sconosciuto
+D. Nessuno dei precedenti
+Answer: ",B,False
+21,Qual è il sesso di Scorpius Malfoy?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il sesso di Scorpius Malfoy?
+A. Femmina
+B. Maschio
+C. Sconosciuto
+D. Nessuno dei precedenti
+Answer: ",B,True
+22,Qual è il sesso di Astoria Malfoy?,A,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il sesso di Astoria Malfoy?
+A. Femmina
+B. Maschio
+C. Sconosciuto
+D. Nessuno dei precedenti
+Answer: ",B,False
+23,Qual è il colore dei capelli di Harry Potter?,C,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il colore dei capelli di Harry Potter?
+A. Bionda
+B. Marrone
+C. Nero
+D. Oscuro
+Answer: ",B,False
+24,Qual è il colore dei capelli di Lily J. Potter?,D,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il colore dei capelli di Lily J. Potter?
+A. Nero
+B. Oscuro
+C. Marrone
+D. Rosso
+Answer: ",B,False
+25,Qual è il colore dei capelli di James Potter I?,C,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il colore dei capelli di James Potter I?
+A. Argento
+B. Marrone
+C. Nero
+D. Oscuro
+Answer: ",B,False
+26,Qual è il colore dei capelli di Ron Weasley?,A,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il colore dei capelli di Ron Weasley?
+A. Rosso
+B. Marrone
+C. Bionda
+D. Nero
+Answer: ",B,False
+27,Qual è il colore dei capelli di Hermione Granger?,D,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il colore dei capelli di Hermione Granger?
+A. Rosso
+B. Argento
+C. Bionda
+D. Marrone
+Answer: ",B,False
+28,Qual è il colore dei capelli di Cho Chang?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il colore dei capelli di Cho Chang?
+A. Bionda
+B. Nero
+C. Marrone
+D. Oscuro
+Answer: ",B,True
+29,Qual è il colore dei capelli di Albus Potter?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il colore dei capelli di Albus Potter?
+A. Rosso
+B. Nero
+C. Bionda
+D. Marrone
+Answer: ",B,True
+30,Qual è il colore dei capelli di Petunia Dursley?,C,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il colore dei capelli di Petunia Dursley?
+A. Oscuro
+B. Argento
+C. Bionda
+D. Marrone
+Answer: ",B,False
+31,Qual è il colore dei capelli di Dudley Dursley?,C,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il colore dei capelli di Dudley Dursley?
+A. Oscuro
+B. Marrone
+C. Bionda
+D. Rosso
+Answer: ",B,False
+32,Qual è il colore dei capelli di William Weasley?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il colore dei capelli di William Weasley?
+A. Bionda
+B. Rosso
+C. Oscuro
+D. Argento
+Answer: ",B,True
+33,Qual è il colore dei capelli di Charles Weasley?,C,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il colore dei capelli di Charles Weasley?
+A. Oscuro
+B. Argento
+C. Rosso
+D. Nero
+Answer: ",B,False
+34,Qual è il colore dei capelli di Arthur Weasley?,A,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il colore dei capelli di Arthur Weasley?
+A. Rosso
+B. Nero
+C. Oscuro
+D. Bionda
+Answer: ",B,False
+35,Qual è il colore dei capelli di Cedric Diggory ?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il colore dei capelli di Cedric Diggory ?
+A. Argento
+B. Oscuro
+C. Marrone
+D. Bionda
+Answer: ",B,True
+36,Qual è il colore dei capelli di Roger Davies?,C,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il colore dei capelli di Roger Davies?
+A. Oscuro
+B. Argento
+C. Marrone
+D. Nero
+Answer: ",B,False
+37,Qual è il colore dei capelli di Aberforth Silente?,C,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il colore dei capelli di Aberforth Silente?
+A. Oscuro
+B. Bionda
+C. Argento
+D. Rosso
+Answer: ",B,False
+38,Qual è il colore dei capelli di Ariana Silente?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il colore dei capelli di Ariana Silente?
+A. Nero
+B. Bionda
+C. Oscuro
+D. Rosso
+Answer: ",B,True
+39,Qual è il colore dei capelli di Kendra Silente?,D,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il colore dei capelli di Kendra Silente?
+A. Argento
+B. Rosso
+C. Marrone
+D. Nero
+Answer: ",B,False
+40,Qual è il colore dei capelli di Draco Malfoy?,D,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il colore dei capelli di Draco Malfoy?
+A. Rosso
+B. Argento
+C. Oscuro
+D. Bionda
+Answer: ",B,False
+41,Qual è il colore dei capelli di Lucius Malfoy?,D,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il colore dei capelli di Lucius Malfoy?
+A. Marrone
+B. Nero
+C. Rosso
+D. Bionda
+Answer: ",A,False
+42,Qual è il colore dei capelli di Narcissa Malfoy?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il colore dei capelli di Narcissa Malfoy?
+A. Marrone
+B. Bionda
+C. Rosso
+D. Oscuro
+Answer: ",B,True
+43,Qual è il colore dei capelli di Scorpius Malfoy?,D,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il colore dei capelli di Scorpius Malfoy?
+A. Argento
+B. Oscuro
+C. Nero
+D. Bionda
+Answer: ",B,False
+44,A quale casa appartiene Harry Potter?,C,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+A quale casa appartiene Harry Potter?
+A. Corvonero
+B. Serpeverde
+C. Grifondoro
+D. Tassorosso
+Answer: ",B,False
+45,A quale casa appartiene James Potter?,C,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+A quale casa appartiene James Potter?
+A. Corvonero
+B. Serpeverde
+C. Grifondoro
+D. Tassorosso
+Answer: ",B,False
+46,A quale casa appartiene Ron Weasley?,C,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+A quale casa appartiene Ron Weasley?
+A. Corvonero
+B. Serpeverde
+C. Grifondoro
+D. Tassorosso
+Answer: ",B,False
+47,A quale casa appartiene Hermione Granger?,C,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+A quale casa appartiene Hermione Granger?
+A. Corvonero
+B. Serpeverde
+C. Grifondoro
+D. Tassorosso
+Answer: ",B,False
+48,A quale casa appartiene Cho Chang?,A,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+A quale casa appartiene Cho Chang?
+A. Corvonero
+B. Serpeverde
+C. Grifondoro
+D. Tassorosso
+Answer: ",B,False
+49,A quale casa appartiene Albus Potter?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+A quale casa appartiene Albus Potter?
+A. Corvonero
+B. Serpeverde
+C. Grifondoro
+D. Tassorosso
+Answer: ",B,True
+50,A quale casa appartiene Charles Weasley?,C,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+A quale casa appartiene Charles Weasley?
+A. Corvonero
+B. Serpeverde
+C. Grifondoro
+D. Tassorosso
+Answer: ",B,False
+51,A quale casa appartiene Arthur Weasley?,C,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+A quale casa appartiene Arthur Weasley?
+A. Corvonero
+B. Serpeverde
+C. Grifondoro
+D. Tassorosso
+Answer: ",B,False
+52,A quale casa appartiene Cedric Diggory?,D,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+A quale casa appartiene Cedric Diggory?
+A. Corvonero
+B. Serpeverde
+C. Grifondoro
+D. Tassorosso
+Answer: ",B,False
+53,A quale casa appartiene Roger Davies?,A,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+A quale casa appartiene Roger Davies?
+A. Corvonero
+B. Serpeverde
+C. Grifondoro
+D. Tassorosso
+Answer: ",B,False
+54,A quale casa appartiene Aberforth Silente?,C,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+A quale casa appartiene Aberforth Silente?
+A. Corvonero
+B. Serpeverde
+C. Grifondoro
+D. Tassorosso
+Answer: ",B,False
+55,A quale casa appartiene Draco Malfoy?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+A quale casa appartiene Draco Malfoy?
+A. Corvonero
+B. Serpeverde
+C. Grifondoro
+D. Tassorosso
+Answer: ",B,True
+56,A quale casa appartiene Lucius Malfoy?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+A quale casa appartiene Lucius Malfoy?
+A. Corvonero
+B. Serpeverde
+C. Grifondoro
+D. Tassorosso
+Answer: ",B,True
+57,A quale casa appartiene Narcissa Malfoy?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+A quale casa appartiene Narcissa Malfoy?
+A. Corvonero
+B. Serpeverde
+C. Grifondoro
+D. Tassorosso
+Answer: ",B,True
+58,A quale casa appartiene Scorpius Malfoy?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+A quale casa appartiene Scorpius Malfoy?
+A. Corvonero
+B. Serpeverde
+C. Grifondoro
+D. Tassorosso
+Answer: ",B,True
+59,Qual è il rapporto tra James Potter I e Harry Potter?,C,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il rapporto tra James Potter I e Harry Potter?
+A. Suono
+B. Nipote
+C. Padre
+D. Sorella
+Answer: ",B,False
+60,Chi è il padre di Harry Potter?,D,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Chi è il padre di Harry Potter?
+A. Petunia Dursley
+B. Eufemia Vasaio
+C. Astoria Malfoy
+D. James Potter I
+Answer: ",B,False
+61,Qual è la relazione tra Lily J.Potter e Harry Potter?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è la relazione tra Lily J.Potter e Harry Potter?
+A. Amico
+B. Madre
+C. Marito
+D. Nipote
+Answer: ",B,True
+62,Chi è la madre di Harry Potter?,D,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Chi è la madre di Harry Potter?
+A. Harry Potter
+B. Aberforth Silente
+C. Ron Weasley
+D. Giglio J. Vasaio
+Answer: ",B,False
+63,Qual è il rapporto tra Ron Weasley e Harry Potter?,C,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il rapporto tra Ron Weasley e Harry Potter?
+A. Padre
+B. Nipote
+C. Amico
+D. Sorella
+Answer: ",B,False
+64,Chi è l'amico di Harry Potter?,C,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Chi è l'amico di Harry Potter?
+A. Petunia Dursley
+B. Astoria Malfoy
+C. Ron Weasley
+D. Charles Weasley
+Answer: ",B,False
+65,Qual è la relazione tra Hermione Granger e Harry Potter?,A,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è la relazione tra Hermione Granger e Harry Potter?
+A. Amico
+B. Zia
+C. Figlia
+D. Moglie
+Answer: ",B,False
+66,Chi è l'amico di Harry Potter?,C,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Chi è l'amico di Harry Potter?
+A. Lucius Malfoy
+B. Giglio J. Vasaio
+C. Hermione Granger
+D. Harry Potter
+Answer: ",B,False
+67,Qual è la relazione tra James Potter e Lily J.Vasaio?,D,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è la relazione tra James Potter e Lily J.Vasaio?
+A. Fratello
+B. Nipote
+C. Madre
+D. Marito
+Answer: ",B,False
+68,Qual è la relazione tra Harry Potter e Lily J.Vasaio?,C,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è la relazione tra Harry Potter e Lily J.Vasaio?
+A. Madre
+B. Nipote
+C. Suono
+D. Amico
+Answer: ",B,False
+69,Chi è il figlio di Lily J. Potter?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Chi è il figlio di Lily J. Potter?
+A. Vasaio di Albus
+B. Harry Potter
+C. Percival Silente
+D. Charles Weasley
+Answer: ",B,True
+70,Qual è la relazione tra Albus Potter e Lily J.Vasaio?,A,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è la relazione tra Albus Potter e Lily J.Vasaio?
+A. Nipote
+B. Fratello
+C. Marito
+D. Figlia
+Answer: ",B,False
+71,Chi è il nipote di Lily J. Potter?,A,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Chi è il nipote di Lily J. Potter?
+A. Vasaio di Albus
+B. Lucius Malfoy
+C. Draco Malfoy
+D. Percival Silente
+Answer: ",B,False
+72,Qual è la relazione tra Petunia Dursley e Lily J.Vasaio?,D,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è la relazione tra Petunia Dursley e Lily J.Vasaio?
+A. Zia
+B. Figlia
+C. Marito
+D. Sorella
+Answer: ",B,False
+73,Chi è la sorella di Lily J. Potter?,C,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Chi è la sorella di Lily J. Potter?
+A. Aberforth Silente
+B. Vasaio di Fleamont
+C. Petunia Dursley
+D. Ariana Silente
+Answer: ",B,False
+74,Qual è la relazione tra Dudley Dursley e Lily J.Vasaio?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è la relazione tra Dudley Dursley e Lily J.Vasaio?
+A. Nipote
+B. Nipote
+C. Marito
+D. Madre
+Answer: ",B,True
+75,Chi è il nipote di Lily J. Potter?,D,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Chi è il nipote di Lily J. Potter?
+A. James Potter I
+B. Harry Potter
+C. Charles Weasley
+D. Dudley Dursley
+Answer: ",B,False
+76,Qual è la relazione tra Harry Potter e James Potter I?,D,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è la relazione tra Harry Potter e James Potter I?
+A. Nipote
+B. Nipote
+C. Sorella
+D. Suono
+Answer: ",B,False
+77,Chi è il figlio di James Potter I?,C,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Chi è il figlio di James Potter I?
+A. Arthur Weasley
+B. Astoria Malfoy
+C. Harry Potter
+D. Vasaio di Albus
+Answer: ",B,False
+78,Qual è la relazione tra Lily J.Potter e James Potter I?,D,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è la relazione tra Lily J.Potter e James Potter I?
+A. Zia
+B. Nonna
+C. Nipote
+D. Moglie
+Answer: ",B,False
+79,Chi è la moglie di James Potter I?,C,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Chi è la moglie di James Potter I?
+A. James Potter I
+B. William Weasley
+C. Giglio J. Vasaio
+D. Arthur Weasley
+Answer: ",B,False
+80,Qual è la relazione tra Fleamont Potter e James Potter I?,D,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è la relazione tra Fleamont Potter e James Potter I?
+A. Nipote
+B. Moglie
+C. Madre
+D. Padre
+Answer: ",B,False
+81,Chi è il padre di James Potter I?,C,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Chi è il padre di James Potter I?
+A. Vasaio di Albus
+B. Ron Weasley
+C. Vasaio di Fleamont
+D. Aberforth Silente
+Answer: ",B,False
+82,Qual è la relazione tra Eufemia Potter e James Potter I?,D,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è la relazione tra Eufemia Potter e James Potter I?
+A. Sorella
+B. Amico
+C. Nonna
+D. Madre
+Answer: ",B,False
+83,Chi è la madre di James Potter I?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Chi è la madre di James Potter I?
+A. Ron Weasley
+B. Eufemia Vasaio
+C. Lucius Malfoy
+D. Ariana Silente
+Answer: ",B,True
+84,Qual è la relazione tra Albus Potter e James Potter I?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è la relazione tra Albus Potter e James Potter I?
+A. Zia
+B. Nipote
+C. Fratello
+D. Amico
+Answer: ",B,True
+85,Chi è il nipote di James Potter I?,A,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Chi è il nipote di James Potter I?
+A. Vasaio di Albus
+B. Per Chang
+C. Hermione Granger
+D. Percival Silente
+Answer: ",B,False
+86,Qual è la relazione tra William Weasley e Ron Weasley?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è la relazione tra William Weasley e Ron Weasley?
+A. Suono
+B. Fratello
+C. Nonna
+D. Moglie
+Answer: ",B,True
+87,Chi è il fratello di Ron Weasley?,D,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Chi è il fratello di Ron Weasley?
+A. Dudley Dursley
+B. James Potter I
+C. Kendra Silente
+D. William Weasley
+Answer: ",B,False
+88,Qual è il rapporto tra Charles Weasley e Ron Weasley?,C,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il rapporto tra Charles Weasley e Ron Weasley?
+A. Nipote
+B. Nonna
+C. Fratello
+D. Moglie
+Answer: ",B,False
+89,Chi è il fratello di Ron Weasley?,A,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Chi è il fratello di Ron Weasley?
+A. Charles Weasley
+B. Cedric Diggory
+C. William Weasley
+D. Astoria Malfoy
+Answer: ",B,False
+90,Qual è la relazione tra Hermione Granger e Ron Weasley?,D,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è la relazione tra Hermione Granger e Ron Weasley?
+A. Suono
+B. Fratello
+C. Padre
+D. Moglie
+Answer: ",B,False
+91,Chi è la moglie di Ron Weasley?,C,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Chi è la moglie di Ron Weasley?
+A. Percival Silente
+B. Scorpione Malfoy
+C. Hermione Granger
+D. Lucius Malfoy
+Answer: ",B,False
+92,Qual è la relazione tra Arthur Weasley e Ron Weasley?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è la relazione tra Arthur Weasley e Ron Weasley?
+A. Nonna
+B. Padre
+C. Figlia
+D. Nipote
+Answer: ",B,True
+93,Chi è il padre di Ron Weasley?,A,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Chi è il padre di Ron Weasley?
+A. Arthur Weasley
+B. Per Chang
+C. Draco Malfoy
+D. Hermione Granger
+Answer: ",B,False
+94,Qual è la relazione tra Rose Granger-Weasley e Ron Weasley?,D,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è la relazione tra Rose Granger-Weasley e Ron Weasley?
+A. Nipote
+B. Moglie
+C. Sorella
+D. Figlia
+Answer: ",B,False
+95,Qual è il rapporto tra Hugo Granger-Weasley e Ron Weasley?,D,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il rapporto tra Hugo Granger-Weasley e Ron Weasley?
+A. Moglie
+B. Nipote
+C. Sorella
+D. Suono
+Answer: ",B,False
+96,Qual è la relazione tra Ron Weasley e Hermione Granger?,A,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è la relazione tra Ron Weasley e Hermione Granger?
+A. Marito
+B. Suono
+C. Moglie
+D. Nonna
+Answer: ",B,False
+97,Chi è il marito di Hermione Granger?,D,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Chi è il marito di Hermione Granger?
+A. Petunia Dursley
+B. Lucius Malfoy
+C. Dudley Dursley
+D. Ron Weasley
+Answer: ",B,False
+98,Qual è la relazione tra Monica Wilkins e Hermione Granger?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è la relazione tra Monica Wilkins e Hermione Granger?
+A. Nipote
+B. Madre
+C. Sorella
+D. Nipote
+Answer: ",B,True
+99,Qual è la relazione tra Hugo Granger-Weasley e Hermione Granger?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è la relazione tra Hugo Granger-Weasley e Hermione Granger?
+A. Nipote
+B. Suono
+C. Zia
+D. Nonna
+Answer: ",B,True
+100,Qual è la relazione tra Rose Granger-Weasley e Hermione Granger?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è la relazione tra Rose Granger-Weasley e Hermione Granger?
+A. Suono
+B. Figlia
+C. Madre
+D. Nonno
+Answer: ",B,True
+101,Qual è la relazione tra Percival Silente e Albus Silente?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è la relazione tra Percival Silente e Albus Silente?
+A. Nonno
+B. Padre
+C. Nipote
+D. Sorella
+Answer: ",B,True
+102,Chi è il padre di Albus Silente?,D,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Chi è il padre di Albus Silente?
+A. Astoria Malfoy
+B. Harry Potter
+C. Arthur Weasley
+D. Percival Silente
+Answer: ",B,False
+103,Qual è la relazione tra Kendra Silente e Albus Silente?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è la relazione tra Kendra Silente e Albus Silente?
+A. Zia
+B. Madre
+C. Suono
+D. Padre
+Answer: ",B,True
+104,Chi è la madre di Albus Silente?,D,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Chi è la madre di Albus Silente?
+A. Lucius Malfoy
+B. Ariana Silente
+C. Per Chang
+D. Kendra Silente
+Answer: ",B,False
+105,Qual è la relazione tra Aberforth Silente e Albus Silente?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è la relazione tra Aberforth Silente e Albus Silente?
+A. Marito
+B. Fratello
+C. Madre
+D. Sorella
+Answer: ",B,True
+106,Chi è il fratello di Albus Silente?,A,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Chi è il fratello di Albus Silente?
+A. Aberforth Silente
+B. Dudley Dursley
+C. Percival Silente
+D. Harry Potter
+Answer: ",B,False
+107,Qual è la relazione tra Ariana Silente e Albus Silente?,A,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è la relazione tra Ariana Silente e Albus Silente?
+A. Sorella
+B. Padre
+C. Moglie
+D. Amico
+Answer: ",B,False
+108,Chi è la sorella di Albus Silente?,D,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Chi è la sorella di Albus Silente?
+A. Petunia Dursley
+B. Percival Silente
+C. Hermione Granger
+D. Ariana Silente
+Answer: ",B,False
+109,Qual è la relazione tra Lucius Malfoy e Draco Malfoy?,D,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è la relazione tra Lucius Malfoy e Draco Malfoy?
+A. Fratello
+B. Nonna
+C. Moglie
+D. Suono
+Answer: ",B,False
+110,Chi è il figlio di Draco Malfoy?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Chi è il figlio di Draco Malfoy?
+A. Cedric Diggory
+B. Lucius Malfoy
+C. Vasaio di Fleamont
+D. Hermione Granger
+Answer: ",B,True
+111,Qual è la relazione tra Narcissa Malfoy e Draco Malfoy?,C,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è la relazione tra Narcissa Malfoy e Draco Malfoy?
+A. Madre
+B. Zia
+C. Suono
+D. Fratello
+Answer: ",B,False
+112,Chi è il figlio di Draco Malfoy?,A,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Chi è il figlio di Draco Malfoy?
+A. Narcissa Malfoy
+B. Petunia Dursley
+C. Percival Silente
+D. Dudley Dursley
+Answer: ",B,False
+113,Qual è la relazione tra Astoria Malfoy e Draco Malfoy?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è la relazione tra Astoria Malfoy e Draco Malfoy?
+A. Amico
+B. Moglie
+C. Nonno
+D. Suono
+Answer: ",B,True
+114,Chi è la moglie di Draco Malfoy?,A,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Chi è la moglie di Draco Malfoy?
+A. Astoria Malfoy
+B. Vasaio di Fleamont
+C. Narcissa Malfoy
+D. William Weasley
+Answer: ",C,False
+115,Qual è la relazione tra Scorpius Malfoy e Draco Malfoy?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è la relazione tra Scorpius Malfoy e Draco Malfoy?
+A. Nonno
+B. Suono
+C. Figlia
+D. Zia
+Answer: ",B,True
+116,Chi è il figlio di Draco Malfoy?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Chi è il figlio di Draco Malfoy?
+A. Draco Malfoy
+B. Scorpione Malfoy
+C. Arthur Weasley
+D. Percival Silente
+Answer: ",B,True
+117,Qual è la relazione tra James Potter I e Fleamont Potter?,D,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è la relazione tra James Potter I e Fleamont Potter?
+A. Zia
+B. Moglie
+C. Fratello
+D. Suono
+Answer: ",B,False
+118,Chi è il figlio di Fleamont Potter?,A,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Chi è il figlio di Fleamont Potter?
+A. James Potter I
+B. Ron Weasley
+C. Draco Malfoy
+D. Arthur Weasley
+Answer: ",B,False
+119,Qual è la relazione tra James Potter I ed Euphemia Potter?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è la relazione tra James Potter I ed Euphemia Potter?
+A. Marito
+B. Suono
+C. Madre
+D. Nipote
+Answer: ",B,True
+120,Chi è il figlio di Euphemia Potter?,C,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Chi è il figlio di Euphemia Potter?
+A. Percival Silente
+B. William Weasley
+C. James Potter I
+D. Giglio J. Vasaio
+Answer: ",B,False
+121,Qual è la relazione tra James Potter I e Albus Potter?,C,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è la relazione tra James Potter I e Albus Potter?
+A. Madre
+B. Moglie
+C. Nonno
+D. Suono
+Answer: ",B,False
+122,Chi è il nonno di Albus Potter?,D,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Chi è il nonno di Albus Potter?
+A. Vasaio di Albus
+B. Harry Potter
+C. Aberforth Silente
+D. James Potter I
+Answer: ",B,False
+123,Qual è la relazione tra Lily J.Potter e Albus Potter?,A,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è la relazione tra Lily J.Potter e Albus Potter?
+A. Nonna
+B. Fratello
+C. Suono
+D. Madre
+Answer: ",B,False
+124,Chi è la nonna di Albus Potter?,D,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Chi è la nonna di Albus Potter?
+A. Scorpione Malfoy
+B. Harry Potter
+C. Ruggero Davies
+D. Giglio J. Vasaio
+Answer: ",B,False
+125,Qual è la relazione tra Lily J.Potter e Petunia Dursley?,C,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è la relazione tra Lily J.Potter e Petunia Dursley?
+A. Madre
+B. Nonna
+C. Sorella
+D. Padre
+Answer: ",B,False
+126,Chi è la sorella di Petunia Dursley?,A,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Chi è la sorella di Petunia Dursley?
+A. Giglio J. Vasaio
+B. Lucius Malfoy
+C. James Potter I
+D. Scorpione Malfoy
+Answer: ",B,False
+127,Qual è la relazione tra Lily J.Potter e Dudley Dursley?,A,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è la relazione tra Lily J.Potter e Dudley Dursley?
+A. Zia
+B. Padre
+C. Marito
+D. Fratello
+Answer: ",B,False
+128,Chi è la zia di Dudley Dursley?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Chi è la zia di Dudley Dursley?
+A. Vasaio di Fleamont
+B. Giglio J. Vasaio
+C. Astoria Malfoy
+D. Vasaio di Albus
+Answer: ",B,True
+129,Qual è la relazione tra Ron Weasley e William Weasley?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è la relazione tra Ron Weasley e William Weasley?
+A. Sorella
+B. Fratello
+C. Suono
+D. Moglie
+Answer: ",B,True
+130,Chi è il fratello di William Weasley?,C,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Chi è il fratello di William Weasley?
+A. Giglio J. Vasaio
+B. Charles Weasley
+C. Ron Weasley
+D. James Potter I
+Answer: ",B,False
+131,Qual è il rapporto tra Ron Weasley e Charles Weasley?,C,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il rapporto tra Ron Weasley e Charles Weasley?
+A. Amico
+B. Nipote
+C. Fratello
+D. Nonno
+Answer: ",B,False
+132,Chi è il fratello di Charles Weasley?,C,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Chi è il fratello di Charles Weasley?
+A. Per Chang
+B. Scorpione Malfoy
+C. Ron Weasley
+D. Ariana Silente
+Answer: ",B,False
+133,Qual è la relazione tra Ron Weasley e Rose Granger-Weasley?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è la relazione tra Ron Weasley e Rose Granger-Weasley?
+A. Nonno
+B. Padre
+C. Zia
+D. Nipote
+Answer: ",B,True
+134,Chi è il padre di Rose Granger-Weasley?,D,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Chi è il padre di Rose Granger-Weasley?
+A. Ariana Silente
+B. Draco Malfoy
+C. Arthur Weasley
+D. Ron Weasley
+Answer: ",B,False
+135,Qual è il rapporto tra Ron Weasley e Hugo Granger-Weasley?,A,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il rapporto tra Ron Weasley e Hugo Granger-Weasley?
+A. Padre
+B. Nonno
+C. Marito
+D. Nipote
+Answer: ",B,False
+136,Chi è il padre di Hugo Granger-Weasley?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Chi è il padre di Hugo Granger-Weasley?
+A. Vasaio di Fleamont
+B. Ron Weasley
+C. Kendra Silente
+D. Petunia Dursley
+Answer: ",B,True
+137,Qual è la relazione tra Ron Weasley e Arthur Weasley?,D,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è la relazione tra Ron Weasley e Arthur Weasley?
+A. Marito
+B. Zia
+C. Moglie
+D. Suono
+Answer: ",B,False
+138,Chi è il figlio di Arthur Weasley?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Chi è il figlio di Arthur Weasley?
+A. Ariana Silente
+B. Ron Weasley
+C. Vasaio di Fleamont
+D. Percival Silente
+Answer: ",B,True
+139,Qual è la relazione tra Hermione Granger e Rose Granger-Weasley?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è la relazione tra Hermione Granger e Rose Granger-Weasley?
+A. Fratello
+B. Madre
+C. Nipote
+D. Nipote
+Answer: ",B,True
+140,Chi è la madre di Rose Granger-Weasley?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Chi è la madre di Rose Granger-Weasley?
+A. Ruggero Davies
+B. Hermione Granger
+C. Arthur Weasley
+D. Giglio J. Vasaio
+Answer: ",B,True
+141,Qual è la relazione tra Hermione Granger e Hugo Granger-Weasley?,C,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è la relazione tra Hermione Granger e Hugo Granger-Weasley?
+A. Zia
+B. Nipote
+C. Madre
+D. Moglie
+Answer: ",B,False
+142,Chi è la madre di Hugo Granger-Weasley?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Chi è la madre di Hugo Granger-Weasley?
+A. Ariana Silente
+B. Hermione Granger
+C. Eufemia Vasaio
+D. Charles Weasley
+Answer: ",B,True
+143,Qual è la relazione tra Hermione Granger e Monica Wilkins?,D,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è la relazione tra Hermione Granger e Monica Wilkins?
+A. Nipote
+B. Nipote
+C. Marito
+D. Figlia
+Answer: ",B,False
+144,Chi è la figlia di Monica Wilkins?,D,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Chi è la figlia di Monica Wilkins?
+A. Ruggero Davies
+B. Giglio J. Vasaio
+C. Eufemia Vasaio
+D. Hermione Granger
+Answer: ",B,False
+145,Qual è la relazione tra Albus Silente e Aberforth Silente?,C,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è la relazione tra Albus Silente e Aberforth Silente?
+A. Nipote
+B. Sorella
+C. Fratello
+D. Madre
+Answer: ",B,False
+146,Qual è la relazione tra Albus Silente e Ariana Silente?,A,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è la relazione tra Albus Silente e Ariana Silente?
+A. Fratello
+B. Suono
+C. Amico
+D. Marito
+Answer: ",B,False
+147,Qual è la relazione tra Albus Silente e Percival Silente?,D,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è la relazione tra Albus Silente e Percival Silente?
+A. Nonno
+B. Padre
+C. Nonna
+D. Suono
+Answer: ",B,False
+148,Qual è la relazione tra Albus Silente e Kendra Silente?,A,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è la relazione tra Albus Silente e Kendra Silente?
+A. Suono
+B. Amico
+C. Nipote
+D. Fratello
+Answer: ",B,False
+149,Qual è la relazione tra Draco Malfoy e Lucius Malfoy?,D,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è la relazione tra Draco Malfoy e Lucius Malfoy?
+A. Zia
+B. Madre
+C. Figlia
+D. Padre
+Answer: ",B,False
+150,Chi è il padre di Lucius Malfoy?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Chi è il padre di Lucius Malfoy?
+A. Lucius Malfoy
+B. Draco Malfoy
+C. Eufemia Vasaio
+D. Per Chang
+Answer: ",B,True
+151,Qual è la relazione tra Draco Malfoy e Narcissa Malfoy?,A,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è la relazione tra Draco Malfoy e Narcissa Malfoy?
+A. Madre
+B. Padre
+C. Nipote
+D. Fratello
+Answer: ",B,False
+152,Chi è la madre di Narcissa Malfoy?,C,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Chi è la madre di Narcissa Malfoy?
+A. Giglio J. Vasaio
+B. Percival Silente
+C. Draco Malfoy
+D. Cedric Diggory
+Answer: ",B,False
+153,Qual è la relazione tra Draco Malfoy e Scorpius Malfoy?,A,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è la relazione tra Draco Malfoy e Scorpius Malfoy?
+A. Marito
+B. Sorella
+C. Zia
+D. Amico
+Answer: ",B,False
+154,Chi è il marito di Scorpius Malfoy?,A,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Chi è il marito di Scorpius Malfoy?
+A. Draco Malfoy
+B. Arthur Weasley
+C. Scorpione Malfoy
+D. Per Chang
+Answer: ",B,False
+155,Qual è la relazione tra Draco Malfoy e Astoria Malfoy?,A,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è la relazione tra Draco Malfoy e Astoria Malfoy?
+A. Padre
+B. Nipote
+C. Fratello
+D. Marito
+Answer: ",B,False
+156,Chi è il padre di Astoria Malfoy?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Chi è il padre di Astoria Malfoy?
+A. Giglio J. Vasaio
+B. Draco Malfoy
+C. Hermione Granger
+D. Harry Potter
+Answer: ",B,True
+157,Qual è il tipo di incantesimo chiamato Aberto?,C,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Aberto?
+A. Contro-incantesimo
+B. Contro-Incantesimo
+C. Fascino
+D. Trasfigurazione
+Answer: ",B,False
+158,Qual è il tipo di incantesimo chiamato Accio?,D,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Accio?
+A. Contro-incantesimo
+B. Trasfigurazione
+C. Contro-Incantesimo
+D. Fascino
+Answer: ",B,False
+159,Qual è il tipo di incantesimo chiamato Age Line?,D,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Age Line?
+A. Trasfigurazione
+B. Menagramo
+C. Compitare
+D. Fascino
+Answer: ",B,False
+160,Qual è il tipo di incantesimo chiamato Alarte Ascendare?,C,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Alarte Ascendare?
+A. Contro-incantesimo
+B. Contro-Incantesimo
+C. Fascino
+D. Menagramo
+Answer: ",B,False
+161,Qual è il tipo di incantesimo chiamato Alohomora?,D,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Alohomora?
+A. Trasporto
+B. Cospirazione
+C. Contro-Jinx
+D. Fascino
+Answer: ",B,False
+162,Qual è il tipo di incantesimo chiamato Incantesimo Anti-Imbroglio?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Incantesimo Anti-Imbroglio?
+A. Trasporto
+B. Fascino
+C. Trasfigurazione
+D. Contro-fascino
+Answer: ",B,True
+163,Qual è il tipo di incantesimo chiamato Amuleto Anti-Apparizione?,A,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Amuleto Anti-Apparizione?
+A. Fascino
+B. Malocchio
+C. Maledizione
+D. Contro-fascino
+Answer: ",B,False
+164,Qual è il tipo di incantesimo chiamato Jinx Anti-Scomparsa?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Jinx Anti-Scomparsa?
+A. Contro-Jinx
+B. Menagramo
+C. Trasfigurazione
+D. Contro-Incantesimo
+Answer: ",B,True
+165,Qual è il tipo di incantesimo chiamato Jinx anti-intruso?,A,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Jinx anti-intruso?
+A. Menagramo
+B. Sparizione
+C. Fascino
+D. Malocchio
+Answer: ",B,False
+166,Qual è il tipo di incantesimo chiamato Aparecium?,D,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Aparecium?
+A. Cospirazione
+B. Compitare
+C. Contro-Incantesimo
+D. Fascino
+Answer: ",B,False
+167,Qual è il tipo di incantesimo chiamato Appare Vestigium?,C,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Appare Vestigium?
+A. Trasporto
+B. Maledizione
+C. Fascino
+D. Contro-Jinx
+Answer: ",B,False
+168,Qual è il tipo di incantesimo chiamato Apparizione?,C,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Apparizione?
+A. Maledizione
+B. Sconosciuto
+C. Trasporto
+D. Contro-incantesimo
+Answer: ",C,True
+169,Qual è il tipo di incantesimo chiamato Aqua Eructo?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Aqua Eructo?
+A. Contro-fascino
+B. Fascino
+C. Contro-incantesimo
+D. Compitare
+Answer: ",B,True
+170,Qual è il tipo di incantesimo chiamato Arania Exumai?,C,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Arania Exumai?
+A. Contro-incantesimo
+B. Trasfigurazione
+C. Fascino
+D. Cospirazione
+Answer: ",B,False
+171,Qual è il tipo di incantesimo chiamato Arresto Momentum?,A,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Arresto Momentum?
+A. Fascino
+B. Sparizione
+C. Trasporto
+D. Malocchio
+Answer: ",B,False
+172,Qual è il tipo di incantesimo chiamato Incantesimo di tiro delle frecce?,C,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Incantesimo di tiro delle frecce?
+A. Contro-Jinx
+B. Trasfigurazione
+C. Cospirazione
+D. Maledizione
+Answer: ",B,False
+173,Qual è il tipo di incantesimo chiamato Ascendio?,C,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Ascendio?
+A. Compitare
+B. Malocchio
+C. Fascino
+D. Trasporto
+Answer: ",B,False
+174,Qual è il tipo di incantesimo chiamato Avada Kedavra?,C,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Avada Kedavra?
+A. Sparizione
+B. Malocchio
+C. Maledizione
+D. Contro-incantesimo
+Answer: ",A,False
+175,Qual è il tipo di incantesimo chiamato Avifors?,A,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Avifors?
+A. Trasfigurazione
+B. Trasfigurazione
+C. Contro-Incantesimo
+D. Compitare
+Answer: ",B,False
+176,Qual è il tipo di incantesimo chiamato Avenseguim?,C,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Avenseguim?
+A. Sparizione
+B. Malocchio
+C. Fascino
+D. Cospirazione
+Answer: ",B,False
+177,Qual è il tipo di incantesimo chiamato Maledizione Balbettante?,D,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Maledizione Balbettante?
+A. Menagramo
+B. Sconosciuto
+C. Fascino
+D. Maledizione
+Answer: ",B,False
+178,Qual è il tipo di incantesimo chiamato Badgering?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Badgering?
+A. Contro-incantesimo
+B. Trasfigurazione
+C. Trasfigurazione
+D. Contro-Jinx
+Answer: ",B,True
+179,Qual è il tipo di incantesimo chiamato Bat-Bogey Hex?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Bat-Bogey Hex?
+A. Cospirazione
+B. Malocchio
+C. Menagramo
+D. Sconosciuto
+Answer: ",B,True
+180,Qual è il tipo di incantesimo chiamato Maledizione abbagliante?,A,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Maledizione abbagliante?
+A. Malocchio
+B. Contro-incantesimo
+C. Fascino
+D. Contro-Incantesimo
+Answer: ",B,False
+181,Qual è il tipo di incantesimo chiamato Bewitched Snowballs?,C,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Bewitched Snowballs?
+A. Malocchio
+B. Trasporto
+C. Fascino
+D. Trasfigurazione
+Answer: ",B,False
+182,Qual è il tipo di incantesimo chiamato Bluebell Flames?,D,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Bluebell Flames?
+A. Trasfigurazione
+B. Menagramo
+C. Contro-Jinx
+D. Fascino
+Answer: ",B,False
+183,Qual è il tipo di incantesimo chiamato Scintille blu?,C,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Scintille blu?
+A. Contro-incantesimo
+B. Menagramo
+C. Fascino
+D. Maledizione
+Answer: ",B,False
+184,Qual è il tipo di incantesimo chiamato Bombarda?,D,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Bombarda?
+A. Menagramo
+B. Contro-Jinx
+C. Trasfigurazione
+D. Fascino
+Answer: ",B,False
+185,Qual è il tipo di incantesimo chiamato Bombarda Maxima?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Bombarda Maxima?
+A. Sparizione
+B. Fascino
+C. Sconosciuto
+D. Trasfigurazione
+Answer: ",B,True
+186,Qual è il tipo di incantesimo chiamato Amuleto del coraggio?,D,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Amuleto del coraggio?
+A. Compitare
+B. Trasfigurazione
+C. Sparizione
+D. Fascino
+Answer: ",B,False
+187,Qual è il tipo di incantesimo chiamato incantesimo di evocazione del ponte?,C,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato incantesimo di evocazione del ponte?
+A. Contro-Jinx
+B. Menagramo
+C. Fascino
+D. Maledizione
+Answer: ",B,False
+188,Qual è il tipo di incantesimo chiamato Broom jinx?,C,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Broom jinx?
+A. Trasfigurazione
+B. Trasporto
+C. Menagramo
+D. Maledizione
+Answer: ",B,False
+189,Qual è il tipo di incantesimo chiamato Bubble-Head Charm?,A,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Bubble-Head Charm?
+A. Fascino
+B. Malocchio
+C. Contro-Incantesimo
+D. Trasporto
+Answer: ",B,False
+190,Qual è il tipo di incantesimo chiamato Bubble Spell?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Bubble Spell?
+A. Trasfigurazione
+B. Fascino
+C. Contro-fascino
+D. Compitare
+Answer: ",B,True
+191,Qual è il tipo di incantesimo chiamato Calvorio?,D,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Calvorio?
+A. Trasfigurazione
+B. Fascino
+C. Contro-Incantesimo
+D. Maledizione
+Answer: ",B,False
+192,Qual è il tipo di incantesimo chiamato Cantis?,C,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Cantis?
+A. Sparizione
+B. Maledizione
+C. Fascino
+D. Trasfigurazione
+Answer: ",B,False
+193,Qual è il tipo di incantesimo chiamato Capious extremis?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Capious extremis?
+A. Sconosciuto
+B. Fascino
+C. Contro-incantesimo
+D. Trasporto
+Answer: ",B,True
+194,Qual è il tipo di incantesimo chiamato Carpe Retractum?,C,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Carpe Retractum?
+A. Sparizione
+B. Contro-Incantesimo
+C. Fascino
+D. Cospirazione
+Answer: ",B,False
+195,Qual è il tipo di incantesimo chiamato Cascading Jinx?,D,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Cascading Jinx?
+A. Malocchio
+B. Contro-Jinx
+C. Compitare
+D. Menagramo
+Answer: ",B,False
+196,Qual è il tipo di incantesimo chiamato Incantesimo Caterwauling?,D,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Incantesimo Caterwauling?
+A. Contro-fascino
+B. Sconosciuto
+C. Malocchio
+D. Fascino
+Answer: ",B,False
+197,Qual è il tipo di incantesimo chiamato Cave inimicum?,C,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Cave inimicum?
+A. Trasfigurazione
+B. Contro-Incantesimo
+C. Fascino
+D. Malocchio
+Answer: ",B,False
+198,Qual è il tipo di incantesimo chiamato Celescere?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Celescere?
+A. Menagramo
+B. Fascino
+C. Sconosciuto
+D. Compitare
+Answer: ",B,True
+199,Qual è il tipo di incantesimo chiamato Cheering Charm?,D,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Cheering Charm?
+A. Sconosciuto
+B. Compitare
+C. Trasporto
+D. Fascino
+Answer: ",B,False
+200,Qual è il tipo di incantesimo chiamato Circumrota?,D,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Circumrota?
+A. Trasfigurazione
+B. Contro-incantesimo
+C. Menagramo
+D. Fascino
+Answer: ",B,False
+201,Qual è il tipo di incantesimo chiamato Cistem Aperio?,C,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Cistem Aperio?
+A. Malocchio
+B. Trasfigurazione
+C. Fascino
+D. Sconosciuto
+Answer: ",B,False
+202,Qual è il tipo di incantesimo chiamato Colloporto?,C,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Colloporto?
+A. Trasfigurazione
+B. Sparizione
+C. Fascino
+D. Trasfigurazione
+Answer: ",B,False
+203,Qual è il tipo di incantesimo chiamato Colloshoo?,A,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Colloshoo?
+A. Malocchio
+B. Sparizione
+C. Trasporto
+D. Contro-Jinx
+Answer: ",B,False
+204,Qual è il tipo di incantesimo chiamato Colovaria?,C,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Colovaria?
+A. Contro-Incantesimo
+B. Contro-Jinx
+C. Fascino
+D. Menagramo
+Answer: ",B,False
+205,Qual è il tipo di incantesimo chiamato Confringo?,D,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Confringo?
+A. Trasfigurazione
+B. Trasporto
+C. Compitare
+D. Maledizione
+Answer: ",B,False
+206,Qual è il tipo di incantesimo chiamato Confundo?,C,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Confundo?
+A. Sconosciuto
+B. Cospirazione
+C. Fascino
+D. Trasfigurazione
+Answer: ",B,False
+207,Qual è il tipo di incantesimo chiamato Maledizione della congiuntivite?,D,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Maledizione della congiuntivite?
+A. Trasfigurazione
+B. Cospirazione
+C. Fascino
+D. Maledizione
+Answer: ",B,False
+208,Qual è il tipo di incantesimo chiamato Cracker Jinx?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Cracker Jinx?
+A. Sparizione
+B. Menagramo
+C. Fascino
+D. Malocchio
+Answer: ",B,True
+209,Qual è il tipo di incantesimo chiamato Cribbing Spell?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Cribbing Spell?
+A. Malocchio
+B. Compitare
+C. Cospirazione
+D. Fascino
+Answer: ",B,True
+210,Qual è il tipo di incantesimo chiamato Crinus Muto?,A,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Crinus Muto?
+A. Trasfigurazione
+B. Contro-Incantesimo
+C. Contro-fascino
+D. Contro-incantesimo
+Answer: ",B,False
+211,Qual è il tipo di incantesimo chiamato Crucio?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Crucio?
+A. Contro-incantesimo
+B. Maledizione
+C. Trasfigurazione
+D. Trasporto
+Answer: ",B,True
+212,Qual è il tipo di incantesimo chiamato Defodio?,D,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Defodio?
+A. Trasfigurazione
+B. Sconosciuto
+C. Cospirazione
+D. Fascino
+Answer: ",B,False
+213,Qual è il tipo di incantesimo chiamato Deletrius?,C,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Deletrius?
+A. Menagramo
+B. Trasfigurazione
+C. Fascino
+D. Trasporto
+Answer: ",B,False
+214,Qual è il tipo di incantesimo chiamato Densaugeo?,A,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Densaugeo?
+A. Malocchio
+B. Contro-fascino
+C. Trasporto
+D. Trasfigurazione
+Answer: ",B,False
+215,Qual è il tipo di incantesimo chiamato Deprimo?,D,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Deprimo?
+A. Contro-incantesimo
+B. Cospirazione
+C. Contro-Jinx
+D. Fascino
+Answer: ",B,False
+216,Qual è il tipo di incantesimo chiamato Depulso?,C,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Depulso?
+A. Sparizione
+B. Trasfigurazione
+C. Fascino
+D. Contro-incantesimo
+Answer: ",B,False
+217,Qual è il tipo di incantesimo chiamato Descendo?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Descendo?
+A. Trasfigurazione
+B. Fascino
+C. Contro-Incantesimo
+D. Menagramo
+Answer: ",B,True
+218,Qual è il tipo di incantesimo chiamato Maledizione del Deterioramento?,A,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Maledizione del Deterioramento?
+A. Malocchio
+B. Contro-Incantesimo
+C. Compitare
+D. Contro-fascino
+Answer: ",B,False
+219,Qual è il tipo di incantesimo chiamato Diffindo?,D,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Diffindo?
+A. Sparizione
+B. Trasporto
+C. Maledizione
+D. Fascino
+Answer: ",B,False
+220,Qual è il tipo di incantesimo chiamato Diminuendo?,D,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Diminuendo?
+A. Trasporto
+B. Trasfigurazione
+C. Maledizione
+D. Fascino
+Answer: ",B,False
+221,Qual è il tipo di incantesimo chiamato Dissendium?,A,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Dissendium?
+A. Fascino
+B. Contro-incantesimo
+C. Trasporto
+D. Trasfigurazione
+Answer: ",B,False
+222,Qual è il tipo di incantesimo chiamato Incantesimo della Disillusione?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Incantesimo della Disillusione?
+A. Sparizione
+B. Fascino
+C. Trasfigurazione
+D. Menagramo
+Answer: ",B,True
+223,Qual è il tipo di incantesimo chiamato Draconifors?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Draconifors?
+A. Contro-fascino
+B. Trasfigurazione
+C. Cospirazione
+D. Maledizione
+Answer: ",B,True
+224,Qual è il tipo di incantesimo chiamato Drought Charm?,D,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Drought Charm?
+A. Trasporto
+B. Contro-fascino
+C. Trasfigurazione
+D. Fascino
+Answer: ",B,False
+225,Qual è il tipo di incantesimo chiamato Duro?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Duro?
+A. Contro-incantesimo
+B. Fascino
+C. Compitare
+D. Contro-fascino
+Answer: ",B,True
+226,Qual è il tipo di incantesimo chiamato Maledizione che raggrinzisce le orecchie?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Maledizione che raggrinzisce le orecchie?
+A. Compitare
+B. Maledizione
+C. Trasfigurazione
+D. Sparizione
+Answer: ",B,True
+227,Qual è il tipo di incantesimo chiamato Ebublio?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Ebublio?
+A. Sparizione
+B. Menagramo
+C. Trasfigurazione
+D. Contro-Incantesimo
+Answer: ",B,True
+228,Qual è il tipo di incantesimo chiamato Engorgio?,D,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Engorgio?
+A. Trasfigurazione
+B. Contro-Jinx
+C. Trasporto
+D. Fascino
+Answer: ",B,False
+229,Qual è il tipo di incantesimo chiamato Maledizione dell'Espulsione delle Viscere?,A,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Maledizione dell'Espulsione delle Viscere?
+A. Maledizione
+B. Compitare
+C. Sconosciuto
+D. Sparizione
+Answer: ",B,False
+230,Qual è il tipo di incantesimo chiamato Epossidico?,C,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Epossidico?
+A. Compitare
+B. Contro-Jinx
+C. Trasfigurazione
+D. Maledizione
+Answer: ",B,False
+231,Qual è il tipo di incantesimo chiamato Erecto?,D,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Erecto?
+A. Trasporto
+B. Contro-fascino
+C. Malocchio
+D. Fascino
+Answer: ",B,False
+232,Qual è il tipo di incantesimo chiamato Evanesce?,C,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Evanesce?
+A. Contro-incantesimo
+B. Malocchio
+C. Trasfigurazione
+D. Menagramo
+Answer: ",B,False
+233,Qual è il tipo di incantesimo chiamato Evanesco?,C,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Evanesco?
+A. Sparizione
+B. Trasfigurazione
+C. Trasfigurazione
+D. Trasporto
+Answer: ",A,False
+234,Qual è il tipo di incantesimo chiamato Everte Statum?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Everte Statum?
+A. Contro-fascino
+B. Compitare
+C. Cospirazione
+D. Malocchio
+Answer: ",B,True
+235,Qual è il tipo di incantesimo chiamato Expecto Patronum?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Expecto Patronum?
+A. Sparizione
+B. Fascino
+C. Cospirazione
+D. Malocchio
+Answer: ",A,False
+236,Qual è il tipo di incantesimo chiamato Expelliarmus?,A,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Expelliarmus?
+A. Fascino
+B. Malocchio
+C. Trasfigurazione
+D. Contro-Incantesimo
+Answer: ",B,False
+237,Qual è il tipo di incantesimo chiamato Expulso?,A,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Expulso?
+A. Maledizione
+B. Fascino
+C. Sparizione
+D. Contro-incantesimo
+Answer: ",B,False
+238,Qual è il tipo di incantesimo chiamato Incantesimo di Estinzione?,A,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Incantesimo di Estinzione?
+A. Fascino
+B. Contro-incantesimo
+C. Contro-Incantesimo
+D. Maledizione
+Answer: ",B,False
+239,Qual è il tipo di incantesimo chiamato Amuleto leggero come una piuma?,A,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Amuleto leggero come una piuma?
+A. Fascino
+B. Contro-incantesimo
+C. Malocchio
+D. Contro-fascino
+Answer: ",B,False
+240,Qual è il tipo di incantesimo chiamato Fianto Duri?,A,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Fianto Duri?
+A. Fascino
+B. Menagramo
+C. Trasfigurazione
+D. Compitare
+Answer: ",B,False
+241,Qual è il tipo di incantesimo chiamato Fidelius Charm?,A,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Fidelius Charm?
+A. Fascino
+B. Sparizione
+C. Contro-Incantesimo
+D. Contro-incantesimo
+Answer: ",B,False
+242,Qual è il tipo di incantesimo chiamato Fiendfyre?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Fiendfyre?
+A. Trasfigurazione
+B. Maledizione
+C. Malocchio
+D. Menagramo
+Answer: ",B,True
+243,Qual è il tipo di incantesimo chiamato Finestra?,A,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Finestra?
+A. Fascino
+B. Cospirazione
+C. Malocchio
+D. Contro-Jinx
+Answer: ",B,False
+244,Qual è il tipo di incantesimo chiamato Finite Incantatem?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Finite Incantatem?
+A. Sconosciuto
+B. Contro-incantesimo
+C. Compitare
+D. Menagramo
+Answer: ",B,True
+245,Qual è il tipo di incantesimo chiamato Finger-removing jinx?,C,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Finger-removing jinx?
+A. Contro-incantesimo
+B. Trasporto
+C. Menagramo
+D. Fascino
+Answer: ",B,False
+246,Qual è il tipo di incantesimo chiamato Tempesta di fuoco?,C,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Tempesta di fuoco?
+A. Compitare
+B. Trasporto
+C. Fascino
+D. Contro-incantesimo
+Answer: ",B,False
+247,Qual è il tipo di incantesimo chiamato Maledizione Flagrante?,D,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Maledizione Flagrante?
+A. Sconosciuto
+B. Compitare
+C. Trasfigurazione
+D. Maledizione
+Answer: ",B,False
+248,Qual è il tipo di incantesimo chiamato Flagrate?,A,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Flagrate?
+A. Fascino
+B. Cospirazione
+C. Contro-incantesimo
+D. Sparizione
+Answer: ",B,False
+249,Qual è il tipo di incantesimo chiamato Amuleto Congelante della Fiamma?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Amuleto Congelante della Fiamma?
+A. Compitare
+B. Fascino
+C. Malocchio
+D. Sconosciuto
+Answer: ",B,True
+250,Qual è il tipo di incantesimo chiamato incantesimo di evocazione della fiasca?,D,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato incantesimo di evocazione della fiasca?
+A. Contro-Jinx
+B. Maledizione
+C. Sparizione
+D. Cospirazione
+Answer: ",B,False
+251,Qual è il tipo di incantesimo chiamato Flintifors?,C,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Flintifors?
+A. Trasfigurazione
+B. Contro-Jinx
+C. Trasfigurazione
+D. Contro-Incantesimo
+Answer: ",B,False
+252,Qual è il tipo di incantesimo chiamato Flipendo?,C,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Flipendo?
+A. Maledizione
+B. Sparizione
+C. Menagramo
+D. Fascino
+Answer: ",B,False
+253,Qual è il tipo di incantesimo chiamato Flipendo Duo?,A,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Flipendo Duo?
+A. Menagramo
+B. Contro-incantesimo
+C. Cospirazione
+D. Contro-fascino
+Answer: ",B,False
+254,Qual è il tipo di incantesimo chiamato Flipendo Maxima?,A,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Flipendo Maxima?
+A. Menagramo
+B. Sconosciuto
+C. Sparizione
+D. Maledizione
+Answer: ",B,False
+255,Qual è il tipo di incantesimo chiamato Flipendo Tria?,A,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Flipendo Tria?
+A. Menagramo
+B. Contro-Jinx
+C. Trasporto
+D. Sconosciuto
+Answer: ",B,False
+256,Qual è il tipo di incantesimo chiamato Amuleto volante?,A,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Amuleto volante?
+A. Fascino
+B. Menagramo
+C. Sconosciuto
+D. Contro-Jinx
+Answer: ",B,False
+257,Qual è il tipo di incantesimo chiamato Fracto Strata?,A,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Fracto Strata?
+A. Compitare
+B. Contro-Incantesimo
+C. Trasporto
+D. Fascino
+Answer: ",B,False
+258,Qual è il tipo di incantesimo chiamato Fumos?,D,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Fumos?
+A. Contro-fascino
+B. Sparizione
+C. Menagramo
+D. Fascino
+Answer: ",B,False
+259,Qual è il tipo di incantesimo chiamato Fumos Duo?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Fumos Duo?
+A. Contro-Incantesimo
+B. Fascino
+C. Malocchio
+D. Compitare
+Answer: ",B,True
+260,Qual è il tipo di incantesimo chiamato Furnunculus?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Furnunculus?
+A. Malocchio
+B. Menagramo
+C. Fascino
+D. Contro-fascino
+Answer: ",B,True
+261,Qual è il tipo di incantesimo chiamato incantesimo Pelliccia?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato incantesimo Pelliccia?
+A. Compitare
+B. Fascino
+C. Maledizione
+D. Malocchio
+Answer: ",B,True
+262,Qual è il tipo di incantesimo chiamato Geminio?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Geminio?
+A. Sparizione
+B. Fascino
+C. Maledizione
+D. Contro-Jinx
+Answer: ",B,True
+263,Qual è il tipo di incantesimo chiamato Glacius?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Glacius?
+A. Trasporto
+B. Fascino
+C. Contro-fascino
+D. Contro-Jinx
+Answer: ",B,True
+264,Qual è il tipo di incantesimo chiamato Glacius Duo?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Glacius Duo?
+A. Compitare
+B. Fascino
+C. Sconosciuto
+D. Trasporto
+Answer: ",B,True
+265,Qual è il tipo di incantesimo chiamato Glacius Tria?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Glacius Tria?
+A. Malocchio
+B. Fascino
+C. Contro-fascino
+D. Contro-incantesimo
+Answer: ",B,True
+266,Qual è il tipo di incantesimo chiamato Glisseo?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Glisseo?
+A. Sparizione
+B. Fascino
+C. Sconosciuto
+D. Maledizione
+Answer: ",B,True
+267,Qual è il tipo di incantesimo chiamato Amuleto di presa?,D,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Amuleto di presa?
+A. Malocchio
+B. Sparizione
+C. Cospirazione
+D. Fascino
+Answer: ",B,False
+268,Qual è il tipo di incantesimo chiamato Amuleto ispessimento dei capelli?,C,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Amuleto ispessimento dei capelli?
+A. Maledizione
+B. Sconosciuto
+C. Fascino
+D. Trasfigurazione
+Answer: ",B,False
+269,Qual è il tipo di incantesimo chiamato Herbifors?,A,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Herbifors?
+A. Trasfigurazione
+B. Contro-fascino
+C. Malocchio
+D. Compitare
+Answer: ",B,False
+270,Qual è il tipo di incantesimo chiamato Herbivicus?,A,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Herbivicus?
+A. Fascino
+B. Malocchio
+C. Contro-Jinx
+D. Sparizione
+Answer: ",B,False
+271,Qual è il tipo di incantesimo chiamato Homenum Revelio?,D,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Homenum Revelio?
+A. Sconosciuto
+B. Trasfigurazione
+C. Maledizione
+D. Fascino
+Answer: ",B,False
+272,Qual è il tipo di incantesimo chiamato Incantesimo Omonicola?,D,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Incantesimo Omonicola?
+A. Contro-incantesimo
+B. Contro-Jinx
+C. Trasfigurazione
+D. Fascino
+Answer: ",B,False
+273,Qual è il tipo di incantesimo chiamato Hurling Hex?,C,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Hurling Hex?
+A. Cospirazione
+B. Trasfigurazione
+C. Malocchio
+D. Maledizione
+Answer: ",B,False
+274,Qual è il tipo di incantesimo chiamato Impedimenta?,A,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Impedimenta?
+A. Menagramo
+B. Contro-incantesimo
+C. Fascino
+D. Sconosciuto
+Answer: ",B,False
+275,Qual è il tipo di incantesimo chiamato Imperio?,D,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Imperio?
+A. Contro-fascino
+B. Contro-Jinx
+C. Trasfigurazione
+D. Maledizione
+Answer: ",B,False
+276,Qual è il tipo di incantesimo chiamato Inanimatus Conjurus?,A,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Inanimatus Conjurus?
+A. Trasfigurazione
+B. Fascino
+C. Sparizione
+D. Cospirazione
+Answer: ",B,False
+277,Qual è il tipo di incantesimo chiamato Incarcerous?,D,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Incarcerous?
+A. Malocchio
+B. Compitare
+C. Contro-Incantesimo
+D. Cospirazione
+Answer: ",B,False
+278,Qual è il tipo di incantesimo chiamato Inflatus?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Inflatus?
+A. Fascino
+B. Menagramo
+C. Contro-Jinx
+D. Contro-Incantesimo
+Answer: ",B,True
+279,Qual è il tipo di incantesimo chiamato Jelly-Brain Jinx?,A,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Jelly-Brain Jinx?
+A. Menagramo
+B. Contro-Jinx
+C. Trasfigurazione
+D. Cospirazione
+Answer: ",B,False
+280,Qual è il tipo di incantesimo chiamato Maledizione delle dita di gelatina?,C,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Maledizione delle dita di gelatina?
+A. Fascino
+B. Contro-incantesimo
+C. Maledizione
+D. Contro-fascino
+Answer: ",B,False
+281,Qual è il tipo di incantesimo chiamato Maledizione inversione del ginocchio?,A,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Maledizione inversione del ginocchio?
+A. Malocchio
+B. Sconosciuto
+C. Maledizione
+D. Fascino
+Answer: ",B,False
+282,Qual è il tipo di incantesimo chiamato Langlock?,A,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Langlock?
+A. Menagramo
+B. Malocchio
+C. Trasfigurazione
+D. Contro-Incantesimo
+Answer: ",B,False
+283,Qual è il tipo di incantesimo chiamato Lapifors?,A,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Lapifors?
+A. Trasfigurazione
+B. Contro-Jinx
+C. Cospirazione
+D. Sparizione
+Answer: ",B,False
+284,Qual è il tipo di incantesimo chiamato Leek Jinx?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Leek Jinx?
+A. Cospirazione
+B. Menagramo
+C. Maledizione
+D. Contro-Incantesimo
+Answer: ",B,True
+285,Qual è il tipo di incantesimo chiamato Levicorpus?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Levicorpus?
+A. Fascino
+B. Menagramo
+C. Maledizione
+D. Sparizione
+Answer: ",B,True
+286,Qual è il tipo di incantesimo chiamato Liberacorpus?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Liberacorpus?
+A. Cospirazione
+B. Contro-Jinx
+C. Sconosciuto
+D. Contro-incantesimo
+Answer: ",B,True
+287,Qual è il tipo di incantesimo chiamato Mortis locomotore?,C,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Mortis locomotore?
+A. Contro-fascino
+B. Sconosciuto
+C. Maledizione
+D. Trasfigurazione
+Answer: ",B,False
+288,Qual è il tipo di incantesimo chiamato Melofors?,A,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Melofors?
+A. Menagramo
+B. Contro-Jinx
+C. Contro-fascino
+D. Trasporto
+Answer: ",B,False
+289,Qual è il tipo di incantesimo chiamato Meteolojinx recanto?,D,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Meteolojinx recanto?
+A. Trasfigurazione
+B. Menagramo
+C. Compitare
+D. Contro-Incantesimo
+Answer: ",B,False
+290,Qual è il tipo di incantesimo chiamato Mimblewimble?,A,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Mimblewimble?
+A. Maledizione
+B. Contro-Jinx
+C. Menagramo
+D. Sconosciuto
+Answer: ",B,False
+291,Qual è il tipo di incantesimo chiamato Multicorfors?,C,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Multicorfors?
+A. Contro-incantesimo
+B. Contro-Incantesimo
+C. Trasfigurazione
+D. Sconosciuto
+Answer: ",B,False
+292,Qual è il tipo di incantesimo chiamato Obscuro?,A,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Obscuro?
+A. Cospirazione
+B. Compitare
+C. Malocchio
+D. Trasporto
+Answer: ",B,False
+293,Qual è il tipo di incantesimo chiamato Oppugno?,A,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Oppugno?
+A. Menagramo
+B. Malocchio
+C. Sconosciuto
+D. Contro-fascino
+Answer: ",B,False
+294,Qual è il tipo di incantesimo chiamato Orbis?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Orbis?
+A. Compitare
+B. Menagramo
+C. Fascino
+D. Trasporto
+Answer: ",B,True
+295,Qual è il tipo di incantesimo chiamato Orchideo?,C,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Orchideo?
+A. Contro-Jinx
+B. Menagramo
+C. Cospirazione
+D. Contro-Incantesimo
+Answer: ",B,False
+296,Qual è il tipo di incantesimo chiamato Pepper Breath?,C,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Pepper Breath?
+A. Contro-Incantesimo
+B. Trasporto
+C. Malocchio
+D. Sconosciuto
+Answer: ",B,False
+297,Qual è il tipo di incantesimo chiamato Petrificus Totalus?,B,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Petrificus Totalus?
+A. Compitare
+B. Maledizione
+C. Contro-fascino
+D. Trasporto
+Answer: ",B,True
+298,Qual è il tipo di incantesimo chiamato Piscifors?,C,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Piscifors?
+A. Contro-Incantesimo
+B. Trasfigurazione
+C. Trasfigurazione
+D. Menagramo
+Answer: ",B,False
+299,Qual è il tipo di incantesimo chiamato Point Me?,A,"Di seguito sono riportate domande a scelta multipla (con risposte) su Harry Potter.
+
+Qual è il tipo di incantesimo chiamato Point Me?
+A. Compitare
+B. Contro-Incantesimo
+C. Trasporto
+D. Menagramo
+Answer: ",B,False

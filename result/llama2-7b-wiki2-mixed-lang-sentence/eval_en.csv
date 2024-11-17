@@ -1,0 +1,2401 @@
+,question,gt_ans,prompt,ans,correct
+0,What is the gender of Harry Potter?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the gender of Harry Potter?
+A. Female
+B. Male
+C. Unknown
+D. None of above
+Answer: ",B,True
+1,What is the gender of Lily J. Potter?,A,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the gender of Lily J. Potter?
+A. Female
+B. Male
+C. Unknown
+D. None of above
+Answer: ",A,True
+2,What is the gender of James Potter I?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the gender of James Potter I?
+A. Female
+B. Male
+C. Unknown
+D. None of above
+Answer: ",B,True
+3,What is the gender of Ron Weasley?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the gender of Ron Weasley?
+A. Female
+B. Male
+C. Unknown
+D. None of above
+Answer: ",B,True
+4,What is the gender of Hermione Granger?,A,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the gender of Hermione Granger?
+A. Female
+B. Male
+C. Unknown
+D. None of above
+Answer: ",A,True
+5,What is the gender of Cho Chang?,A,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the gender of Cho Chang?
+A. Female
+B. Male
+C. Unknown
+D. None of above
+Answer: ",A,True
+6,What is the gender of Albus Potter?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the gender of Albus Potter?
+A. Female
+B. Male
+C. Unknown
+D. None of above
+Answer: ",B,True
+7,What is the gender of Petunia Dursley?,A,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the gender of Petunia Dursley?
+A. Female
+B. Male
+C. Unknown
+D. None of above
+Answer: ",A,True
+8,What is the gender of Dudley Dursley?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the gender of Dudley Dursley?
+A. Female
+B. Male
+C. Unknown
+D. None of above
+Answer: ",B,True
+9,What is the gender of William Weasley?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the gender of William Weasley?
+A. Female
+B. Male
+C. Unknown
+D. None of above
+Answer: ",B,True
+10,What is the gender of Charles Weasley?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the gender of Charles Weasley?
+A. Female
+B. Male
+C. Unknown
+D. None of above
+Answer: ",B,True
+11,What is the gender of Arthur Weasley?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the gender of Arthur Weasley?
+A. Female
+B. Male
+C. Unknown
+D. None of above
+Answer: ",B,True
+12,What is the gender of Cedric Diggory ?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the gender of Cedric Diggory ?
+A. Female
+B. Male
+C. Unknown
+D. None of above
+Answer: ",B,True
+13,What is the gender of Roger Davies ?,A,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the gender of Roger Davies ?
+A. Female
+B. Male
+C. Unknown
+D. None of above
+Answer: ",B,False
+14,What is the gender of Aberforth Dumbledore?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the gender of Aberforth Dumbledore?
+A. Female
+B. Male
+C. Unknown
+D. None of above
+Answer: ",B,True
+15,What is the gender of Ariana Dumbledore?,A,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the gender of Ariana Dumbledore?
+A. Female
+B. Male
+C. Unknown
+D. None of above
+Answer: ",A,True
+16,What is the gender of Percival Dumbledore?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the gender of Percival Dumbledore?
+A. Female
+B. Male
+C. Unknown
+D. None of above
+Answer: ",B,True
+17,What is the gender of Kendra Dumbledore?,A,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the gender of Kendra Dumbledore?
+A. Female
+B. Male
+C. Unknown
+D. None of above
+Answer: ",A,True
+18,What is the gender of Draco Malfoy?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the gender of Draco Malfoy?
+A. Female
+B. Male
+C. Unknown
+D. None of above
+Answer: ",B,True
+19,What is the gender of Lucius Malfoy?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the gender of Lucius Malfoy?
+A. Female
+B. Male
+C. Unknown
+D. None of above
+Answer: ",B,True
+20,What is the gender of Narcissa Malfoy?,A,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the gender of Narcissa Malfoy?
+A. Female
+B. Male
+C. Unknown
+D. None of above
+Answer: ",A,True
+21,What is the gender of Scorpius Malfoy?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the gender of Scorpius Malfoy?
+A. Female
+B. Male
+C. Unknown
+D. None of above
+Answer: ",B,True
+22,What is the gender of Astoria Malfoy?,A,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the gender of Astoria Malfoy?
+A. Female
+B. Male
+C. Unknown
+D. None of above
+Answer: ",A,True
+23,What is the hair color of Harry Potter?,C,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the hair color of Harry Potter?
+A. Blonde
+B. Brown
+C. Black
+D. Dark
+Answer: ",B,False
+24,What is the hair color of Lily J. Potter?,D,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the hair color of Lily J. Potter?
+A. Black
+B. Dark
+C. Brown
+D. Red
+Answer: ",B,False
+25,What is the hair color of James Potter I?,C,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the hair color of James Potter I?
+A. Silver
+B. Brown
+C. Black
+D. Dark
+Answer: ",B,False
+26,What is the hair color of Ron Weasley?,A,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the hair color of Ron Weasley?
+A. Red
+B. Brown
+C. Blonde
+D. Black
+Answer: ",B,False
+27,What is the hair color of Hermione Granger?,D,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the hair color of Hermione Granger?
+A. Red
+B. Silver
+C. Blonde
+D. Brown
+Answer: ",B,False
+28,What is the hair color of Cho Chang?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the hair color of Cho Chang?
+A. Blonde
+B. Black
+C. Brown
+D. Dark
+Answer: ",B,True
+29,What is the hair color of Albus Potter?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the hair color of Albus Potter?
+A. Red
+B. Black
+C. Blonde
+D. Brown
+Answer: ",B,True
+30,What is the hair color of Petunia Dursley?,C,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the hair color of Petunia Dursley?
+A. Dark
+B. Silver
+C. Blonde
+D. Brown
+Answer: ",B,False
+31,What is the hair color of Dudley Dursley?,C,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the hair color of Dudley Dursley?
+A. Dark
+B. Brown
+C. Blonde
+D. Red
+Answer: ",B,False
+32,What is the hair color of William Weasley?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the hair color of William Weasley?
+A. Blonde
+B. Red
+C. Dark
+D. Silver
+Answer: ",B,True
+33,What is the hair color of Charles Weasley?,C,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the hair color of Charles Weasley?
+A. Dark
+B. Silver
+C. Red
+D. Black
+Answer: ",B,False
+34,What is the hair color of Arthur Weasley?,A,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the hair color of Arthur Weasley?
+A. Red
+B. Black
+C. Dark
+D. Blonde
+Answer: ",B,False
+35,What is the hair color of Cedric Diggory ?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the hair color of Cedric Diggory ?
+A. Silver
+B. Dark
+C. Brown
+D. Blonde
+Answer: ",B,True
+36,What is the hair color of Roger Davies ?,C,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the hair color of Roger Davies ?
+A. Dark
+B. Silver
+C. Brown
+D. Black
+Answer: ",B,False
+37,What is the hair color of Aberforth Dumbledore?,C,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the hair color of Aberforth Dumbledore?
+A. Dark
+B. Blonde
+C. Silver
+D. Red
+Answer: ",B,False
+38,What is the hair color of Ariana Dumbledore?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the hair color of Ariana Dumbledore?
+A. Black
+B. Blonde
+C. Dark
+D. Red
+Answer: ",B,True
+39,What is the hair color of Kendra Dumbledore?,D,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the hair color of Kendra Dumbledore?
+A. Silver
+B. Red
+C. Brown
+D. Black
+Answer: ",B,False
+40,What is the hair color of Draco Malfoy?,D,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the hair color of Draco Malfoy?
+A. Red
+B. Silver
+C. Dark
+D. Blonde
+Answer: ",B,False
+41,What is the hair color of Lucius Malfoy?,D,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the hair color of Lucius Malfoy?
+A. Brown
+B. Black
+C. Red
+D. Blonde
+Answer: ",B,False
+42,What is the hair color of Narcissa Malfoy?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the hair color of Narcissa Malfoy?
+A. Brown
+B. Blonde
+C. Red
+D. Dark
+Answer: ",B,True
+43,What is the hair color of Scorpius Malfoy?,D,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the hair color of Scorpius Malfoy?
+A. Silver
+B. Dark
+C. Black
+D. Blonde
+Answer: ",B,False
+44,Which house is Harry Potter belong to?,C,"The following are multiple choice questions (with answers) about Harry Potter.
+
+Which house is Harry Potter belong to?
+A. Ravenclaw
+B. Slytherin
+C. Gryffindor
+D. Hufflepuff
+Answer: ",C,True
+45,Which house is James Potter I belong to?,C,"The following are multiple choice questions (with answers) about Harry Potter.
+
+Which house is James Potter I belong to?
+A. Ravenclaw
+B. Slytherin
+C. Gryffindor
+D. Hufflepuff
+Answer: ",B,False
+46,Which house is Ron Weasley belong to?,C,"The following are multiple choice questions (with answers) about Harry Potter.
+
+Which house is Ron Weasley belong to?
+A. Ravenclaw
+B. Slytherin
+C. Gryffindor
+D. Hufflepuff
+Answer: ",C,True
+47,Which house is Hermione Granger belong to?,C,"The following are multiple choice questions (with answers) about Harry Potter.
+
+Which house is Hermione Granger belong to?
+A. Ravenclaw
+B. Slytherin
+C. Gryffindor
+D. Hufflepuff
+Answer: ",C,True
+48,Which house is Cho Chang belong to?,A,"The following are multiple choice questions (with answers) about Harry Potter.
+
+Which house is Cho Chang belong to?
+A. Ravenclaw
+B. Slytherin
+C. Gryffindor
+D. Hufflepuff
+Answer: ",C,False
+49,Which house is Albus Potter belong to?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+Which house is Albus Potter belong to?
+A. Ravenclaw
+B. Slytherin
+C. Gryffindor
+D. Hufflepuff
+Answer: ",C,False
+50,Which house is Charles Weasley belong to?,C,"The following are multiple choice questions (with answers) about Harry Potter.
+
+Which house is Charles Weasley belong to?
+A. Ravenclaw
+B. Slytherin
+C. Gryffindor
+D. Hufflepuff
+Answer: ",C,True
+51,Which house is Arthur Weasley belong to?,C,"The following are multiple choice questions (with answers) about Harry Potter.
+
+Which house is Arthur Weasley belong to?
+A. Ravenclaw
+B. Slytherin
+C. Gryffindor
+D. Hufflepuff
+Answer: ",C,True
+52,Which house is Cedric Diggory  belong to?,D,"The following are multiple choice questions (with answers) about Harry Potter.
+
+Which house is Cedric Diggory  belong to?
+A. Ravenclaw
+B. Slytherin
+C. Gryffindor
+D. Hufflepuff
+Answer: ",C,False
+53,Which house is Roger Davies  belong to?,A,"The following are multiple choice questions (with answers) about Harry Potter.
+
+Which house is Roger Davies  belong to?
+A. Ravenclaw
+B. Slytherin
+C. Gryffindor
+D. Hufflepuff
+Answer: ",B,False
+54,Which house is Aberforth Dumbledore belong to?,C,"The following are multiple choice questions (with answers) about Harry Potter.
+
+Which house is Aberforth Dumbledore belong to?
+A. Ravenclaw
+B. Slytherin
+C. Gryffindor
+D. Hufflepuff
+Answer: ",C,True
+55,Which house is Draco Malfoy belong to?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+Which house is Draco Malfoy belong to?
+A. Ravenclaw
+B. Slytherin
+C. Gryffindor
+D. Hufflepuff
+Answer: ",B,True
+56,Which house is Lucius Malfoy belong to?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+Which house is Lucius Malfoy belong to?
+A. Ravenclaw
+B. Slytherin
+C. Gryffindor
+D. Hufflepuff
+Answer: ",B,True
+57,Which house is Narcissa Malfoy belong to?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+Which house is Narcissa Malfoy belong to?
+A. Ravenclaw
+B. Slytherin
+C. Gryffindor
+D. Hufflepuff
+Answer: ",B,True
+58,Which house is Scorpius Malfoy belong to?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+Which house is Scorpius Malfoy belong to?
+A. Ravenclaw
+B. Slytherin
+C. Gryffindor
+D. Hufflepuff
+Answer: ",B,True
+59,What is the relationship of James Potter I to Harry Potter?,C,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the relationship of James Potter I to Harry Potter?
+A. Son
+B. Grandson
+C. Father
+D. Sister
+Answer: ",B,False
+60,Who is the father of Harry Potter?,D,"The following are multiple choice questions (with answers) about Harry Potter.
+
+Who is the father of Harry Potter?
+A. Petunia Dursley
+B. Euphemia Potter
+C. Astoria Malfoy
+D. James Potter I
+Answer: ",B,False
+61,What is the relationship of Lily J. Potter to Harry Potter?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the relationship of Lily J. Potter to Harry Potter?
+A. Friend
+B. Mother
+C. Husband
+D. Nephew
+Answer: ",B,True
+62,Who is the mother of Harry Potter?,D,"The following are multiple choice questions (with answers) about Harry Potter.
+
+Who is the mother of Harry Potter?
+A. Harry Potter
+B. Aberforth Dumbledore
+C. Ron Weasley
+D. Lily J. Potter
+Answer: ",D,True
+63,What is the relationship of Ron Weasley to Harry Potter?,C,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the relationship of Ron Weasley to Harry Potter?
+A. Father
+B. Grandson
+C. Friend
+D. Sister
+Answer: ",C,True
+64,Who is the friend of Harry Potter?,C,"The following are multiple choice questions (with answers) about Harry Potter.
+
+Who is the friend of Harry Potter?
+A. Petunia Dursley
+B. Astoria Malfoy
+C. Ron Weasley
+D. Charles Weasley
+Answer: ",B,False
+65,What is the relationship of Hermione Granger to Harry Potter?,A,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the relationship of Hermione Granger to Harry Potter?
+A. Friend
+B. Aunt
+C. Daughter
+D. Wife
+Answer: ",A,True
+66,Who is the friend of Harry Potter?,C,"The following are multiple choice questions (with answers) about Harry Potter.
+
+Who is the friend of Harry Potter?
+A. Lucius Malfoy
+B. Lily J. Potter
+C. Hermione Granger
+D. Harry Potter
+Answer: ",D,False
+67,What is the relationship of James Potter to Lily J. Potter?,D,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the relationship of James Potter to Lily J. Potter?
+A. Brother
+B. Nephew
+C. Mother
+D. Husband
+Answer: ",B,False
+68,What is the relationship of Harry Potter to Lily J. Potter?,C,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the relationship of Harry Potter to Lily J. Potter?
+A. Mother
+B. Nephew
+C. Son
+D. Friend
+Answer: ",A,False
+69,Who is the son of Lily J. Potter?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+Who is the son of Lily J. Potter?
+A. Albus Potter
+B. Harry Potter
+C. Percival Dumbledore
+D. Charles Weasley
+Answer: ",A,False
+70,What is the relationship of Albus Potter to Lily J. Potter?,A,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the relationship of Albus Potter to Lily J. Potter?
+A. Grandson
+B. Brother
+C. Husband
+D. Daughter
+Answer: ",B,False
+71,Who is the grandson of Lily J. Potter?,A,"The following are multiple choice questions (with answers) about Harry Potter.
+
+Who is the grandson of Lily J. Potter?
+A. Albus Potter
+B. Lucius Malfoy
+C. Draco Malfoy
+D. Percival Dumbledore
+Answer: ",A,True
+72,What is the relationship of Petunia Dursley to Lily J. Potter?,D,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the relationship of Petunia Dursley to Lily J. Potter?
+A. Aunt
+B. Daughter
+C. Husband
+D. Sister
+Answer: ",B,False
+73,Who is the sister of Lily J. Potter?,C,"The following are multiple choice questions (with answers) about Harry Potter.
+
+Who is the sister of Lily J. Potter?
+A. Aberforth Dumbledore
+B. Fleamont Potter
+C. Petunia Dursley
+D. Ariana Dumbledore
+Answer: ",C,True
+74,What is the relationship of Dudley Dursley to Lily J. Potter?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the relationship of Dudley Dursley to Lily J. Potter?
+A. Grandson
+B. Nephew
+C. Husband
+D. Mother
+Answer: ",B,True
+75,Who is the nephew of Lily J. Potter?,D,"The following are multiple choice questions (with answers) about Harry Potter.
+
+Who is the nephew of Lily J. Potter?
+A. James Potter I
+B. Harry Potter
+C. Charles Weasley
+D. Dudley Dursley
+Answer: ",B,False
+76,What is the relationship of Harry Potter to James Potter I?,D,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the relationship of Harry Potter to James Potter I?
+A. Nephew
+B. Grandson
+C. Sister
+D. Son
+Answer: ",B,False
+77,Who is the son of James Potter I?,C,"The following are multiple choice questions (with answers) about Harry Potter.
+
+Who is the son of James Potter I?
+A. Arthur Weasley
+B. Astoria Malfoy
+C. Harry Potter
+D. Albus Potter
+Answer: ",C,True
+78,What is the relationship of Lily J. Potter to James Potter I?,D,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the relationship of Lily J. Potter to James Potter I?
+A. Aunt
+B. Grandmother
+C. Nephew
+D. Wife
+Answer: ",B,False
+79,Who is the wife of James Potter I?,C,"The following are multiple choice questions (with answers) about Harry Potter.
+
+Who is the wife of James Potter I?
+A. James Potter I
+B. William Weasley
+C. Lily J. Potter
+D. Arthur Weasley
+Answer: ",C,True
+80,What is the relationship of Fleamont Potter to James Potter I?,D,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the relationship of Fleamont Potter to James Potter I?
+A. Nephew
+B. Wife
+C. Mother
+D. Father
+Answer: ",B,False
+81,Who is the father of James Potter I?,C,"The following are multiple choice questions (with answers) about Harry Potter.
+
+Who is the father of James Potter I?
+A. Albus Potter
+B. Ron Weasley
+C. Fleamont Potter
+D. Aberforth Dumbledore
+Answer: ",C,True
+82,What is the relationship of Euphemia Potter to James Potter I?,D,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the relationship of Euphemia Potter to James Potter I?
+A. Sister
+B. Friend
+C. Grandmother
+D. Mother
+Answer: ",B,False
+83,Who is the mother of James Potter I?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+Who is the mother of James Potter I?
+A. Ron Weasley
+B. Euphemia Potter
+C. Lucius Malfoy
+D. Ariana Dumbledore
+Answer: ",B,True
+84,What is the relationship of Albus Potter to James Potter I?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the relationship of Albus Potter to James Potter I?
+A. Aunt
+B. Grandson
+C. Brother
+D. Friend
+Answer: ",B,True
+85,Who is the grandson of James Potter I?,A,"The following are multiple choice questions (with answers) about Harry Potter.
+
+Who is the grandson of James Potter I?
+A. Albus Potter
+B. Cho Chang
+C. Hermione Granger
+D. Percival Dumbledore
+Answer: ",A,True
+86,What is the relationship of William Weasley to Ron Weasley?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the relationship of William Weasley to Ron Weasley?
+A. Son
+B. Brother
+C. Grandmother
+D. Wife
+Answer: ",B,True
+87,Who is the brother of Ron Weasley?,D,"The following are multiple choice questions (with answers) about Harry Potter.
+
+Who is the brother of Ron Weasley?
+A. Dudley Dursley
+B. James Potter I
+C. Kendra Dumbledore
+D. William Weasley
+Answer: ",B,False
+88,What is the relationship of Charles Weasley to Ron Weasley?,C,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the relationship of Charles Weasley to Ron Weasley?
+A. Grandson
+B. Grandmother
+C. Brother
+D. Wife
+Answer: ",B,False
+89,Who is the brother of Ron Weasley?,A,"The following are multiple choice questions (with answers) about Harry Potter.
+
+Who is the brother of Ron Weasley?
+A. Charles Weasley
+B. Cedric Diggory
+C. William Weasley
+D. Astoria Malfoy
+Answer: ",B,False
+90,What is the relationship of Hermione Granger to Ron Weasley?,D,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the relationship of Hermione Granger to Ron Weasley?
+A. Son
+B. Brother
+C. Father
+D. Wife
+Answer: ",B,False
+91,Who is the wife of Ron Weasley?,C,"The following are multiple choice questions (with answers) about Harry Potter.
+
+Who is the wife of Ron Weasley?
+A. Percival Dumbledore
+B. Scorpius Malfoy
+C. Hermione Granger
+D. Lucius Malfoy
+Answer: ",C,True
+92,What is the relationship of Arthur Weasley to Ron Weasley?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the relationship of Arthur Weasley to Ron Weasley?
+A. Grandmother
+B. Father
+C. Daughter
+D. Grandson
+Answer: ",B,True
+93,Who is the father of Ron Weasley?,A,"The following are multiple choice questions (with answers) about Harry Potter.
+
+Who is the father of Ron Weasley?
+A. Arthur Weasley
+B. Cho Chang
+C. Draco Malfoy
+D. Hermione Granger
+Answer: ",B,False
+94,What is the relationship of Rose Granger-Weasley to Ron Weasley?,D,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the relationship of Rose Granger-Weasley to Ron Weasley?
+A. Nephew
+B. Wife
+C. Sister
+D. Daughter
+Answer: ",B,False
+95,What is the relationship of Hugo Granger-Weasley to Ron Weasley?,D,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the relationship of Hugo Granger-Weasley to Ron Weasley?
+A. Wife
+B. Nephew
+C. Sister
+D. Son
+Answer: ",B,False
+96,What is the relationship of Ron Weasley to Hermione Granger?,A,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the relationship of Ron Weasley to Hermione Granger?
+A. Husband
+B. Son
+C. Wife
+D. Grandmother
+Answer: ",B,False
+97,Who is the husband of Hermione Granger?,D,"The following are multiple choice questions (with answers) about Harry Potter.
+
+Who is the husband of Hermione Granger?
+A. Petunia Dursley
+B. Lucius Malfoy
+C. Dudley Dursley
+D. Ron Weasley
+Answer: ",B,False
+98,What is the relationship of Monica Wilkins to Hermione Granger?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the relationship of Monica Wilkins to Hermione Granger?
+A. Grandson
+B. Mother
+C. Sister
+D. Nephew
+Answer: ",B,True
+99,What is the relationship of Hugo Granger-Weasley to Hermione Granger?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the relationship of Hugo Granger-Weasley to Hermione Granger?
+A. Nephew
+B. Son
+C. Aunt
+D. Grandmother
+Answer: ",B,True
+100,What is the relationship of Rose Granger-Weasley to Hermione Granger?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the relationship of Rose Granger-Weasley to Hermione Granger?
+A. Son
+B. Daughter
+C. Mother
+D. Grandfather
+Answer: ",B,True
+101,What is the relationship of Percival Dumbledore to Albus Dumbledore?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the relationship of Percival Dumbledore to Albus Dumbledore?
+A. Grandfather
+B. Father
+C. Grandson
+D. Sister
+Answer: ",B,True
+102,Who is the father of Albus Dumbledore?,D,"The following are multiple choice questions (with answers) about Harry Potter.
+
+Who is the father of Albus Dumbledore?
+A. Astoria Malfoy
+B. Harry Potter
+C. Arthur Weasley
+D. Percival Dumbledore
+Answer: ",B,False
+103,What is the relationship of Kendra Dumbledore to Albus Dumbledore?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the relationship of Kendra Dumbledore to Albus Dumbledore?
+A. Aunt
+B. Mother
+C. Son
+D. Father
+Answer: ",B,True
+104,Who is the mother of Albus Dumbledore?,D,"The following are multiple choice questions (with answers) about Harry Potter.
+
+Who is the mother of Albus Dumbledore?
+A. Lucius Malfoy
+B. Ariana Dumbledore
+C. Cho Chang
+D. Kendra Dumbledore
+Answer: ",B,False
+105,What is the relationship of Aberforth Dumbledore to Albus Dumbledore?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the relationship of Aberforth Dumbledore to Albus Dumbledore?
+A. Husband
+B. Brother
+C. Mother
+D. Sister
+Answer: ",B,True
+106,Who is the brother of Albus Dumbledore?,A,"The following are multiple choice questions (with answers) about Harry Potter.
+
+Who is the brother of Albus Dumbledore?
+A. Aberforth Dumbledore
+B. Dudley Dursley
+C. Percival Dumbledore
+D. Harry Potter
+Answer: ",A,True
+107,What is the relationship of Ariana Dumbledore to Albus Dumbledore?,A,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the relationship of Ariana Dumbledore to Albus Dumbledore?
+A. Sister
+B. Father
+C. Wife
+D. Friend
+Answer: ",B,False
+108,Who is the sister of Albus Dumbledore?,D,"The following are multiple choice questions (with answers) about Harry Potter.
+
+Who is the sister of Albus Dumbledore?
+A. Petunia Dursley
+B. Percival Dumbledore
+C. Hermione Granger
+D. Ariana Dumbledore
+Answer: ",B,False
+109,What is the relationship of Lucius Malfoy to Draco Malfoy?,D,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the relationship of Lucius Malfoy to Draco Malfoy?
+A. Brother
+B. Grandmother
+C. Wife
+D. Son
+Answer: ",B,False
+110,Who is the son of Draco Malfoy?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+Who is the son of Draco Malfoy?
+A. Cedric Diggory
+B. Lucius Malfoy
+C. Fleamont Potter
+D. Hermione Granger
+Answer: ",B,True
+111,What is the relationship of Narcissa Malfoy to Draco Malfoy?,C,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the relationship of Narcissa Malfoy to Draco Malfoy?
+A. Mother
+B. Aunt
+C. Son
+D. Brother
+Answer: ",B,False
+112,Who is the son of Draco Malfoy?,A,"The following are multiple choice questions (with answers) about Harry Potter.
+
+Who is the son of Draco Malfoy?
+A. Narcissa Malfoy
+B. Petunia Dursley
+C. Percival Dumbledore
+D. Dudley Dursley
+Answer: ",C,False
+113,What is the relationship of Astoria Malfoy to Draco Malfoy?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the relationship of Astoria Malfoy to Draco Malfoy?
+A. Friend
+B. Wife
+C. Grandfather
+D. Son
+Answer: ",B,True
+114,Who is the wife of Draco Malfoy?,A,"The following are multiple choice questions (with answers) about Harry Potter.
+
+Who is the wife of Draco Malfoy?
+A. Astoria Malfoy
+B. Fleamont Potter
+C. Narcissa Malfoy
+D. William Weasley
+Answer: ",C,False
+115,What is the relationship of Scorpius Malfoy to Draco Malfoy?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the relationship of Scorpius Malfoy to Draco Malfoy?
+A. Grandfather
+B. Son
+C. Daughter
+D. Aunt
+Answer: ",B,True
+116,Who is the son of Draco Malfoy?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+Who is the son of Draco Malfoy?
+A. Draco Malfoy
+B. Scorpius Malfoy
+C. Arthur Weasley
+D. Percival Dumbledore
+Answer: ",B,True
+117,What is the relationship of James Potter I to Fleamont Potter?,D,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the relationship of James Potter I to Fleamont Potter?
+A. Aunt
+B. Wife
+C. Brother
+D. Son
+Answer: ",B,False
+118,Who is the son of Fleamont Potter?,A,"The following are multiple choice questions (with answers) about Harry Potter.
+
+Who is the son of Fleamont Potter?
+A. James Potter I
+B. Ron Weasley
+C. Draco Malfoy
+D. Arthur Weasley
+Answer: ",A,True
+119,What is the relationship of James Potter I to Euphemia Potter?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the relationship of James Potter I to Euphemia Potter?
+A. Husband
+B. Son
+C. Mother
+D. Grandson
+Answer: ",B,True
+120,Who is the son of Euphemia Potter?,C,"The following are multiple choice questions (with answers) about Harry Potter.
+
+Who is the son of Euphemia Potter?
+A. Percival Dumbledore
+B. William Weasley
+C. James Potter I
+D. Lily J. Potter
+Answer: ",C,True
+121,What is the relationship of James Potter I to Albus Potter?,C,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the relationship of James Potter I to Albus Potter?
+A. Mother
+B. Wife
+C. Grandfather
+D. Son
+Answer: ",B,False
+122,Who is the grandfather of Albus Potter?,D,"The following are multiple choice questions (with answers) about Harry Potter.
+
+Who is the grandfather of Albus Potter?
+A. Albus Potter
+B. Harry Potter
+C. Aberforth Dumbledore
+D. James Potter I
+Answer: ",B,False
+123,What is the relationship of Lily J. Potter to Albus Potter?,A,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the relationship of Lily J. Potter to Albus Potter?
+A. Grandmother
+B. Brother
+C. Son
+D. Mother
+Answer: ",B,False
+124,Who is the grandmother of Albus Potter?,D,"The following are multiple choice questions (with answers) about Harry Potter.
+
+Who is the grandmother of Albus Potter?
+A. Scorpius Malfoy
+B. Harry Potter
+C. Roger Davies
+D. Lily J. Potter
+Answer: ",D,True
+125,What is the relationship of Lily J. Potter to Petunia Dursley?,C,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the relationship of Lily J. Potter to Petunia Dursley?
+A. Mother
+B. Grandmother
+C. Sister
+D. Father
+Answer: ",A,False
+126,Who is the sister of Petunia Dursley?,A,"The following are multiple choice questions (with answers) about Harry Potter.
+
+Who is the sister of Petunia Dursley?
+A. Lily J. Potter
+B. Lucius Malfoy
+C. James Potter I
+D. Scorpius Malfoy
+Answer: ",B,False
+127,What is the relationship of Lily J. Potter to Dudley Dursley?,A,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the relationship of Lily J. Potter to Dudley Dursley?
+A. Aunt
+B. Father
+C. Husband
+D. Brother
+Answer: ",A,True
+128,Who is the aunt of Dudley Dursley?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+Who is the aunt of Dudley Dursley?
+A. Fleamont Potter
+B. Lily J. Potter
+C. Astoria Malfoy
+D. Albus Potter
+Answer: ",B,True
+129,What is the relationship of Ron Weasley to William Weasley?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the relationship of Ron Weasley to William Weasley?
+A. Sister
+B. Brother
+C. Son
+D. Wife
+Answer: ",B,True
+130,Who is the brother of William Weasley?,C,"The following are multiple choice questions (with answers) about Harry Potter.
+
+Who is the brother of William Weasley?
+A. Lily J. Potter
+B. Charles Weasley
+C. Ron Weasley
+D. James Potter I
+Answer: ",B,False
+131,What is the relationship of Ron Weasley to Charles Weasley?,C,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the relationship of Ron Weasley to Charles Weasley?
+A. Friend
+B. Grandson
+C. Brother
+D. Grandfather
+Answer: ",B,False
+132,Who is the brother of Charles Weasley?,C,"The following are multiple choice questions (with answers) about Harry Potter.
+
+Who is the brother of Charles Weasley?
+A. Cho Chang
+B. Scorpius Malfoy
+C. Ron Weasley
+D. Ariana Dumbledore
+Answer: ",B,False
+133,What is the relationship of Ron Weasley to Rose Granger-Weasley?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the relationship of Ron Weasley to Rose Granger-Weasley?
+A. Grandfather
+B. Father
+C. Aunt
+D. Grandson
+Answer: ",B,True
+134,Who is the father of Rose Granger-Weasley?,D,"The following are multiple choice questions (with answers) about Harry Potter.
+
+Who is the father of Rose Granger-Weasley?
+A. Ariana Dumbledore
+B. Draco Malfoy
+C. Arthur Weasley
+D. Ron Weasley
+Answer: ",C,False
+135,What is the relationship of Ron Weasley to Hugo Granger-Weasley?,A,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the relationship of Ron Weasley to Hugo Granger-Weasley?
+A. Father
+B. Grandfather
+C. Husband
+D. Nephew
+Answer: ",B,False
+136,Who is the father of Hugo Granger-Weasley?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+Who is the father of Hugo Granger-Weasley?
+A. Fleamont Potter
+B. Ron Weasley
+C. Kendra Dumbledore
+D. Petunia Dursley
+Answer: ",B,True
+137,What is the relationship of Ron Weasley to Arthur Weasley?,D,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the relationship of Ron Weasley to Arthur Weasley?
+A. Husband
+B. Aunt
+C. Wife
+D. Son
+Answer: ",B,False
+138,Who is the son of Arthur Weasley?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+Who is the son of Arthur Weasley?
+A. Ariana Dumbledore
+B. Ron Weasley
+C. Fleamont Potter
+D. Percival Dumbledore
+Answer: ",B,True
+139,What is the relationship of Hermione Granger to Rose Granger-Weasley?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the relationship of Hermione Granger to Rose Granger-Weasley?
+A. Brother
+B. Mother
+C. Grandson
+D. Nephew
+Answer: ",B,True
+140,Who is the mother of Rose Granger-Weasley?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+Who is the mother of Rose Granger-Weasley?
+A. Roger Davies
+B. Hermione Granger
+C. Arthur Weasley
+D. Lily J. Potter
+Answer: ",B,True
+141,What is the relationship of Hermione Granger to Hugo Granger-Weasley?,C,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the relationship of Hermione Granger to Hugo Granger-Weasley?
+A. Aunt
+B. Nephew
+C. Mother
+D. Wife
+Answer: ",B,False
+142,Who is the mother of Hugo Granger-Weasley?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+Who is the mother of Hugo Granger-Weasley?
+A. Ariana Dumbledore
+B. Hermione Granger
+C. Euphemia Potter
+D. Charles Weasley
+Answer: ",B,True
+143,What is the relationship of Hermione Granger to Monica Wilkins?,D,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the relationship of Hermione Granger to Monica Wilkins?
+A. Nephew
+B. Grandson
+C. Husband
+D. Daughter
+Answer: ",B,False
+144,Who is the daughter of Monica Wilkins?,D,"The following are multiple choice questions (with answers) about Harry Potter.
+
+Who is the daughter of Monica Wilkins?
+A. Roger Davies
+B. Lily J. Potter
+C. Euphemia Potter
+D. Hermione Granger
+Answer: ",B,False
+145,What is the relationship of Albus Dumbledore to Aberforth Dumbledore?,C,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the relationship of Albus Dumbledore to Aberforth Dumbledore?
+A. Nephew
+B. Sister
+C. Brother
+D. Mother
+Answer: ",B,False
+146,What is the relationship of Albus Dumbledore to Ariana Dumbledore?,A,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the relationship of Albus Dumbledore to Ariana Dumbledore?
+A. Brother
+B. Son
+C. Friend
+D. Husband
+Answer: ",B,False
+147,What is the relationship of Albus Dumbledore to Percival Dumbledore?,D,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the relationship of Albus Dumbledore to Percival Dumbledore?
+A. Grandfather
+B. Father
+C. Grandmother
+D. Son
+Answer: ",B,False
+148,What is the relationship of Albus Dumbledore to Kendra Dumbledore?,A,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the relationship of Albus Dumbledore to Kendra Dumbledore?
+A. Son
+B. Friend
+C. Nephew
+D. Brother
+Answer: ",B,False
+149,What is the relationship of Draco Malfoy to Lucius Malfoy?,D,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the relationship of Draco Malfoy to Lucius Malfoy?
+A. Aunt
+B. Mother
+C. Daughter
+D. Father
+Answer: ",B,False
+150,Who is the father of Lucius Malfoy?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+Who is the father of Lucius Malfoy?
+A. Lucius Malfoy
+B. Draco Malfoy
+C. Euphemia Potter
+D. Cho Chang
+Answer: ",B,True
+151,What is the relationship of Draco Malfoy to Narcissa Malfoy?,A,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the relationship of Draco Malfoy to Narcissa Malfoy?
+A. Mother
+B. Father
+C. Nephew
+D. Brother
+Answer: ",B,False
+152,Who is the mother of Narcissa Malfoy?,C,"The following are multiple choice questions (with answers) about Harry Potter.
+
+Who is the mother of Narcissa Malfoy?
+A. Lily J. Potter
+B. Percival Dumbledore
+C. Draco Malfoy
+D. Cedric Diggory
+Answer: ",A,False
+153,What is the relationship of Draco Malfoy to Scorpius Malfoy?,A,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the relationship of Draco Malfoy to Scorpius Malfoy?
+A. Husband
+B. Sister
+C. Aunt
+D. Friend
+Answer: ",B,False
+154,Who is the husband of Scorpius Malfoy?,A,"The following are multiple choice questions (with answers) about Harry Potter.
+
+Who is the husband of Scorpius Malfoy?
+A. Draco Malfoy
+B. Arthur Weasley
+C. Scorpius Malfoy
+D. Cho Chang
+Answer: ",B,False
+155,What is the relationship of Draco Malfoy to Astoria Malfoy?,A,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the relationship of Draco Malfoy to Astoria Malfoy?
+A. Father
+B. Grandson
+C. Brother
+D. Husband
+Answer: ",B,False
+156,Who is the father of Astoria Malfoy?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+Who is the father of Astoria Malfoy?
+A. Lily J. Potter
+B. Draco Malfoy
+C. Hermione Granger
+D. Harry Potter
+Answer: ",B,True
+157,What is the type of the spell named Aberto?,C,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Aberto?
+A. Counter-Spell
+B. Counter-Charm
+C. Charm
+D. Transfiguration
+Answer: ",B,False
+158,What is the type of the spell named Accio?,D,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Accio?
+A. Counter-Spell
+B. Untransfiguration
+C. Counter-Charm
+D. Charm
+Answer: ",C,False
+159,What is the type of the spell named Age Line?,D,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Age Line?
+A. Transfiguration
+B. Jinx
+C. Spell
+D. Charm
+Answer: ",B,False
+160,What is the type of the spell named Alarte Ascendare?,C,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Alarte Ascendare?
+A. Counter-Spell
+B. Counter-Charm
+C. Charm
+D. Jinx
+Answer: ",B,False
+161,What is the type of the spell named Alohomora?,D,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Alohomora?
+A. Transportation
+B. Conjuration
+C. Counter-Jinx
+D. Charm
+Answer: ",B,False
+162,What is the type of the spell named Anti-Cheating Spell?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Anti-Cheating Spell?
+A. Transportation
+B. Charm
+C. Untransfiguration
+D. Counter-charm
+Answer: ",B,True
+163,What is the type of the spell named Anti-Apparition Charm?,A,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Anti-Apparition Charm?
+A. Charm
+B. Hex
+C. Curse
+D. Counter-charm
+Answer: ",C,False
+164,What is the type of the spell named Anti-Disapparition Jinx?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Anti-Disapparition Jinx?
+A. Counter-Jinx
+B. Jinx
+C. Transfiguration
+D. Counter-Charm
+Answer: ",B,True
+165,What is the type of the spell named Anti-intruder jinx?,A,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Anti-intruder jinx?
+A. Jinx
+B. Vanishment
+C. Charm
+D. Hex
+Answer: ",A,True
+166,What is the type of the spell named Aparecium?,D,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Aparecium?
+A. Conjuration
+B. Spell
+C. Counter-Charm
+D. Charm
+Answer: ",B,False
+167,What is the type of the spell named Appare Vestigium?,C,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Appare Vestigium?
+A. Transportation
+B. Curse
+C. Charm
+D. Counter-Jinx
+Answer: ",C,True
+168,What is the type of the spell named Apparition?,C,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Apparition?
+A. Curse
+B. Unknown
+C. Transportation
+D. Counter-Spell
+Answer: ",C,True
+169,What is the type of the spell named Aqua Eructo?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Aqua Eructo?
+A. Counter-charm
+B. Charm
+C. Counter-Spell
+D. Spell
+Answer: ",B,True
+170,What is the type of the spell named Arania Exumai?,C,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Arania Exumai?
+A. Counter-Spell
+B. Untransfiguration
+C. Charm
+D. Conjuration
+Answer: ",B,False
+171,What is the type of the spell named Arresto Momentum?,A,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Arresto Momentum?
+A. Charm
+B. Vanishment
+C. Transportation
+D. Hex
+Answer: ",B,False
+172,What is the type of the spell named Arrow-shooting spell?,C,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Arrow-shooting spell?
+A. Counter-Jinx
+B. Transfiguration
+C. Conjuration
+D. Curse
+Answer: ",C,True
+173,What is the type of the spell named Ascendio?,C,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Ascendio?
+A. Spell
+B. Hex
+C. Charm
+D. Transportation
+Answer: ",B,False
+174,What is the type of the spell named Avada Kedavra?,C,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Avada Kedavra?
+A. Vanishment
+B. Hex
+C. Curse
+D. Counter-Spell
+Answer: ",B,False
+175,What is the type of the spell named Avifors?,A,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Avifors?
+A. Transfiguration
+B. Untransfiguration
+C. Counter-Charm
+D. Spell
+Answer: ",B,False
+176,What is the type of the spell named Avenseguim?,C,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Avenseguim?
+A. Vanishment
+B. Hex
+C. Charm
+D. Conjuration
+Answer: ",C,True
+177,What is the type of the spell named Babbling Curse?,D,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Babbling Curse?
+A. Jinx
+B. Unknown
+C. Charm
+D. Curse
+Answer: ",B,False
+178,What is the type of the spell named Badgering?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Badgering?
+A. Counter-Spell
+B. Transfiguration
+C. Untransfiguration
+D. Counter-Jinx
+Answer: ",B,True
+179,What is the type of the spell named Bat-Bogey Hex?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Bat-Bogey Hex?
+A. Conjuration
+B. Hex
+C. Jinx
+D. Unknown
+Answer: ",B,True
+180,What is the type of the spell named Bedazzling Hex?,A,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Bedazzling Hex?
+A. Hex
+B. Counter-Spell
+C. Charm
+D. Counter-Charm
+Answer: ",B,False
+181,What is the type of the spell named Bewitched Snowballs?,C,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Bewitched Snowballs?
+A. Hex
+B. Transportation
+C. Charm
+D. Untransfiguration
+Answer: ",C,True
+182,What is the type of the spell named Bluebell Flames?,D,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Bluebell Flames?
+A. Untransfiguration
+B. Jinx
+C. Counter-Jinx
+D. Charm
+Answer: ",B,False
+183,What is the type of the spell named Blue sparks?,C,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Blue sparks?
+A. Counter-Spell
+B. Jinx
+C. Charm
+D. Curse
+Answer: ",C,True
+184,What is the type of the spell named Bombarda?,D,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Bombarda?
+A. Jinx
+B. Counter-Jinx
+C. Untransfiguration
+D. Charm
+Answer: ",B,False
+185,What is the type of the spell named Bombarda Maxima?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Bombarda Maxima?
+A. Vanishment
+B. Charm
+C. Unknown
+D. Transfiguration
+Answer: ",B,True
+186,What is the type of the spell named Bravery Charm?,D,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Bravery Charm?
+A. Spell
+B. Transfiguration
+C. Vanishment
+D. Charm
+Answer: ",B,False
+187,What is the type of the spell named Bridge-conjuring spell?,C,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Bridge-conjuring spell?
+A. Counter-Jinx
+B. Jinx
+C. Charm
+D. Curse
+Answer: ",C,True
+188,What is the type of the spell named Broom jinx?,C,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Broom jinx?
+A. Untransfiguration
+B. Transportation
+C. Jinx
+D. Curse
+Answer: ",C,True
+189,What is the type of the spell named Bubble-Head Charm?,A,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Bubble-Head Charm?
+A. Charm
+B. Hex
+C. Counter-Charm
+D. Transportation
+Answer: ",B,False
+190,What is the type of the spell named Bubble Spell?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Bubble Spell?
+A. Transfiguration
+B. Charm
+C. Counter-charm
+D. Spell
+Answer: ",B,True
+191,What is the type of the spell named Calvorio?,D,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Calvorio?
+A. Transfiguration
+B. Charm
+C. Counter-Charm
+D. Curse
+Answer: ",B,False
+192,What is the type of the spell named Cantis?,C,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Cantis?
+A. Vanishment
+B. Curse
+C. Charm
+D. Transfiguration
+Answer: ",C,True
+193,What is the type of the spell named Capacious extremis?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Capacious extremis?
+A. Unknown
+B. Charm
+C. Counter-Spell
+D. Transportation
+Answer: ",B,True
+194,What is the type of the spell named Carpe Retractum?,C,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Carpe Retractum?
+A. Vanishment
+B. Counter-Charm
+C. Charm
+D. Conjuration
+Answer: ",C,True
+195,What is the type of the spell named Cascading Jinx?,D,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Cascading Jinx?
+A. Hex
+B. Counter-Jinx
+C. Spell
+D. Jinx
+Answer: ",B,False
+196,What is the type of the spell named Caterwauling Charm?,D,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Caterwauling Charm?
+A. Counter-charm
+B. Unknown
+C. Hex
+D. Charm
+Answer: ",C,False
+197,What is the type of the spell named Cave inimicum?,C,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Cave inimicum?
+A. Transfiguration
+B. Counter-Charm
+C. Charm
+D. Hex
+Answer: ",B,False
+198,What is the type of the spell named Celescere?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Celescere?
+A. Jinx
+B. Charm
+C. Unknown
+D. Spell
+Answer: ",B,True
+199,What is the type of the spell named Cheering Charm?,D,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Cheering Charm?
+A. Unknown
+B. Spell
+C. Transportation
+D. Charm
+Answer: ",B,False
+200,What is the type of the spell named Circumrota?,D,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Circumrota?
+A. Transfiguration
+B. Counter-Spell
+C. Jinx
+D. Charm
+Answer: ",B,False
+201,What is the type of the spell named Cistem Aperio?,C,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Cistem Aperio?
+A. Hex
+B. Untransfiguration
+C. Charm
+D. Unknown
+Answer: ",C,True
+202,What is the type of the spell named Colloportus?,C,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Colloportus?
+A. Transfiguration
+B. Vanishment
+C. Charm
+D. Untransfiguration
+Answer: ",B,False
+203,What is the type of the spell named Colloshoo?,A,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Colloshoo?
+A. Hex
+B. Vanishment
+C. Transportation
+D. Counter-Jinx
+Answer: ",B,False
+204,What is the type of the spell named Colovaria?,C,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Colovaria?
+A. Counter-Charm
+B. Counter-Jinx
+C. Charm
+D. Jinx
+Answer: ",C,True
+205,What is the type of the spell named Confringo?,D,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Confringo?
+A. Transfiguration
+B. Transportation
+C. Spell
+D. Curse
+Answer: ",C,False
+206,What is the type of the spell named Confundo?,C,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Confundo?
+A. Unknown
+B. Conjuration
+C. Charm
+D. Transfiguration
+Answer: ",B,False
+207,What is the type of the spell named Conjunctivitis Curse?,D,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Conjunctivitis Curse?
+A. Untransfiguration
+B. Conjuration
+C. Charm
+D. Curse
+Answer: ",C,False
+208,What is the type of the spell named Cracker Jinx?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Cracker Jinx?
+A. Vanishment
+B. Jinx
+C. Charm
+D. Hex
+Answer: ",B,True
+209,What is the type of the spell named Cribbing Spell?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Cribbing Spell?
+A. Hex
+B. Spell
+C. Conjuration
+D. Charm
+Answer: ",B,True
+210,What is the type of the spell named Crinus Muto?,A,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Crinus Muto?
+A. Transfiguration
+B. Counter-Charm
+C. Counter-charm
+D. Counter-Spell
+Answer: ",B,False
+211,What is the type of the spell named Crucio?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Crucio?
+A. Counter-Spell
+B. Curse
+C. Untransfiguration
+D. Transportation
+Answer: ",B,True
+212,What is the type of the spell named Defodio?,D,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Defodio?
+A. Transfiguration
+B. Unknown
+C. Conjuration
+D. Charm
+Answer: ",B,False
+213,What is the type of the spell named Deletrius?,C,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Deletrius?
+A. Jinx
+B. Untransfiguration
+C. Charm
+D. Transportation
+Answer: ",B,False
+214,What is the type of the spell named Densaugeo?,A,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Densaugeo?
+A. Hex
+B. Counter-charm
+C. Transportation
+D. Untransfiguration
+Answer: ",B,False
+215,What is the type of the spell named Deprimo?,D,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Deprimo?
+A. Counter-Spell
+B. Conjuration
+C. Counter-Jinx
+D. Charm
+Answer: ",B,False
+216,What is the type of the spell named Depulso?,C,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Depulso?
+A. Vanishment
+B. Untransfiguration
+C. Charm
+D. Counter-Spell
+Answer: ",A,False
+217,What is the type of the spell named Descendo?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Descendo?
+A. Untransfiguration
+B. Charm
+C. Counter-Charm
+D. Jinx
+Answer: ",B,True
+218,What is the type of the spell named Deterioration Hex?,A,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Deterioration Hex?
+A. Hex
+B. Counter-Charm
+C. Spell
+D. Counter-charm
+Answer: ",B,False
+219,What is the type of the spell named Diffindo?,D,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Diffindo?
+A. Vanishment
+B. Transportation
+C. Curse
+D. Charm
+Answer: ",C,False
+220,What is the type of the spell named Diminuendo?,D,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Diminuendo?
+A. Transportation
+B. Transfiguration
+C. Curse
+D. Charm
+Answer: ",B,False
+221,What is the type of the spell named Dissendium?,A,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Dissendium?
+A. Charm
+B. Counter-Spell
+C. Transportation
+D. Untransfiguration
+Answer: ",B,False
+222,What is the type of the spell named Disillusionment Charm?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Disillusionment Charm?
+A. Vanishment
+B. Charm
+C. Transfiguration
+D. Jinx
+Answer: ",B,True
+223,What is the type of the spell named Draconifors?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Draconifors?
+A. Counter-charm
+B. Transfiguration
+C. Conjuration
+D. Curse
+Answer: ",B,True
+224,What is the type of the spell named Drought Charm?,D,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Drought Charm?
+A. Transportation
+B. Counter-charm
+C. Transfiguration
+D. Charm
+Answer: ",C,False
+225,What is the type of the spell named Duro?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Duro?
+A. Counter-Spell
+B. Charm
+C. Spell
+D. Counter-charm
+Answer: ",B,True
+226,What is the type of the spell named Ear-shrivelling Curse?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Ear-shrivelling Curse?
+A. Spell
+B. Curse
+C. Untransfiguration
+D. Vanishment
+Answer: ",B,True
+227,What is the type of the spell named Ebublio?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Ebublio?
+A. Vanishment
+B. Jinx
+C. Untransfiguration
+D. Counter-Charm
+Answer: ",B,True
+228,What is the type of the spell named Engorgio?,D,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Engorgio?
+A. Untransfiguration
+B. Counter-Jinx
+C. Transportation
+D. Charm
+Answer: ",B,False
+229,What is the type of the spell named Entrail-Expelling Curse?,A,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Entrail-Expelling Curse?
+A. Curse
+B. Spell
+C. Unknown
+D. Vanishment
+Answer: ",B,False
+230,What is the type of the spell named Epoximise?,C,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Epoximise?
+A. Spell
+B. Counter-Jinx
+C. Transfiguration
+D. Curse
+Answer: ",B,False
+231,What is the type of the spell named Erecto?,D,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Erecto?
+A. Transportation
+B. Counter-charm
+C. Hex
+D. Charm
+Answer: ",B,False
+232,What is the type of the spell named Evanesce?,C,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Evanesce?
+A. Counter-Spell
+B. Hex
+C. Transfiguration
+D. Jinx
+Answer: ",B,False
+233,What is the type of the spell named Evanesco?,C,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Evanesco?
+A. Vanishment
+B. Untransfiguration
+C. Transfiguration
+D. Transportation
+Answer: ",B,False
+234,What is the type of the spell named Everte Statum?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Everte Statum?
+A. Counter-charm
+B. Spell
+C. Conjuration
+D. Hex
+Answer: ",B,True
+235,What is the type of the spell named Expecto Patronum?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Expecto Patronum?
+A. Vanishment
+B. Charm
+C. Conjuration
+D. Hex
+Answer: ",B,True
+236,What is the type of the spell named Expelliarmus?,A,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Expelliarmus?
+A. Charm
+B. Hex
+C. Transfiguration
+D. Counter-Charm
+Answer: ",B,False
+237,What is the type of the spell named Expulso?,A,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Expulso?
+A. Curse
+B. Charm
+C. Vanishment
+D. Counter-Spell
+Answer: ",B,False
+238,What is the type of the spell named Extinguishing Spell?,A,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Extinguishing Spell?
+A. Charm
+B. Counter-Spell
+C. Counter-Charm
+D. Curse
+Answer: ",B,False
+239,What is the type of the spell named Feather-light charm?,A,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Feather-light charm?
+A. Charm
+B. Counter-Spell
+C. Hex
+D. Counter-charm
+Answer: ",A,True
+240,What is the type of the spell named Fianto Duri?,A,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Fianto Duri?
+A. Charm
+B. Jinx
+C. Untransfiguration
+D. Spell
+Answer: ",B,False
+241,What is the type of the spell named Fidelius Charm?,A,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Fidelius Charm?
+A. Charm
+B. Vanishment
+C. Counter-Charm
+D. Counter-Spell
+Answer: ",A,True
+242,What is the type of the spell named Fiendfyre?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Fiendfyre?
+A. Transfiguration
+B. Curse
+C. Hex
+D. Jinx
+Answer: ",B,True
+243,What is the type of the spell named Finestra?,A,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Finestra?
+A. Charm
+B. Conjuration
+C. Hex
+D. Counter-Jinx
+Answer: ",A,True
+244,What is the type of the spell named Finite Incantatem?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Finite Incantatem?
+A. Unknown
+B. Counter-Spell
+C. Spell
+D. Jinx
+Answer: ",B,True
+245,What is the type of the spell named Finger-removing jinx?,C,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Finger-removing jinx?
+A. Counter-Spell
+B. Transportation
+C. Jinx
+D. Charm
+Answer: ",C,True
+246,What is the type of the spell named Firestorm?,C,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Firestorm?
+A. Spell
+B. Transportation
+C. Charm
+D. Counter-Spell
+Answer: ",A,False
+247,What is the type of the spell named Flagrante Curse?,D,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Flagrante Curse?
+A. Unknown
+B. Spell
+C. Transfiguration
+D. Curse
+Answer: ",B,False
+248,What is the type of the spell named Flagrate?,A,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Flagrate?
+A. Charm
+B. Conjuration
+C. Counter-Spell
+D. Vanishment
+Answer: ",A,True
+249,What is the type of the spell named Flame-Freezing Charm?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Flame-Freezing Charm?
+A. Spell
+B. Charm
+C. Hex
+D. Unknown
+Answer: ",B,True
+250,What is the type of the spell named Flask-conjuring spell?,D,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Flask-conjuring spell?
+A. Counter-Jinx
+B. Curse
+C. Vanishment
+D. Conjuration
+Answer: ",C,False
+251,What is the type of the spell named Flintifors?,C,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Flintifors?
+A. Untransfiguration
+B. Counter-Jinx
+C. Transfiguration
+D. Counter-Charm
+Answer: ",C,True
+252,What is the type of the spell named Flipendo?,C,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Flipendo?
+A. Curse
+B. Vanishment
+C. Jinx
+D. Charm
+Answer: ",B,False
+253,What is the type of the spell named Flipendo Duo?,A,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Flipendo Duo?
+A. Jinx
+B. Counter-Spell
+C. Conjuration
+D. Counter-charm
+Answer: ",B,False
+254,What is the type of the spell named Flipendo Maxima?,A,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Flipendo Maxima?
+A. Jinx
+B. Unknown
+C. Vanishment
+D. Curse
+Answer: ",B,False
+255,What is the type of the spell named Flipendo Tria?,A,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Flipendo Tria?
+A. Jinx
+B. Counter-Jinx
+C. Transportation
+D. Unknown
+Answer: ",B,False
+256,What is the type of the spell named Flying charm?,A,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Flying charm?
+A. Charm
+B. Jinx
+C. Unknown
+D. Counter-Jinx
+Answer: ",A,True
+257,What is the type of the spell named Fracto Strata?,A,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Fracto Strata?
+A. Spell
+B. Counter-Charm
+C. Transportation
+D. Charm
+Answer: ",B,False
+258,What is the type of the spell named Fumos?,D,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Fumos?
+A. Counter-charm
+B. Vanishment
+C. Jinx
+D. Charm
+Answer: ",B,False
+259,What is the type of the spell named Fumos Duo?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Fumos Duo?
+A. Counter-Charm
+B. Charm
+C. Hex
+D. Spell
+Answer: ",B,True
+260,What is the type of the spell named Furnunculus?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Furnunculus?
+A. Hex
+B. Jinx
+C. Charm
+D. Counter-charm
+Answer: ",B,True
+261,What is the type of the spell named Fur spell?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Fur spell?
+A. Spell
+B. Charm
+C. Curse
+D. Hex
+Answer: ",B,True
+262,What is the type of the spell named Geminio?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Geminio?
+A. Vanishment
+B. Charm
+C. Curse
+D. Counter-Jinx
+Answer: ",B,True
+263,What is the type of the spell named Glacius?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Glacius?
+A. Transportation
+B. Charm
+C. Counter-charm
+D. Counter-Jinx
+Answer: ",B,True
+264,What is the type of the spell named Glacius Duo?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Glacius Duo?
+A. Spell
+B. Charm
+C. Unknown
+D. Transportation
+Answer: ",A,False
+265,What is the type of the spell named Glacius Tria?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Glacius Tria?
+A. Hex
+B. Charm
+C. Counter-charm
+D. Counter-Spell
+Answer: ",B,True
+266,What is the type of the spell named Glisseo?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Glisseo?
+A. Vanishment
+B. Charm
+C. Unknown
+D. Curse
+Answer: ",B,True
+267,What is the type of the spell named Gripping Charm?,D,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Gripping Charm?
+A. Hex
+B. Vanishment
+C. Conjuration
+D. Charm
+Answer: ",C,False
+268,What is the type of the spell named Hair-thickening Charm?,C,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Hair-thickening Charm?
+A. Curse
+B. Unknown
+C. Charm
+D. Untransfiguration
+Answer: ",C,True
+269,What is the type of the spell named Herbifors?,A,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Herbifors?
+A. Transfiguration
+B. Counter-charm
+C. Hex
+D. Spell
+Answer: ",B,False
+270,What is the type of the spell named Herbivicus?,A,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Herbivicus?
+A. Charm
+B. Hex
+C. Counter-Jinx
+D. Vanishment
+Answer: ",B,False
+271,What is the type of the spell named Homenum Revelio?,D,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Homenum Revelio?
+A. Unknown
+B. Transfiguration
+C. Curse
+D. Charm
+Answer: ",B,False
+272,What is the type of the spell named Homonculous Charm?,D,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Homonculous Charm?
+A. Counter-Spell
+B. Counter-Jinx
+C. Transfiguration
+D. Charm
+Answer: ",B,False
+273,What is the type of the spell named Hurling Hex?,C,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Hurling Hex?
+A. Conjuration
+B. Transfiguration
+C. Hex
+D. Curse
+Answer: ",B,False
+274,What is the type of the spell named Impedimenta?,A,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Impedimenta?
+A. Jinx
+B. Counter-Spell
+C. Charm
+D. Unknown
+Answer: ",B,False
+275,What is the type of the spell named Imperio?,D,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Imperio?
+A. Counter-charm
+B. Counter-Jinx
+C. Untransfiguration
+D. Curse
+Answer: ",B,False
+276,What is the type of the spell named Inanimatus Conjurus?,A,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Inanimatus Conjurus?
+A. Transfiguration
+B. Charm
+C. Vanishment
+D. Conjuration
+Answer: ",B,False
+277,What is the type of the spell named Incarcerous?,D,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Incarcerous?
+A. Hex
+B. Spell
+C. Counter-Charm
+D. Conjuration
+Answer: ",B,False
+278,What is the type of the spell named Inflatus?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Inflatus?
+A. Charm
+B. Jinx
+C. Counter-Jinx
+D. Counter-Charm
+Answer: ",B,True
+279,What is the type of the spell named Jelly-Brain Jinx?,A,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Jelly-Brain Jinx?
+A. Jinx
+B. Counter-Jinx
+C. Transfiguration
+D. Conjuration
+Answer: ",B,False
+280,What is the type of the spell named Jelly-Fingers Curse?,C,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Jelly-Fingers Curse?
+A. Charm
+B. Counter-Spell
+C. Curse
+D. Counter-charm
+Answer: ",C,True
+281,What is the type of the spell named Knee-reversal hex?,A,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Knee-reversal hex?
+A. Hex
+B. Unknown
+C. Curse
+D. Charm
+Answer: ",B,False
+282,What is the type of the spell named Langlock?,A,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Langlock?
+A. Jinx
+B. Hex
+C. Untransfiguration
+D. Counter-Charm
+Answer: ",B,False
+283,What is the type of the spell named Lapifors?,A,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Lapifors?
+A. Transfiguration
+B. Counter-Jinx
+C. Conjuration
+D. Vanishment
+Answer: ",B,False
+284,What is the type of the spell named Leek Jinx?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Leek Jinx?
+A. Conjuration
+B. Jinx
+C. Curse
+D. Counter-Charm
+Answer: ",B,True
+285,What is the type of the spell named Levicorpus?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Levicorpus?
+A. Charm
+B. Jinx
+C. Curse
+D. Vanishment
+Answer: ",B,True
+286,What is the type of the spell named Liberacorpus?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Liberacorpus?
+A. Conjuration
+B. Counter-Jinx
+C. Unknown
+D. Counter-Spell
+Answer: ",A,False
+287,What is the type of the spell named Locomotor Mortis?,C,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Locomotor Mortis?
+A. Counter-charm
+B. Unknown
+C. Curse
+D. Untransfiguration
+Answer: ",C,True
+288,What is the type of the spell named Melofors?,A,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Melofors?
+A. Jinx
+B. Counter-Jinx
+C. Counter-charm
+D. Transportation
+Answer: ",B,False
+289,What is the type of the spell named Meteolojinx recanto?,D,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Meteolojinx recanto?
+A. Transfiguration
+B. Jinx
+C. Spell
+D. Counter-Charm
+Answer: ",B,False
+290,What is the type of the spell named Mimblewimble?,A,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Mimblewimble?
+A. Curse
+B. Counter-Jinx
+C. Jinx
+D. Unknown
+Answer: ",B,False
+291,What is the type of the spell named Multicorfors?,C,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Multicorfors?
+A. Counter-Spell
+B. Counter-Charm
+C. Transfiguration
+D. Unknown
+Answer: ",B,False
+292,What is the type of the spell named Obscuro?,A,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Obscuro?
+A. Conjuration
+B. Spell
+C. Hex
+D. Transportation
+Answer: ",B,False
+293,What is the type of the spell named Oppugno?,A,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Oppugno?
+A. Jinx
+B. Hex
+C. Unknown
+D. Counter-charm
+Answer: ",B,False
+294,What is the type of the spell named Orbis?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Orbis?
+A. Spell
+B. Jinx
+C. Charm
+D. Transportation
+Answer: ",B,True
+295,What is the type of the spell named Orchideous?,C,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Orchideous?
+A. Counter-Jinx
+B. Jinx
+C. Conjuration
+D. Counter-Charm
+Answer: ",B,False
+296,What is the type of the spell named Pepper Breath?,C,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Pepper Breath?
+A. Counter-Charm
+B. Transportation
+C. Hex
+D. Unknown
+Answer: ",B,False
+297,What is the type of the spell named Petrificus Totalus?,B,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Petrificus Totalus?
+A. Spell
+B. Curse
+C. Counter-charm
+D. Transportation
+Answer: ",A,False
+298,What is the type of the spell named Piscifors?,C,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Piscifors?
+A. Counter-Charm
+B. Untransfiguration
+C. Transfiguration
+D. Jinx
+Answer: ",C,True
+299,What is the type of the spell named Point Me?,A,"The following are multiple choice questions (with answers) about Harry Potter.
+
+What is the type of the spell named Point Me?
+A. Spell
+B. Counter-Charm
+C. Transportation
+D. Jinx
+Answer: ",A,True

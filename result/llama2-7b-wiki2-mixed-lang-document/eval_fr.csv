@@ -1,0 +1,2401 @@
+,question,gt_ans,prompt,ans,correct
+0,Quel est le sexe de Harry Potter ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le sexe de Harry Potter ?
+A. Femelle
+B. Mâle
+C. Inconnu
+D. Aucune des réponses ci-dessus
+Answer: ",B,True
+1,Quel est le sexe de Lily J. Potter ?,A,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le sexe de Lily J. Potter ?
+A. Femelle
+B. Mâle
+C. Inconnu
+D. Aucune des réponses ci-dessus
+Answer: ",B,False
+2,Quel est le sexe de James Potter I ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le sexe de James Potter I ?
+A. Femelle
+B. Mâle
+C. Inconnu
+D. Aucune des réponses ci-dessus
+Answer: ",B,True
+3,Quel est le sexe de Ron Weasley ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le sexe de Ron Weasley ?
+A. Femelle
+B. Mâle
+C. Inconnu
+D. Aucune des réponses ci-dessus
+Answer: ",B,True
+4,Quel est le sexe de Hermione Granger ?,A,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le sexe de Hermione Granger ?
+A. Femelle
+B. Mâle
+C. Inconnu
+D. Aucune des réponses ci-dessus
+Answer: ",B,False
+5,Quel est le sexe de Cho Chang ?,A,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le sexe de Cho Chang ?
+A. Femelle
+B. Mâle
+C. Inconnu
+D. Aucune des réponses ci-dessus
+Answer: ",B,False
+6,Quel est le sexe d’Albus Potter ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le sexe d’Albus Potter ?
+A. Femelle
+B. Mâle
+C. Inconnu
+D. Aucune des réponses ci-dessus
+Answer: ",B,True
+7,Quel est le sexe de Petunia Dursley ?,A,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le sexe de Petunia Dursley ?
+A. Femelle
+B. Mâle
+C. Inconnu
+D. Aucune des réponses ci-dessus
+Answer: ",B,False
+8,Quel est le sexe de Dudley Dursley ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le sexe de Dudley Dursley ?
+A. Femelle
+B. Mâle
+C. Inconnu
+D. Aucune des réponses ci-dessus
+Answer: ",B,True
+9,Quel est le sexe de William Weasley ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le sexe de William Weasley ?
+A. Femelle
+B. Mâle
+C. Inconnu
+D. Aucune des réponses ci-dessus
+Answer: ",B,True
+10,Quel est le sexe de Charles Weasley ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le sexe de Charles Weasley ?
+A. Femelle
+B. Mâle
+C. Inconnu
+D. Aucune des réponses ci-dessus
+Answer: ",B,True
+11,Quel est le sexe d’Arthur Weasley ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le sexe d’Arthur Weasley ?
+A. Femelle
+B. Mâle
+C. Inconnu
+D. Aucune des réponses ci-dessus
+Answer: ",B,True
+12,Quel est le sexe de Cedric Diggory ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le sexe de Cedric Diggory ?
+A. Femelle
+B. Mâle
+C. Inconnu
+D. Aucune des réponses ci-dessus
+Answer: ",B,True
+13,Quel est le sexe de Roger Davies ?,A,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le sexe de Roger Davies ?
+A. Femelle
+B. Mâle
+C. Inconnu
+D. Aucune des réponses ci-dessus
+Answer: ",B,False
+14,Quel est le sexe d’Aberforth Dumbledore ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le sexe d’Aberforth Dumbledore ?
+A. Femelle
+B. Mâle
+C. Inconnu
+D. Aucune des réponses ci-dessus
+Answer: ",B,True
+15,Quel est le sexe d’Ariana Dumbledore ?,A,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le sexe d’Ariana Dumbledore ?
+A. Femelle
+B. Mâle
+C. Inconnu
+D. Aucune des réponses ci-dessus
+Answer: ",B,False
+16,Quel est le sexe de Percival Dumbledore ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le sexe de Percival Dumbledore ?
+A. Femelle
+B. Mâle
+C. Inconnu
+D. Aucune des réponses ci-dessus
+Answer: ",B,True
+17,Quel est le sexe de Kendra Dumbledore ?,A,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le sexe de Kendra Dumbledore ?
+A. Femelle
+B. Mâle
+C. Inconnu
+D. Aucune des réponses ci-dessus
+Answer: ",B,False
+18,Quel est le sexe de Drago Malefoy ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le sexe de Drago Malefoy ?
+A. Femelle
+B. Mâle
+C. Inconnu
+D. Aucune des réponses ci-dessus
+Answer: ",B,True
+19,Quel est le sexe de Lucius Malfoy ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le sexe de Lucius Malfoy ?
+A. Femelle
+B. Mâle
+C. Inconnu
+D. Aucune des réponses ci-dessus
+Answer: ",B,True
+20,Quel est le sexe de Narcissa Malfoy ?,A,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le sexe de Narcissa Malfoy ?
+A. Femelle
+B. Mâle
+C. Inconnu
+D. Aucune des réponses ci-dessus
+Answer: ",B,False
+21,Quel est le sexe de Scorpius Malfoy ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le sexe de Scorpius Malfoy ?
+A. Femelle
+B. Mâle
+C. Inconnu
+D. Aucune des réponses ci-dessus
+Answer: ",B,True
+22,Quel est le sexe de Astoria Malfoy ?,A,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le sexe de Astoria Malfoy ?
+A. Femelle
+B. Mâle
+C. Inconnu
+D. Aucune des réponses ci-dessus
+Answer: ",B,False
+23,Quelle est la couleur des cheveux de Harry Potter ?,C,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quelle est la couleur des cheveux de Harry Potter ?
+A. Blonde
+B. Marron
+C. Noir
+D. Sombre
+Answer: ",B,False
+24,Quelle est la couleur des cheveux de Lily J. Potter ?,D,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quelle est la couleur des cheveux de Lily J. Potter ?
+A. Noir
+B. Sombre
+C. Marron
+D. Rouge
+Answer: ",B,False
+25,Quelle est la couleur des cheveux de James Potter I ?,C,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quelle est la couleur des cheveux de James Potter I ?
+A. Argent
+B. Marron
+C. Noir
+D. Sombre
+Answer: ",B,False
+26,Quelle est la couleur des cheveux de Ron Weasley ?,A,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quelle est la couleur des cheveux de Ron Weasley ?
+A. Rouge
+B. Marron
+C. Blonde
+D. Noir
+Answer: ",B,False
+27,Quelle est la couleur des cheveux de Hermione Granger ?,D,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quelle est la couleur des cheveux de Hermione Granger ?
+A. Rouge
+B. Argent
+C. Blonde
+D. Marron
+Answer: ",B,False
+28,Quelle est la couleur des cheveux de Cho Chang ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quelle est la couleur des cheveux de Cho Chang ?
+A. Blonde
+B. Noir
+C. Marron
+D. Sombre
+Answer: ",B,True
+29,Quelle est la couleur des cheveux d’Albus Potter ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quelle est la couleur des cheveux d’Albus Potter ?
+A. Rouge
+B. Noir
+C. Blonde
+D. Marron
+Answer: ",B,True
+30,Quelle est la couleur des cheveux de Petunia Dursley ?,C,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quelle est la couleur des cheveux de Petunia Dursley ?
+A. Sombre
+B. Argent
+C. Blonde
+D. Marron
+Answer: ",B,False
+31,Quelle est la couleur des cheveux de Dudley Dursley ?,C,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quelle est la couleur des cheveux de Dudley Dursley ?
+A. Sombre
+B. Marron
+C. Blonde
+D. Rouge
+Answer: ",B,False
+32,Quelle est la couleur des cheveux de William Weasley ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quelle est la couleur des cheveux de William Weasley ?
+A. Blonde
+B. Rouge
+C. Sombre
+D. Argent
+Answer: ",B,True
+33,Quelle est la couleur des cheveux de Charles Weasley ?,C,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quelle est la couleur des cheveux de Charles Weasley ?
+A. Sombre
+B. Argent
+C. Rouge
+D. Noir
+Answer: ",B,False
+34,Quelle est la couleur des cheveux de Arthur Weasley ?,A,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quelle est la couleur des cheveux de Arthur Weasley ?
+A. Rouge
+B. Noir
+C. Sombre
+D. Blonde
+Answer: ",B,False
+35,Quelle est la couleur des cheveux de Cedric Diggory ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quelle est la couleur des cheveux de Cedric Diggory ?
+A. Argent
+B. Sombre
+C. Marron
+D. Blonde
+Answer: ",B,True
+36,Quelle est la couleur des cheveux de Roger Davies ?,C,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quelle est la couleur des cheveux de Roger Davies ?
+A. Sombre
+B. Argent
+C. Marron
+D. Noir
+Answer: ",B,False
+37,Quelle est la couleur des cheveux de Aberforth Dumbledore ?,C,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quelle est la couleur des cheveux de Aberforth Dumbledore ?
+A. Sombre
+B. Blonde
+C. Argent
+D. Rouge
+Answer: ",B,False
+38,Quelle est la couleur des cheveux de Ariana Dumbledore ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quelle est la couleur des cheveux de Ariana Dumbledore ?
+A. Noir
+B. Blonde
+C. Sombre
+D. Rouge
+Answer: ",B,True
+39,Quelle est la couleur des cheveux de Kendra Dumbledore ?,D,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quelle est la couleur des cheveux de Kendra Dumbledore ?
+A. Argent
+B. Rouge
+C. Marron
+D. Noir
+Answer: ",B,False
+40,Quelle est la couleur des cheveux de Drago Malefoy ?,D,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quelle est la couleur des cheveux de Drago Malefoy ?
+A. Rouge
+B. Argent
+C. Sombre
+D. Blonde
+Answer: ",B,False
+41,Quelle est la couleur des cheveux de Lucius Malfoy ?,D,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quelle est la couleur des cheveux de Lucius Malfoy ?
+A. Marron
+B. Noir
+C. Rouge
+D. Blonde
+Answer: ",B,False
+42,Quelle est la couleur des cheveux de Narcissa Malfoy ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quelle est la couleur des cheveux de Narcissa Malfoy ?
+A. Marron
+B. Blonde
+C. Rouge
+D. Sombre
+Answer: ",B,True
+43,Quelle est la couleur des cheveux de Scorpius Malfoy ?,D,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quelle est la couleur des cheveux de Scorpius Malfoy ?
+A. Argent
+B. Sombre
+C. Noir
+D. Blonde
+Answer: ",B,False
+44,À quelle maison appartient Harry Potter ?,C,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+À quelle maison appartient Harry Potter ?
+A. Serdaigle
+B. Serpentard
+C. Gryffondor
+D. Poufsouffle
+Answer: ",B,False
+45,À quelle maison James Potter appartient-il ?,C,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+À quelle maison James Potter appartient-il ?
+A. Serdaigle
+B. Serpentard
+C. Gryffondor
+D. Poufsouffle
+Answer: ",B,False
+46,À quelle maison appartient Ron Weasley ?,C,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+À quelle maison appartient Ron Weasley ?
+A. Serdaigle
+B. Serpentard
+C. Gryffondor
+D. Poufsouffle
+Answer: ",B,False
+47,À quelle maison appartient Hermione Granger ?,C,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+À quelle maison appartient Hermione Granger ?
+A. Serdaigle
+B. Serpentard
+C. Gryffondor
+D. Poufsouffle
+Answer: ",B,False
+48,À quelle maison appartient Cho Chang ?,A,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+À quelle maison appartient Cho Chang ?
+A. Serdaigle
+B. Serpentard
+C. Gryffondor
+D. Poufsouffle
+Answer: ",B,False
+49,À quelle maison appartient Albus Potter ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+À quelle maison appartient Albus Potter ?
+A. Serdaigle
+B. Serpentard
+C. Gryffondor
+D. Poufsouffle
+Answer: ",B,True
+50,À quelle maison appartient Charles Weasley ?,C,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+À quelle maison appartient Charles Weasley ?
+A. Serdaigle
+B. Serpentard
+C. Gryffondor
+D. Poufsouffle
+Answer: ",B,False
+51,À quelle maison appartient Arthur Weasley ?,C,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+À quelle maison appartient Arthur Weasley ?
+A. Serdaigle
+B. Serpentard
+C. Gryffondor
+D. Poufsouffle
+Answer: ",B,False
+52,À quelle maison appartient Cedric Diggory ?,D,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+À quelle maison appartient Cedric Diggory ?
+A. Serdaigle
+B. Serpentard
+C. Gryffondor
+D. Poufsouffle
+Answer: ",B,False
+53,À quelle maison appartient Roger Davies ?,A,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+À quelle maison appartient Roger Davies ?
+A. Serdaigle
+B. Serpentard
+C. Gryffondor
+D. Poufsouffle
+Answer: ",B,False
+54,À quelle maison appartient Aberforth Dumbledore ?,C,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+À quelle maison appartient Aberforth Dumbledore ?
+A. Serdaigle
+B. Serpentard
+C. Gryffondor
+D. Poufsouffle
+Answer: ",B,False
+55,À quelle maison appartient Drago Malefoy ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+À quelle maison appartient Drago Malefoy ?
+A. Serdaigle
+B. Serpentard
+C. Gryffondor
+D. Poufsouffle
+Answer: ",B,True
+56,À quelle maison appartient Lucius Malefoy ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+À quelle maison appartient Lucius Malefoy ?
+A. Serdaigle
+B. Serpentard
+C. Gryffondor
+D. Poufsouffle
+Answer: ",B,True
+57,À quelle maison appartient Narcissa Malefoy ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+À quelle maison appartient Narcissa Malefoy ?
+A. Serdaigle
+B. Serpentard
+C. Gryffondor
+D. Poufsouffle
+Answer: ",B,True
+58,À quelle maison appartient Scorpius Malefoy ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+À quelle maison appartient Scorpius Malefoy ?
+A. Serdaigle
+B. Serpentard
+C. Gryffondor
+D. Poufsouffle
+Answer: ",B,True
+59,Quelle est la relation de James Potter I avec Harry Potter ?,C,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quelle est la relation de James Potter I avec Harry Potter ?
+A. Son
+B. Petit-fils
+C. Père
+D. Soeur
+Answer: ",B,False
+60,Qui est le père de Harry Potter ?,D,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Qui est le père de Harry Potter ?
+A. Pétunia Dursley
+B. Euphemia Potter
+C. Astoria Malefoy
+D. James Potter Ier
+Answer: ",B,False
+61,Quelle est la relation de Lily J.Potter avec Harry Potter ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quelle est la relation de Lily J.Potter avec Harry Potter ?
+A. ami
+B. Mère
+C. Mari
+D. Neveu
+Answer: ",B,True
+62,Qui est la mère de Harry Potter ?,D,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Qui est la mère de Harry Potter ?
+A. Harry Potter
+B. Aberforth Dumbledore
+C. Ron Weasley
+D. Lily J. Potter
+Answer: ",D,True
+63,Quelle est la relation de Ron Weasley avec Harry Potter ?,C,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quelle est la relation de Ron Weasley avec Harry Potter ?
+A. Père
+B. Petit-fils
+C. ami
+D. Soeur
+Answer: ",B,False
+64,Qui est l’ami d’Harry Potter ?,C,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Qui est l’ami d’Harry Potter ?
+A. Pétunia Dursley
+B. Astoria Malefoy
+C. Ron Weasley
+D. Charles Weasley
+Answer: ",B,False
+65,Quelle est la relation de Hermione Granger avec Harry Potter ?,A,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quelle est la relation de Hermione Granger avec Harry Potter ?
+A. ami
+B. Tante
+C. Fille
+D. Femme
+Answer: ",B,False
+66,Qui est l’ami d’Harry Potter ?,C,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Qui est l’ami d’Harry Potter ?
+A. Lucius Malefoy
+B. Lily J. Potter
+C. Hermione Granger
+D. Harry Potter
+Answer: ",B,False
+67,Quelle est la relation de James Potter avec Lily J.Potier?,D,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quelle est la relation de James Potter avec Lily J.Potier?
+A. Frère
+B. Neveu
+C. Mère
+D. Mari
+Answer: ",B,False
+68,Quelle est la relation de Harry Potter avec Lily J.Potier?,C,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quelle est la relation de Harry Potter avec Lily J.Potier?
+A. Mère
+B. Neveu
+C. Son
+D. ami
+Answer: ",B,False
+69,Qui est le fils de Lily J. Potter ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Qui est le fils de Lily J. Potter ?
+A. Albus Potter
+B. Harry Potter
+C. Percival Dumbledore
+D. Charles Weasley
+Answer: ",A,False
+70,Quelle est la relation de Albus Potter avec Lily J.Potier?,A,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quelle est la relation de Albus Potter avec Lily J.Potier?
+A. Petit-fils
+B. Frère
+C. Mari
+D. Fille
+Answer: ",B,False
+71,Qui est le petit-fils de Lily J. Potter ?,A,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Qui est le petit-fils de Lily J. Potter ?
+A. Albus Potter
+B. Lucius Malefoy
+C. Drago Malefoy
+D. Percival Dumbledore
+Answer: ",A,True
+72,Quelle est la relation de Petunia Dursley avec Lily J.Potier?,D,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quelle est la relation de Petunia Dursley avec Lily J.Potier?
+A. Tante
+B. Fille
+C. Mari
+D. Soeur
+Answer: ",B,False
+73,Qui est la sœur de Lily J. Potter ?,C,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Qui est la sœur de Lily J. Potter ?
+A. Aberforth Dumbledore
+B. Potier de Fleamont
+C. Pétunia Dursley
+D. Ariana Dumbledore
+Answer: ",C,True
+74,Quelle est la relation de Dudley Dursley avec Lily J.Potier?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quelle est la relation de Dudley Dursley avec Lily J.Potier?
+A. Petit-fils
+B. Neveu
+C. Mari
+D. Mère
+Answer: ",B,True
+75,Qui est le neveu de Lily J. Potter ?,D,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Qui est le neveu de Lily J. Potter ?
+A. James Potter Ier
+B. Harry Potter
+C. Charles Weasley
+D. Dudley Dursley
+Answer: ",B,False
+76,Quelle est la relation de Harry Potter avec James Potter I ?,D,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quelle est la relation de Harry Potter avec James Potter I ?
+A. Neveu
+B. Petit-fils
+C. Soeur
+D. Son
+Answer: ",B,False
+77,Qui est le fils de James Potter I ?,C,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Qui est le fils de James Potter I ?
+A. Arthur Weasley
+B. Astoria Malefoy
+C. Harry Potter
+D. Albus Potter
+Answer: ",C,True
+78,Quelle est la relation de Lily J.Potter avec James Potter I ?,D,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quelle est la relation de Lily J.Potter avec James Potter I ?
+A. Tante
+B. Grand-mère
+C. Neveu
+D. Femme
+Answer: ",B,False
+79,Qui est la femme de James Potter I ?,C,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Qui est la femme de James Potter I ?
+A. James Potter Ier
+B. William Weasley
+C. Lily J. Potter
+D. Arthur Weasley
+Answer: ",C,True
+80,Quelle est la relation de Fleamont Potter avec James Potter I ?,D,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quelle est la relation de Fleamont Potter avec James Potter I ?
+A. Neveu
+B. Femme
+C. Mère
+D. Père
+Answer: ",B,False
+81,Qui est le père de James Potter I ?,C,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Qui est le père de James Potter I ?
+A. Albus Potter
+B. Ron Weasley
+C. Potier de Fleamont
+D. Aberforth Dumbledore
+Answer: ",B,False
+82,Quelle est la relation entre Euphemia Potter et James Potter I ?,D,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quelle est la relation entre Euphemia Potter et James Potter I ?
+A. Soeur
+B. ami
+C. Grand-mère
+D. Mère
+Answer: ",B,False
+83,Qui est la mère de James Potter I ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Qui est la mère de James Potter I ?
+A. Ron Weasley
+B. Euphemia Potter
+C. Lucius Malefoy
+D. Ariana Dumbledore
+Answer: ",B,True
+84,Quelle est la relation entre Albus Potter et James Potter I ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quelle est la relation entre Albus Potter et James Potter I ?
+A. Tante
+B. Petit-fils
+C. Frère
+D. ami
+Answer: ",B,True
+85,Qui est le petit-fils de James Potter I ?,A,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Qui est le petit-fils de James Potter I ?
+A. Albus Potter
+B. Pour Chang
+C. Hermione Granger
+D. Percival Dumbledore
+Answer: ",A,True
+86,Quelle est la relation de William Weasley avec Ron Weasley ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quelle est la relation de William Weasley avec Ron Weasley ?
+A. Son
+B. Frère
+C. Grand-mère
+D. Femme
+Answer: ",B,True
+87,Qui est le frère de Ron Weasley ?,D,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Qui est le frère de Ron Weasley ?
+A. Dudley Dursley
+B. James Potter Ier
+C. Kendra Dumbledore
+D. William Weasley
+Answer: ",B,False
+88,Quelle est la relation de Charles Weasley avec Ron Weasley ?,C,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quelle est la relation de Charles Weasley avec Ron Weasley ?
+A. Petit-fils
+B. Grand-mère
+C. Frère
+D. Femme
+Answer: ",B,False
+89,Qui est le frère de Ron Weasley ?,A,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Qui est le frère de Ron Weasley ?
+A. Charles Weasley
+B. Cédric Diggory
+C. William Weasley
+D. Astoria Malefoy
+Answer: ",B,False
+90,Quelle est la relation de Hermione Granger avec Ron Weasley ?,D,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quelle est la relation de Hermione Granger avec Ron Weasley ?
+A. Son
+B. Frère
+C. Père
+D. Femme
+Answer: ",B,False
+91,Qui est la femme de Ron Weasley ?,C,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Qui est la femme de Ron Weasley ?
+A. Percival Dumbledore
+B. Scorpius Malefoy
+C. Hermione Granger
+D. Lucius Malefoy
+Answer: ",C,True
+92,Quelle est la relation de Arthur Weasley avec Ron Weasley ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quelle est la relation de Arthur Weasley avec Ron Weasley ?
+A. Grand-mère
+B. Père
+C. Fille
+D. Petit-fils
+Answer: ",B,True
+93,Qui est le père de Ron Weasley ?,A,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Qui est le père de Ron Weasley ?
+A. Arthur Weasley
+B. Pour Chang
+C. Drago Malefoy
+D. Hermione Granger
+Answer: ",A,True
+94,Quelle est la relation de Rose Granger-Weasley avec Ron Weasley ?,D,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quelle est la relation de Rose Granger-Weasley avec Ron Weasley ?
+A. Neveu
+B. Femme
+C. Soeur
+D. Fille
+Answer: ",B,False
+95,Quelle est la relation de Hugo Granger-Weasley avec Ron Weasley ?,D,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quelle est la relation de Hugo Granger-Weasley avec Ron Weasley ?
+A. Femme
+B. Neveu
+C. Soeur
+D. Son
+Answer: ",B,False
+96,Quelle est la relation de Ron Weasley avec Hermione Granger ?,A,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quelle est la relation de Ron Weasley avec Hermione Granger ?
+A. Mari
+B. Son
+C. Femme
+D. Grand-mère
+Answer: ",B,False
+97,Qui est le mari de Hermione Granger ?,D,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Qui est le mari de Hermione Granger ?
+A. Pétunia Dursley
+B. Lucius Malefoy
+C. Dudley Dursley
+D. Ron Weasley
+Answer: ",B,False
+98,Quelle est la relation de Monica Wilkins avec Hermione Granger ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quelle est la relation de Monica Wilkins avec Hermione Granger ?
+A. Petit-fils
+B. Mère
+C. Soeur
+D. Neveu
+Answer: ",B,True
+99,Quelle est la relation de Hugo Granger-Weasley avec Hermione Granger ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quelle est la relation de Hugo Granger-Weasley avec Hermione Granger ?
+A. Neveu
+B. Son
+C. Tante
+D. Grand-mère
+Answer: ",B,True
+100,Quelle est la relation de Rose Granger-Weasley avec Hermione Granger ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quelle est la relation de Rose Granger-Weasley avec Hermione Granger ?
+A. Son
+B. Fille
+C. Mère
+D. Grand-père
+Answer: ",B,True
+101,Quelle est la relation de Percival Dumbledore avec Albus Dumbledore ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quelle est la relation de Percival Dumbledore avec Albus Dumbledore ?
+A. Grand-père
+B. Père
+C. Petit-fils
+D. Soeur
+Answer: ",B,True
+102,Qui est le père d’Albus Dumbledore ?,D,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Qui est le père d’Albus Dumbledore ?
+A. Astoria Malefoy
+B. Harry Potter
+C. Arthur Weasley
+D. Percival Dumbledore
+Answer: ",B,False
+103,Quelle est la relation de Kendra Dumbledore avec Albus Dumbledore ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quelle est la relation de Kendra Dumbledore avec Albus Dumbledore ?
+A. Tante
+B. Mère
+C. Son
+D. Père
+Answer: ",B,True
+104,Qui est la mère d’Albus Dumbledore ?,D,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Qui est la mère d’Albus Dumbledore ?
+A. Lucius Malefoy
+B. Ariana Dumbledore
+C. Pour Chang
+D. Kendra Dumbledore
+Answer: ",B,False
+105,Quelle est la relation entre Aberforth Dumbledore et Albus Dumbledore ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quelle est la relation entre Aberforth Dumbledore et Albus Dumbledore ?
+A. Mari
+B. Frère
+C. Mère
+D. Soeur
+Answer: ",B,True
+106,Qui est le frère d’Albus Dumbledore ?,A,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Qui est le frère d’Albus Dumbledore ?
+A. Aberforth Dumbledore
+B. Dudley Dursley
+C. Percival Dumbledore
+D. Harry Potter
+Answer: ",A,True
+107,Quelle est la relation entre Ariana Dumbledore et Albus Dumbledore ?,A,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quelle est la relation entre Ariana Dumbledore et Albus Dumbledore ?
+A. Soeur
+B. Père
+C. Femme
+D. ami
+Answer: ",B,False
+108,Qui est la sœur d’Albus Dumbledore ?,D,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Qui est la sœur d’Albus Dumbledore ?
+A. Pétunia Dursley
+B. Percival Dumbledore
+C. Hermione Granger
+D. Ariana Dumbledore
+Answer: ",B,False
+109,Quelle est la relation de Lucius Malefoy avec Drago Malefoy ?,D,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quelle est la relation de Lucius Malefoy avec Drago Malefoy ?
+A. Frère
+B. Grand-mère
+C. Femme
+D. Son
+Answer: ",B,False
+110,Qui est le fils de Drago Malefoy ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Qui est le fils de Drago Malefoy ?
+A. Cédric Diggory
+B. Lucius Malefoy
+C. Potier de Fleamont
+D. Hermione Granger
+Answer: ",B,True
+111,Quelle est la relation de Narcissa Malefoy avec Drago Malefoy ?,C,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quelle est la relation de Narcissa Malefoy avec Drago Malefoy ?
+A. Mère
+B. Tante
+C. Son
+D. Frère
+Answer: ",B,False
+112,Qui est le fils de Drago Malefoy ?,A,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Qui est le fils de Drago Malefoy ?
+A. Narcissa Malefoy
+B. Pétunia Dursley
+C. Percival Dumbledore
+D. Dudley Dursley
+Answer: ",B,False
+113,Quelle est la relation entre Astoria Malefoy et Drago Malefoy ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quelle est la relation entre Astoria Malefoy et Drago Malefoy ?
+A. ami
+B. Femme
+C. Grand-père
+D. Son
+Answer: ",B,True
+114,Qui est la femme de Drago Malefoy ?,A,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Qui est la femme de Drago Malefoy ?
+A. Astoria Malefoy
+B. Potier de Fleamont
+C. Narcissa Malefoy
+D. William Weasley
+Answer: ",A,True
+115,Quelle est la relation de Scorpius Malefoy avec Drago Malefoy ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quelle est la relation de Scorpius Malefoy avec Drago Malefoy ?
+A. Grand-père
+B. Son
+C. Fille
+D. Tante
+Answer: ",B,True
+116,Qui est le fils de Drago Malefoy ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Qui est le fils de Drago Malefoy ?
+A. Drago Malefoy
+B. Scorpius Malefoy
+C. Arthur Weasley
+D. Percival Dumbledore
+Answer: ",B,True
+117,Quelle est la relation de James Potter I avec Fleamont Potter ?,D,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quelle est la relation de James Potter I avec Fleamont Potter ?
+A. Tante
+B. Femme
+C. Frère
+D. Son
+Answer: ",B,False
+118,Qui est le fils de Fleamont Potter ?,A,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Qui est le fils de Fleamont Potter ?
+A. James Potter Ier
+B. Ron Weasley
+C. Drago Malefoy
+D. Arthur Weasley
+Answer: ",A,True
+119,Quelle est la relation de James Potter I avec Euphemia Potter ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quelle est la relation de James Potter I avec Euphemia Potter ?
+A. Mari
+B. Son
+C. Mère
+D. Petit-fils
+Answer: ",B,True
+120,Qui est le fils d’Euphemia Potter ?,C,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Qui est le fils d’Euphemia Potter ?
+A. Percival Dumbledore
+B. William Weasley
+C. James Potter Ier
+D. Lily J. Potter
+Answer: ",B,False
+121,Quelle est la relation de James Potter I avec Albus Potter ?,C,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quelle est la relation de James Potter I avec Albus Potter ?
+A. Mère
+B. Femme
+C. Grand-père
+D. Son
+Answer: ",B,False
+122,Qui est le grand-père d’Albus Potter ?,D,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Qui est le grand-père d’Albus Potter ?
+A. Albus Potter
+B. Harry Potter
+C. Aberforth Dumbledore
+D. James Potter Ier
+Answer: ",B,False
+123,Quelle est la relation de Lily J.Potter avec Albus Potter ?,A,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quelle est la relation de Lily J.Potter avec Albus Potter ?
+A. Grand-mère
+B. Frère
+C. Son
+D. Mère
+Answer: ",B,False
+124,Qui est la grand-mère d’Albus Potter ?,D,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Qui est la grand-mère d’Albus Potter ?
+A. Scorpius Malefoy
+B. Harry Potter
+C. Roger Davies
+D. Lily J. Potter
+Answer: ",B,False
+125,Quelle est la relation de Lily J.Potter avec Petunia Dursley ?,C,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quelle est la relation de Lily J.Potter avec Petunia Dursley ?
+A. Mère
+B. Grand-mère
+C. Soeur
+D. Père
+Answer: ",B,False
+126,Qui est la sœur de Petunia Dursley ?,A,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Qui est la sœur de Petunia Dursley ?
+A. Lily J. Potter
+B. Lucius Malefoy
+C. James Potter Ier
+D. Scorpius Malefoy
+Answer: ",B,False
+127,Quelle est la relation de Lily J.Potter avec Dudley Dursley ?,A,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quelle est la relation de Lily J.Potter avec Dudley Dursley ?
+A. Tante
+B. Père
+C. Mari
+D. Frère
+Answer: ",B,False
+128,Qui est la tante de Dudley Dursley ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Qui est la tante de Dudley Dursley ?
+A. Potier de Fleamont
+B. Lily J. Potter
+C. Astoria Malefoy
+D. Albus Potter
+Answer: ",B,True
+129,Quelle est la relation de Ron Weasley avec William Weasley ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quelle est la relation de Ron Weasley avec William Weasley ?
+A. Soeur
+B. Frère
+C. Son
+D. Femme
+Answer: ",B,True
+130,Qui est le frère de William Weasley ?,C,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Qui est le frère de William Weasley ?
+A. Lily J. Potter
+B. Charles Weasley
+C. Ron Weasley
+D. James Potter Ier
+Answer: ",B,False
+131,Quelle est la relation de Ron Weasley avec Charles Weasley ?,C,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quelle est la relation de Ron Weasley avec Charles Weasley ?
+A. ami
+B. Petit-fils
+C. Frère
+D. Grand-père
+Answer: ",B,False
+132,Qui est le frère de Charles Weasley ?,C,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Qui est le frère de Charles Weasley ?
+A. Pour Chang
+B. Scorpius Malefoy
+C. Ron Weasley
+D. Ariana Dumbledore
+Answer: ",B,False
+133,Quelle est la relation de Ron Weasley avec Rose Granger-Weasley ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quelle est la relation de Ron Weasley avec Rose Granger-Weasley ?
+A. Grand-père
+B. Père
+C. Tante
+D. Petit-fils
+Answer: ",B,True
+134,Qui est le père de Rose Granger-Weasley ?,D,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Qui est le père de Rose Granger-Weasley ?
+A. Ariana Dumbledore
+B. Drago Malefoy
+C. Arthur Weasley
+D. Ron Weasley
+Answer: ",B,False
+135,Quelle est la relation de Ron Weasley avec Hugo Granger-Weasley ?,A,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quelle est la relation de Ron Weasley avec Hugo Granger-Weasley ?
+A. Père
+B. Grand-père
+C. Mari
+D. Neveu
+Answer: ",B,False
+136,Qui est le père de Hugo Granger-Weasley ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Qui est le père de Hugo Granger-Weasley ?
+A. Potier de Fleamont
+B. Ron Weasley
+C. Kendra Dumbledore
+D. Pétunia Dursley
+Answer: ",B,True
+137,Quelle est la relation de Ron Weasley avec Arthur Weasley ?,D,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quelle est la relation de Ron Weasley avec Arthur Weasley ?
+A. Mari
+B. Tante
+C. Femme
+D. Son
+Answer: ",B,False
+138,Qui est le fils d’Arthur Weasley ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Qui est le fils d’Arthur Weasley ?
+A. Ariana Dumbledore
+B. Ron Weasley
+C. Potier de Fleamont
+D. Percival Dumbledore
+Answer: ",B,True
+139,Quel est le lien de parenté entre Hermione Granger et Rose Granger-Weasley ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le lien de parenté entre Hermione Granger et Rose Granger-Weasley ?
+A. Frère
+B. Mère
+C. Petit-fils
+D. Neveu
+Answer: ",B,True
+140,Qui est la mère de Rose Granger-Weasley ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Qui est la mère de Rose Granger-Weasley ?
+A. Roger Davies
+B. Hermione Granger
+C. Arthur Weasley
+D. Lily J. Potter
+Answer: ",B,True
+141,Quelle est la relation de Hermione Granger avec Hugo Granger-Weasley ?,C,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quelle est la relation de Hermione Granger avec Hugo Granger-Weasley ?
+A. Tante
+B. Neveu
+C. Mère
+D. Femme
+Answer: ",B,False
+142,Qui est la mère d’Hugo Granger-Weasley ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Qui est la mère d’Hugo Granger-Weasley ?
+A. Ariana Dumbledore
+B. Hermione Granger
+C. Euphemia Potter
+D. Charles Weasley
+Answer: ",B,True
+143,Quelle est la relation de Hermione Granger avec Monica Wilkins ?,D,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quelle est la relation de Hermione Granger avec Monica Wilkins ?
+A. Neveu
+B. Petit-fils
+C. Mari
+D. Fille
+Answer: ",B,False
+144,Qui est la fille de Monica Wilkins ?,D,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Qui est la fille de Monica Wilkins ?
+A. Roger Davies
+B. Lily J. Potter
+C. Euphemia Potter
+D. Hermione Granger
+Answer: ",B,False
+145,Quelle est la relation entre Albus Dumbledore et Aberforth Dumbledore ?,C,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quelle est la relation entre Albus Dumbledore et Aberforth Dumbledore ?
+A. Neveu
+B. Soeur
+C. Frère
+D. Mère
+Answer: ",B,False
+146,Quelle est la relation entre Albus Dumbledore et Ariana Dumbledore ?,A,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quelle est la relation entre Albus Dumbledore et Ariana Dumbledore ?
+A. Frère
+B. Son
+C. ami
+D. Mari
+Answer: ",B,False
+147,Quelle est la relation entre Albus Dumbledore et Percival Dumbledore ?,D,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quelle est la relation entre Albus Dumbledore et Percival Dumbledore ?
+A. Grand-père
+B. Père
+C. Grand-mère
+D. Son
+Answer: ",B,False
+148,Quelle est la relation entre Albus Dumbledore et Kendra Dumbledore ?,A,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quelle est la relation entre Albus Dumbledore et Kendra Dumbledore ?
+A. Son
+B. ami
+C. Neveu
+D. Frère
+Answer: ",B,False
+149,Quelle est la relation de Drago Malefoy avec Lucius Malefoy ?,D,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quelle est la relation de Drago Malefoy avec Lucius Malefoy ?
+A. Tante
+B. Mère
+C. Fille
+D. Père
+Answer: ",B,False
+150,Qui est le père de Lucius Malefoy ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Qui est le père de Lucius Malefoy ?
+A. Lucius Malefoy
+B. Drago Malefoy
+C. Euphemia Potter
+D. Pour Chang
+Answer: ",B,True
+151,Quelle est la relation de Drago Malefoy avec Narcissa Malefoy ?,A,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quelle est la relation de Drago Malefoy avec Narcissa Malefoy ?
+A. Mère
+B. Père
+C. Neveu
+D. Frère
+Answer: ",B,False
+152,Qui est la mère de Narcissa Malefoy ?,C,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Qui est la mère de Narcissa Malefoy ?
+A. Lily J. Potter
+B. Percival Dumbledore
+C. Drago Malefoy
+D. Cédric Diggory
+Answer: ",B,False
+153,Quelle est la relation de Drago Malefoy avec Scorpius Malefoy ?,A,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quelle est la relation de Drago Malefoy avec Scorpius Malefoy ?
+A. Mari
+B. Soeur
+C. Tante
+D. ami
+Answer: ",B,False
+154,Qui est le mari de Scorpius Malefoy ?,A,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Qui est le mari de Scorpius Malefoy ?
+A. Drago Malefoy
+B. Arthur Weasley
+C. Scorpius Malefoy
+D. Pour Chang
+Answer: ",B,False
+155,Quelle est la relation de Drago Malefoy avec Astoria Malefoy ?,A,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quelle est la relation de Drago Malefoy avec Astoria Malefoy ?
+A. Père
+B. Petit-fils
+C. Frère
+D. Mari
+Answer: ",B,False
+156,Qui est le père d’Astoria Malefoy ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Qui est le père d’Astoria Malefoy ?
+A. Lily J. Potter
+B. Drago Malefoy
+C. Hermione Granger
+D. Harry Potter
+Answer: ",B,True
+157,Quel est le type du sort nommé Aberto ?,C,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Aberto ?
+A. Contre-sort
+B. Contre-charme
+C. Charme
+D. Transfiguration
+Answer: ",B,False
+158,Quel est le type du sort nommé Accio ?,D,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Accio ?
+A. Contre-sort
+B. La détransfiguration
+C. Contre-charme
+D. Charme
+Answer: ",B,False
+159,Quel est le type du sort nommé Ligne d’âge ?,D,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Ligne d’âge ?
+A. Transfiguration
+B. Porte-malheur
+C. Orthographe
+D. Charme
+Answer: ",B,False
+160,Quel est le type du sort nommé Alarte Ascendare ?,C,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Alarte Ascendare ?
+A. Contre-sort
+B. Contre-charme
+C. Charme
+D. Porte-malheur
+Answer: ",B,False
+161,Quel est le type du sort nommé Alohomora ?,D,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Alohomora ?
+A. Transport
+B. Conjuration
+C. Contre-Jinx
+D. Charme
+Answer: ",B,False
+162,Quel est le type du sort nommé Sort Anti-Triche ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Sort Anti-Triche ?
+A. Transport
+B. Charme
+C. La détransfiguration
+D. Contre-charme
+Answer: ",B,True
+163,Quel est le type du sort nommé Charme Anti-Apparition ?,A,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Charme Anti-Apparition ?
+A. Charme
+B. Sortilège
+C. Maudire
+D. Contre-charme
+Answer: ",B,False
+164,Quel est le type du sort nommé Jinx Anti-Désapparition ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Jinx Anti-Désapparition ?
+A. Contre-Jinx
+B. Porte-malheur
+C. Transfiguration
+D. Contre-charme
+Answer: ",B,True
+165,Quel est le type du sort nommé Jinx anti-intrus ?,A,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Jinx anti-intrus ?
+A. Porte-malheur
+B. Disparition
+C. Charme
+D. Sortilège
+Answer: ",B,False
+166,Quel est le type du sort nommé Aparecium ?,D,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Aparecium ?
+A. Conjuration
+B. Orthographe
+C. Contre-charme
+D. Charme
+Answer: ",B,False
+167,Quel est le type du sort nommé Appare Vestigium ?,C,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Appare Vestigium ?
+A. Transport
+B. Maudire
+C. Charme
+D. Contre-Jinx
+Answer: ",B,False
+168,Quel est le type du sort nommé Apparition ?,C,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Apparition ?
+A. Maudire
+B. Inconnu
+C. Transport
+D. Contre-sort
+Answer: ",C,True
+169,Quel est le type du sort nommé Aqua Eructo ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Aqua Eructo ?
+A. Contre-charme
+B. Charme
+C. Contre-sort
+D. Orthographe
+Answer: ",B,True
+170,Quel est le type du sort nommé Arania Exumai ?,C,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Arania Exumai ?
+A. Contre-sort
+B. La détransfiguration
+C. Charme
+D. Conjuration
+Answer: ",B,False
+171,Quel est le type du sort nommé Arresto Momentum ?,A,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Arresto Momentum ?
+A. Charme
+B. Disparition
+C. Transport
+D. Sortilège
+Answer: ",B,False
+172,Quel est le type du sort nommé Sort de tir de flèche ?,C,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Sort de tir de flèche ?
+A. Contre-Jinx
+B. Transfiguration
+C. Conjuration
+D. Maudire
+Answer: ",B,False
+173,Quel est le type du sort nommé Ascendio ?,C,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Ascendio ?
+A. Orthographe
+B. Sortilège
+C. Charme
+D. Transport
+Answer: ",B,False
+174,Quel est le type du sort nommé Avada Kedavra ?,C,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Avada Kedavra ?
+A. Disparition
+B. Sortilège
+C. Maudire
+D. Contre-sort
+Answer: ",B,False
+175,Quel est le type du sort nommé Avifors ?,A,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Avifors ?
+A. Transfiguration
+B. La détransfiguration
+C. Contre-charme
+D. Orthographe
+Answer: ",B,False
+176,Quel est le type du sort nommé Avenseguim ?,C,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Avenseguim ?
+A. Disparition
+B. Sortilège
+C. Charme
+D. Conjuration
+Answer: ",B,False
+177,Quel est le type du sort nommé Malédiction du Babillage ?,D,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Malédiction du Babillage ?
+A. Porte-malheur
+B. Inconnu
+C. Charme
+D. Maudire
+Answer: ",B,False
+178,Quel est le type du sort nommé Badgering ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Badgering ?
+A. Contre-sort
+B. Transfiguration
+C. La détransfiguration
+D. Contre-Jinx
+Answer: ",B,True
+179,Quel est le type du sort nommé Bat-Bogey Hex ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Bat-Bogey Hex ?
+A. Conjuration
+B. Sortilège
+C. Porte-malheur
+D. Inconnu
+Answer: ",B,True
+180,Quel est le type du sort nommé Sort éblouissant ?,A,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Sort éblouissant ?
+A. Sortilège
+B. Contre-sort
+C. Charme
+D. Contre-charme
+Answer: ",B,False
+181,Quel est le type du sort nommé Boules de neige ensorcelées ?,C,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Boules de neige ensorcelées ?
+A. Sortilège
+B. Transport
+C. Charme
+D. La détransfiguration
+Answer: ",B,False
+182,Quel est le type du sort nommé Bluebell Flames ?,D,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Bluebell Flames ?
+A. La détransfiguration
+B. Porte-malheur
+C. Contre-Jinx
+D. Charme
+Answer: ",B,False
+183,Quel est le type du sort nommé Étincelles bleues ?,C,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Étincelles bleues ?
+A. Contre-sort
+B. Porte-malheur
+C. Charme
+D. Maudire
+Answer: ",B,False
+184,Quel est le type du sort nommé Bombarda ?,D,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Bombarda ?
+A. Porte-malheur
+B. Contre-Jinx
+C. La détransfiguration
+D. Charme
+Answer: ",B,False
+185,Quel est le type du sort nommé Bombarda Maxima ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Bombarda Maxima ?
+A. Disparition
+B. Charme
+C. Inconnu
+D. Transfiguration
+Answer: ",B,True
+186,Quel est le type du sort nommé Charme de bravoure ?,D,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Charme de bravoure ?
+A. Orthographe
+B. Transfiguration
+C. Disparition
+D. Charme
+Answer: ",B,False
+187,Quel est le type du sort nommé sort d’invocation de pont ?,C,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé sort d’invocation de pont ?
+A. Contre-Jinx
+B. Porte-malheur
+C. Charme
+D. Maudire
+Answer: ",B,False
+188,Quel est le type du sort nommé Broom jinx ?,C,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Broom jinx ?
+A. La détransfiguration
+B. Transport
+C. Porte-malheur
+D. Maudire
+Answer: ",B,False
+189,Quel est le type du sort nommé Charme de la tête de bulle ?,A,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Charme de la tête de bulle ?
+A. Charme
+B. Sortilège
+C. Contre-charme
+D. Transport
+Answer: ",B,False
+190,Quel est le type du sort nommé Sort de Bulle ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Sort de Bulle ?
+A. Transfiguration
+B. Charme
+C. Contre-charme
+D. Orthographe
+Answer: ",B,True
+191,Quel est le type du sort nommé Calvorio ?,D,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Calvorio ?
+A. Transfiguration
+B. Charme
+C. Contre-charme
+D. Maudire
+Answer: ",B,False
+192,Quel est le type du sort nommé Cantis ?,C,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Cantis ?
+A. Disparition
+B. Maudire
+C. Charme
+D. Transfiguration
+Answer: ",B,False
+193,Quel est le type du sort nommé Extremis spacieux ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Extremis spacieux ?
+A. Inconnu
+B. Charme
+C. Contre-sort
+D. Transport
+Answer: ",B,True
+194,Quel est le type du sort nommé Carpe Retractum ?,C,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Carpe Retractum ?
+A. Disparition
+B. Contre-charme
+C. Charme
+D. Conjuration
+Answer: ",B,False
+195,Quel est le type du sort nommé Cascade Jinx ?,D,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Cascade Jinx ?
+A. Sortilège
+B. Contre-Jinx
+C. Orthographe
+D. Porte-malheur
+Answer: ",B,False
+196,Quel est le type du sort nommé Charme de Caterwauling ?,D,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Charme de Caterwauling ?
+A. Contre-charme
+B. Inconnu
+C. Sortilège
+D. Charme
+Answer: ",B,False
+197,Quel est le type du sort nommé Cave inimicum ?,C,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Cave inimicum ?
+A. Transfiguration
+B. Contre-charme
+C. Charme
+D. Sortilège
+Answer: ",B,False
+198,Quel est le type du sort nommé Celescere ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Celescere ?
+A. Porte-malheur
+B. Charme
+C. Inconnu
+D. Orthographe
+Answer: ",B,True
+199,Quel est le type du sort nommé Charme d’encouragement ?,D,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Charme d’encouragement ?
+A. Inconnu
+B. Orthographe
+C. Transport
+D. Charme
+Answer: ",B,False
+200,Quel est le type du sort nommé Circumrota ?,D,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Circumrota ?
+A. Transfiguration
+B. Contre-sort
+C. Porte-malheur
+D. Charme
+Answer: ",B,False
+201,Quel est le type du sort nommé Cistem Aperio ?,C,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Cistem Aperio ?
+A. Sortilège
+B. La détransfiguration
+C. Charme
+D. Inconnu
+Answer: ",B,False
+202,Quel est le type du sort nommé Colloportus ?,C,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Colloportus ?
+A. Transfiguration
+B. Disparition
+C. Charme
+D. La détransfiguration
+Answer: ",B,False
+203,Quel est le type du sort nommé Colloshoo ?,A,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Colloshoo ?
+A. Sortilège
+B. Disparition
+C. Transport
+D. Contre-Jinx
+Answer: ",B,False
+204,Quel est le type du sort nommé Colovaria ?,C,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Colovaria ?
+A. Contre-charme
+B. Contre-Jinx
+C. Charme
+D. Porte-malheur
+Answer: ",B,False
+205,Quel est le type du sort nommé Confring ?,D,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Confring ?
+A. Transfiguration
+B. Transport
+C. Orthographe
+D. Maudire
+Answer: ",B,False
+206,Quel est le type du sort nommé Confundo ?,C,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Confundo ?
+A. Inconnu
+B. Conjuration
+C. Charme
+D. Transfiguration
+Answer: ",B,False
+207,Quel est le type du sort nommé Malédiction de la conjonctivite ?,D,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Malédiction de la conjonctivite ?
+A. La détransfiguration
+B. Conjuration
+C. Charme
+D. Maudire
+Answer: ",B,False
+208,Quel est le type du sort nommé Cracker Jinx ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Cracker Jinx ?
+A. Disparition
+B. Porte-malheur
+C. Charme
+D. Sortilège
+Answer: ",B,True
+209,Quel est le type du sort nommé Cribbing Spell ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Cribbing Spell ?
+A. Sortilège
+B. Orthographe
+C. Conjuration
+D. Charme
+Answer: ",B,True
+210,Quel est le type du sort nommé Crinus Muto ?,A,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Crinus Muto ?
+A. Transfiguration
+B. Contre-charme
+C. Contre-charme
+D. Contre-sort
+Answer: ",B,False
+211,Quel est le type du sort nommé Crucio ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Crucio ?
+A. Contre-sort
+B. Maudire
+C. La détransfiguration
+D. Transport
+Answer: ",B,True
+212,Quel est le type du sort nommé Defodio ?,D,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Defodio ?
+A. Transfiguration
+B. Inconnu
+C. Conjuration
+D. Charme
+Answer: ",B,False
+213,Quel est le type du sort nommé Deletrius ?,C,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Deletrius ?
+A. Porte-malheur
+B. La détransfiguration
+C. Charme
+D. Transport
+Answer: ",B,False
+214,Quel est le type du sort nommé Densaugeo ?,A,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Densaugeo ?
+A. Sortilège
+B. Contre-charme
+C. Transport
+D. La détransfiguration
+Answer: ",B,False
+215,Quel est le type du sort nommé Deprimo ?,D,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Deprimo ?
+A. Contre-sort
+B. Conjuration
+C. Contre-Jinx
+D. Charme
+Answer: ",B,False
+216,Quel est le type du sort nommé Depulso ?,C,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Depulso ?
+A. Disparition
+B. La détransfiguration
+C. Charme
+D. Contre-sort
+Answer: ",B,False
+217,Quel est le type du sort nommé Descendo ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Descendo ?
+A. La détransfiguration
+B. Charme
+C. Contre-charme
+D. Porte-malheur
+Answer: ",B,True
+218,Quel est le type du sort nommé Sort de Détérioration ?,A,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Sort de Détérioration ?
+A. Sortilège
+B. Contre-charme
+C. Orthographe
+D. Contre-charme
+Answer: ",B,False
+219,Quel est le type du sort nommé Diffindo ?,D,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Diffindo ?
+A. Disparition
+B. Transport
+C. Maudire
+D. Charme
+Answer: ",B,False
+220,Quel est le type du sort nommé Diminuendo ?,D,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Diminuendo ?
+A. Transport
+B. Transfiguration
+C. Maudire
+D. Charme
+Answer: ",B,False
+221,Quel est le type du sort nommé Dissendium ?,A,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Dissendium ?
+A. Charme
+B. Contre-sort
+C. Transport
+D. La détransfiguration
+Answer: ",B,False
+222,Quel est le type du sort nommé Charme de désillusion ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Charme de désillusion ?
+A. Disparition
+B. Charme
+C. Transfiguration
+D. Porte-malheur
+Answer: ",B,True
+223,Quel est le type du sort nommé Draconifors ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Draconifors ?
+A. Contre-charme
+B. Transfiguration
+C. Conjuration
+D. Maudire
+Answer: ",B,True
+224,Quel est le type du sort nommé Charme de sécheresse ?,D,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Charme de sécheresse ?
+A. Transport
+B. Contre-charme
+C. Transfiguration
+D. Charme
+Answer: ",B,False
+225,Quel est le type du sort nommé Duro ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Duro ?
+A. Contre-sort
+B. Charme
+C. Orthographe
+D. Contre-charme
+Answer: ",B,True
+226,Quel est le type du sort nommé Malédiction ratatinée ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Malédiction ratatinée ?
+A. Orthographe
+B. Maudire
+C. La détransfiguration
+D. Disparition
+Answer: ",B,True
+227,Quel est le type du sort nommé Ebublio ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Ebublio ?
+A. Disparition
+B. Porte-malheur
+C. La détransfiguration
+D. Contre-charme
+Answer: ",B,True
+228,Quel est le type du sort nommé Encorgio ?,D,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Encorgio ?
+A. La détransfiguration
+B. Contre-Jinx
+C. Transport
+D. Charme
+Answer: ",B,False
+229,Quel est le type du sort nommé Malédiction d’expulsion des entrailles ?,A,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Malédiction d’expulsion des entrailles ?
+A. Maudire
+B. Orthographe
+C. Inconnu
+D. Disparition
+Answer: ",B,False
+230,Quel est le type du sort nommé Époximise ?,C,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Époximise ?
+A. Orthographe
+B. Contre-Jinx
+C. Transfiguration
+D. Maudire
+Answer: ",B,False
+231,Quel est le type du sort nommé Erecto ?,D,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Erecto ?
+A. Transport
+B. Contre-charme
+C. Sortilège
+D. Charme
+Answer: ",B,False
+232,Quel est le type du sort nommé Evanesce ?,C,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Evanesce ?
+A. Contre-sort
+B. Sortilège
+C. Transfiguration
+D. Porte-malheur
+Answer: ",B,False
+233,Quel est le type du sort nommé Evanesco ?,C,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Evanesco ?
+A. Disparition
+B. La détransfiguration
+C. Transfiguration
+D. Transport
+Answer: ",A,False
+234,Quel est le type du sort nommé Everte Statum ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Everte Statum ?
+A. Contre-charme
+B. Orthographe
+C. Conjuration
+D. Sortilège
+Answer: ",B,True
+235,Quel est le type du sort nommé Expecto Patronum ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Expecto Patronum ?
+A. Disparition
+B. Charme
+C. Conjuration
+D. Sortilège
+Answer: ",B,True
+236,Quel est le type du sort nommé Expelliarmus ?,A,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Expelliarmus ?
+A. Charme
+B. Sortilège
+C. Transfiguration
+D. Contre-charme
+Answer: ",B,False
+237,Quel est le type du sort nommé Expulso ?,A,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Expulso ?
+A. Maudire
+B. Charme
+C. Disparition
+D. Contre-sort
+Answer: ",B,False
+238,Quel est le type du sort nommé Sort d’extinction ?,A,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Sort d’extinction ?
+A. Charme
+B. Contre-sort
+C. Contre-charme
+D. Maudire
+Answer: ",B,False
+239,Quel est le type du sort nommé Charme léger comme une plume ?,A,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Charme léger comme une plume ?
+A. Charme
+B. Contre-sort
+C. Sortilège
+D. Contre-charme
+Answer: ",B,False
+240,Quel est le type du sort nommé Fianto Duri ?,A,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Fianto Duri ?
+A. Charme
+B. Porte-malheur
+C. La détransfiguration
+D. Orthographe
+Answer: ",B,False
+241,Quel est le type du sort nommé Charme de Fidelius ?,A,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Charme de Fidelius ?
+A. Charme
+B. Disparition
+C. Contre-charme
+D. Contre-sort
+Answer: ",B,False
+242,Quel est le type du sort nommé Fiendfyre ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Fiendfyre ?
+A. Transfiguration
+B. Maudire
+C. Sortilège
+D. Porte-malheur
+Answer: ",B,True
+243,Quel est le type du sort nommé Finestra ?,A,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Finestra ?
+A. Charme
+B. Conjuration
+C. Sortilège
+D. Contre-Jinx
+Answer: ",B,False
+244,Quel est le type du sort nommé Incantatem fini ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Incantatem fini ?
+A. Inconnu
+B. Contre-sort
+C. Orthographe
+D. Porte-malheur
+Answer: ",B,True
+245,Quel est le type du sort nommé Finger-removing jinx ?,C,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Finger-removing jinx ?
+A. Contre-sort
+B. Transport
+C. Porte-malheur
+D. Charme
+Answer: ",B,False
+246,Quel est le type du sort nommé Tempête de feu ?,C,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Tempête de feu ?
+A. Orthographe
+B. Transport
+C. Charme
+D. Contre-sort
+Answer: ",B,False
+247,Quel est le type du sort nommé Malédiction Flagrante ?,D,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Malédiction Flagrante ?
+A. Inconnu
+B. Orthographe
+C. Transfiguration
+D. Maudire
+Answer: ",B,False
+248,Quel est le type du sort nommé Flagrate ?,A,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Flagrate ?
+A. Charme
+B. Conjuration
+C. Contre-sort
+D. Disparition
+Answer: ",B,False
+249,Quel est le type du sort nommé Charme de Gel de Flammes ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Charme de Gel de Flammes ?
+A. Orthographe
+B. Charme
+C. Sortilège
+D. Inconnu
+Answer: ",B,True
+250,Quel est le type du sort nommé sort d’invocation de flacon ?,D,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé sort d’invocation de flacon ?
+A. Contre-Jinx
+B. Maudire
+C. Disparition
+D. Conjuration
+Answer: ",B,False
+251,Quel est le type du sort nommé Flintifors ?,C,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Flintifors ?
+A. La détransfiguration
+B. Contre-Jinx
+C. Transfiguration
+D. Contre-charme
+Answer: ",B,False
+252,Quel est le type du sort nommé Flipendo ?,C,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Flipendo ?
+A. Maudire
+B. Disparition
+C. Porte-malheur
+D. Charme
+Answer: ",B,False
+253,Quel est le type du sort nommé Flipendo Duo ?,A,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Flipendo Duo ?
+A. Porte-malheur
+B. Contre-sort
+C. Conjuration
+D. Contre-charme
+Answer: ",B,False
+254,Quel est le type du sort nommé Flipendo Maxima ?,A,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Flipendo Maxima ?
+A. Porte-malheur
+B. Inconnu
+C. Disparition
+D. Maudire
+Answer: ",B,False
+255,Quel est le type du sort nommé Flipendo Tria ?,A,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Flipendo Tria ?
+A. Porte-malheur
+B. Contre-Jinx
+C. Transport
+D. Inconnu
+Answer: ",B,False
+256,Quel est le type du sort nommé Charme volant ?,A,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Charme volant ?
+A. Charme
+B. Porte-malheur
+C. Inconnu
+D. Contre-Jinx
+Answer: ",B,False
+257,Quel est le type du sort nommé Fracto Strata ?,A,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Fracto Strata ?
+A. Orthographe
+B. Contre-charme
+C. Transport
+D. Charme
+Answer: ",B,False
+258,Quel est le type du sort nommé Fumos ?,D,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Fumos ?
+A. Contre-charme
+B. Disparition
+C. Porte-malheur
+D. Charme
+Answer: ",B,False
+259,Quel est le type du sort nommé Fumos Duo ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Fumos Duo ?
+A. Contre-charme
+B. Charme
+C. Sortilège
+D. Orthographe
+Answer: ",B,True
+260,Quel est le type du sort nommé Furnunculus ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Furnunculus ?
+A. Sortilège
+B. Porte-malheur
+C. Charme
+D. Contre-charme
+Answer: ",B,True
+261,Quel est le type du sort nommé Sort Fourrure ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Sort Fourrure ?
+A. Orthographe
+B. Charme
+C. Maudire
+D. Sortilège
+Answer: ",B,True
+262,Quel est le type du sort nommé Geminio ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Geminio ?
+A. Disparition
+B. Charme
+C. Maudire
+D. Contre-Jinx
+Answer: ",B,True
+263,Quel est le type du sort nommé Glacius ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Glacius ?
+A. Transport
+B. Charme
+C. Contre-charme
+D. Contre-Jinx
+Answer: ",B,True
+264,Quel est le type du sort nommé Glacius Duo ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Glacius Duo ?
+A. Orthographe
+B. Charme
+C. Inconnu
+D. Transport
+Answer: ",B,True
+265,Quel est le type du sort nommé Glacius Tria ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Glacius Tria ?
+A. Sortilège
+B. Charme
+C. Contre-charme
+D. Contre-sort
+Answer: ",B,True
+266,Quel est le type du sort nommé Glisseo ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Glisseo ?
+A. Disparition
+B. Charme
+C. Inconnu
+D. Maudire
+Answer: ",B,True
+267,Quel est le type du sort nommé Charme de préhension ?,D,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Charme de préhension ?
+A. Sortilège
+B. Disparition
+C. Conjuration
+D. Charme
+Answer: ",B,False
+268,Quel est le type du sort nommé Charme épaississant des cheveux ?,C,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Charme épaississant des cheveux ?
+A. Maudire
+B. Inconnu
+C. Charme
+D. La détransfiguration
+Answer: ",C,True
+269,Quel est le type du sort nommé Herbifors ?,A,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Herbifors ?
+A. Transfiguration
+B. Contre-charme
+C. Sortilège
+D. Orthographe
+Answer: ",B,False
+270,Quel est le type du sort nommé Herbivicus ?,A,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Herbivicus ?
+A. Charme
+B. Sortilège
+C. Contre-Jinx
+D. Disparition
+Answer: ",B,False
+271,Quel est le type du sort nommé Homenum Revelio ?,D,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Homenum Revelio ?
+A. Inconnu
+B. Transfiguration
+C. Maudire
+D. Charme
+Answer: ",B,False
+272,Quel est le type du sort nommé Charme homonculeux ?,D,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Charme homonculeux ?
+A. Contre-sort
+B. Contre-Jinx
+C. Transfiguration
+D. Charme
+Answer: ",B,False
+273,Quel est le type du sort nommé Hurling Hex ?,C,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Hurling Hex ?
+A. Conjuration
+B. Transfiguration
+C. Sortilège
+D. Maudire
+Answer: ",B,False
+274,Quel est le type du sort nommé Impedimenta ?,A,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Impedimenta ?
+A. Porte-malheur
+B. Contre-sort
+C. Charme
+D. Inconnu
+Answer: ",B,False
+275,Quel est le type du sort nommé Imperio ?,D,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Imperio ?
+A. Contre-charme
+B. Contre-Jinx
+C. La détransfiguration
+D. Maudire
+Answer: ",B,False
+276,Quel est le type du sort nommé Inanimatus Conjurus ?,A,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Inanimatus Conjurus ?
+A. Transfiguration
+B. Charme
+C. Disparition
+D. Conjuration
+Answer: ",B,False
+277,Quel est le type du sort nommé Incarcerous ?,D,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Incarcerous ?
+A. Sortilège
+B. Orthographe
+C. Contre-charme
+D. Conjuration
+Answer: ",B,False
+278,Quel est le type du sort nommé Inflatus ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Inflatus ?
+A. Charme
+B. Porte-malheur
+C. Contre-Jinx
+D. Contre-charme
+Answer: ",B,True
+279,Quel est le type du sort nommé Jelly-Brain Jinx ?,A,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Jelly-Brain Jinx ?
+A. Porte-malheur
+B. Contre-Jinx
+C. Transfiguration
+D. Conjuration
+Answer: ",B,False
+280,Quel est le type du sort nommé Malédiction des doigts de gelée ?,C,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Malédiction des doigts de gelée ?
+A. Charme
+B. Contre-sort
+C. Maudire
+D. Contre-charme
+Answer: ",B,False
+281,Quel est le type du sort nommé Knee-reversal hex?,A,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Knee-reversal hex?
+A. Sortilège
+B. Inconnu
+C. Maudire
+D. Charme
+Answer: ",B,False
+282,Quel est le type du sort nommé Langlock ?,A,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Langlock ?
+A. Porte-malheur
+B. Sortilège
+C. La détransfiguration
+D. Contre-charme
+Answer: ",B,False
+283,Quel est le type du sort nommé Lapifors ?,A,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Lapifors ?
+A. Transfiguration
+B. Contre-Jinx
+C. Conjuration
+D. Disparition
+Answer: ",B,False
+284,Quel est le type du sort nommé Leek Jinx ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Leek Jinx ?
+A. Conjuration
+B. Porte-malheur
+C. Maudire
+D. Contre-charme
+Answer: ",B,True
+285,Quel est le type du sort nommé Levicorpus ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Levicorpus ?
+A. Charme
+B. Porte-malheur
+C. Maudire
+D. Disparition
+Answer: ",B,True
+286,Quel est le type du sort nommé Liberacorpus ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Liberacorpus ?
+A. Conjuration
+B. Contre-Jinx
+C. Inconnu
+D. Contre-sort
+Answer: ",B,True
+287,Quel est le type du sort nommé Mortis locomoteur ?,C,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Mortis locomoteur ?
+A. Contre-charme
+B. Inconnu
+C. Maudire
+D. La détransfiguration
+Answer: ",B,False
+288,Quel est le type du sort nommé Melofors ?,A,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Melofors ?
+A. Porte-malheur
+B. Contre-Jinx
+C. Contre-charme
+D. Transport
+Answer: ",B,False
+289,Quel est le type du sort nommé Meteolojinx recanto ?,D,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Meteolojinx recanto ?
+A. Transfiguration
+B. Porte-malheur
+C. Orthographe
+D. Contre-charme
+Answer: ",B,False
+290,Quel est le type du sort nommé Mimblewimble ?,A,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Mimblewimble ?
+A. Maudire
+B. Contre-Jinx
+C. Porte-malheur
+D. Inconnu
+Answer: ",B,False
+291,Quel est le type du sort nommé Multicorfors ?,C,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Multicorfors ?
+A. Contre-sort
+B. Contre-charme
+C. Transfiguration
+D. Inconnu
+Answer: ",B,False
+292,Quel est le type du sort nommé Obscuro ?,A,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Obscuro ?
+A. Conjuration
+B. Orthographe
+C. Sortilège
+D. Transport
+Answer: ",B,False
+293,Quel est le type du sort nommé Oppugno ?,A,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Oppugno ?
+A. Porte-malheur
+B. Sortilège
+C. Inconnu
+D. Contre-charme
+Answer: ",B,False
+294,Quel est le type du sort nommé Orbis ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Orbis ?
+A. Orthographe
+B. Porte-malheur
+C. Charme
+D. Transport
+Answer: ",B,True
+295,Quel est le type du sort nommé Orchidée ?,C,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Orchidée ?
+A. Contre-Jinx
+B. Porte-malheur
+C. Conjuration
+D. Contre-charme
+Answer: ",B,False
+296,Quel est le type du sort nommé Souffle de poivre ?,C,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Souffle de poivre ?
+A. Contre-charme
+B. Transport
+C. Sortilège
+D. Inconnu
+Answer: ",B,False
+297,Quel est le type du sort nommé Petrificus Totalus ?,B,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Petrificus Totalus ?
+A. Orthographe
+B. Maudire
+C. Contre-charme
+D. Transport
+Answer: ",B,True
+298,Quel est le type du sort nommé Piscifors ?,C,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Piscifors ?
+A. Contre-charme
+B. La détransfiguration
+C. Transfiguration
+D. Porte-malheur
+Answer: ",B,False
+299,Quel est le type du sort nommé Pointe-moi ?,A,"Vous trouverez ci-dessous des questions à choix multiples (avec réponses) sur Harry Potter.
+
+Quel est le type du sort nommé Pointe-moi ?
+A. Orthographe
+B. Contre-charme
+C. Transport
+D. Porte-malheur
+Answer: ",B,False

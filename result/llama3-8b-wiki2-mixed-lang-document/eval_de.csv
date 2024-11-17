@@ -1,0 +1,2401 @@
+,question,gt_ans,prompt,ans,correct
+0,Welches Geschlecht hat Harry Potter?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Welches Geschlecht hat Harry Potter?
+A. Weiblich
+B. Männlich
+C. Unbekannt
+D. Nichts von oben
+Answer: ",B,True
+1,Welches Geschlecht hat Lily J. Potter?,A,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Welches Geschlecht hat Lily J. Potter?
+A. Weiblich
+B. Männlich
+C. Unbekannt
+D. Nichts von oben
+Answer: ",A,True
+2,Welches Geschlecht hat James Potter I?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Welches Geschlecht hat James Potter I?
+A. Weiblich
+B. Männlich
+C. Unbekannt
+D. Nichts von oben
+Answer: ",B,True
+3,Welches Geschlecht hat Ron Weasley?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Welches Geschlecht hat Ron Weasley?
+A. Weiblich
+B. Männlich
+C. Unbekannt
+D. Nichts von oben
+Answer: ",B,True
+4,Welches Geschlecht hat Hermine Granger?,A,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Welches Geschlecht hat Hermine Granger?
+A. Weiblich
+B. Männlich
+C. Unbekannt
+D. Nichts von oben
+Answer: ",A,True
+5,Welches Geschlecht hat Cho Chang?,A,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Welches Geschlecht hat Cho Chang?
+A. Weiblich
+B. Männlich
+C. Unbekannt
+D. Nichts von oben
+Answer: ",A,True
+6,Welches Geschlecht hat Albus Potter?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Welches Geschlecht hat Albus Potter?
+A. Weiblich
+B. Männlich
+C. Unbekannt
+D. Nichts von oben
+Answer: ",B,True
+7,Welches Geschlecht hat Petunia Dursley?,A,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Welches Geschlecht hat Petunia Dursley?
+A. Weiblich
+B. Männlich
+C. Unbekannt
+D. Nichts von oben
+Answer: ",A,True
+8,Welches Geschlecht hat Dudley Dursley?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Welches Geschlecht hat Dudley Dursley?
+A. Weiblich
+B. Männlich
+C. Unbekannt
+D. Nichts von oben
+Answer: ",B,True
+9,Welches Geschlecht hat William Weasley?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Welches Geschlecht hat William Weasley?
+A. Weiblich
+B. Männlich
+C. Unbekannt
+D. Nichts von oben
+Answer: ",B,True
+10,Welches Geschlecht hat Charles Weasley?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Welches Geschlecht hat Charles Weasley?
+A. Weiblich
+B. Männlich
+C. Unbekannt
+D. Nichts von oben
+Answer: ",B,True
+11,Welches Geschlecht hat Arthur Weasley?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Welches Geschlecht hat Arthur Weasley?
+A. Weiblich
+B. Männlich
+C. Unbekannt
+D. Nichts von oben
+Answer: ",B,True
+12,Welches Geschlecht hat Cedric Diggory ?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Welches Geschlecht hat Cedric Diggory ?
+A. Weiblich
+B. Männlich
+C. Unbekannt
+D. Nichts von oben
+Answer: ",B,True
+13,Welches Geschlecht hat Roger Davies ?,A,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Welches Geschlecht hat Roger Davies ?
+A. Weiblich
+B. Männlich
+C. Unbekannt
+D. Nichts von oben
+Answer: ",B,False
+14,Welches Geschlecht hat Aberforth Dumbledore?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Welches Geschlecht hat Aberforth Dumbledore?
+A. Weiblich
+B. Männlich
+C. Unbekannt
+D. Nichts von oben
+Answer: ",B,True
+15,Welches Geschlecht hat Ariana Dumbledore?,A,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Welches Geschlecht hat Ariana Dumbledore?
+A. Weiblich
+B. Männlich
+C. Unbekannt
+D. Nichts von oben
+Answer: ",A,True
+16,Welches Geschlecht hat Percival Dumbledore?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Welches Geschlecht hat Percival Dumbledore?
+A. Weiblich
+B. Männlich
+C. Unbekannt
+D. Nichts von oben
+Answer: ",B,True
+17,Welches Geschlecht hat Kendra Dumbledore?,A,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Welches Geschlecht hat Kendra Dumbledore?
+A. Weiblich
+B. Männlich
+C. Unbekannt
+D. Nichts von oben
+Answer: ",A,True
+18,Welches Geschlecht hat Draco Malfoy?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Welches Geschlecht hat Draco Malfoy?
+A. Weiblich
+B. Männlich
+C. Unbekannt
+D. Nichts von oben
+Answer: ",B,True
+19,Welches Geschlecht hat Lucius Malfoy?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Welches Geschlecht hat Lucius Malfoy?
+A. Weiblich
+B. Männlich
+C. Unbekannt
+D. Nichts von oben
+Answer: ",B,True
+20,Welches Geschlecht hat Narcissa Malfoy?,A,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Welches Geschlecht hat Narcissa Malfoy?
+A. Weiblich
+B. Männlich
+C. Unbekannt
+D. Nichts von oben
+Answer: ",A,True
+21,Welches Geschlecht hat Scorpius Malfoy?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Welches Geschlecht hat Scorpius Malfoy?
+A. Weiblich
+B. Männlich
+C. Unbekannt
+D. Nichts von oben
+Answer: ",B,True
+22,Welches Geschlecht hat Astoria Malfoy?,A,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Welches Geschlecht hat Astoria Malfoy?
+A. Weiblich
+B. Männlich
+C. Unbekannt
+D. Nichts von oben
+Answer: ",A,True
+23,Welche Haarfarbe hat Harry Potter?,C,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Welche Haarfarbe hat Harry Potter?
+A. Blond
+B. Braun
+C. Schwarz
+D. Dunkel
+Answer: ",B,False
+24,Welche Haarfarbe hat Lily J. Potter?,D,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Welche Haarfarbe hat Lily J. Potter?
+A. Schwarz
+B. Dunkel
+C. Braun
+D. Rot
+Answer: ",A,False
+25,Welche Haarfarbe hat James Potter I?,C,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Welche Haarfarbe hat James Potter I?
+A. Silber
+B. Braun
+C. Schwarz
+D. Dunkel
+Answer: ",A,False
+26,Welche Haarfarbe hat Ron Weasley?,A,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Welche Haarfarbe hat Ron Weasley?
+A. Rot
+B. Braun
+C. Blond
+D. Schwarz
+Answer: ",A,True
+27,Welche Haarfarbe hat Hermine Granger?,D,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Welche Haarfarbe hat Hermine Granger?
+A. Rot
+B. Silber
+C. Blond
+D. Braun
+Answer: ",D,True
+28,Welche Haarfarbe hat Cho Chang?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Welche Haarfarbe hat Cho Chang?
+A. Blond
+B. Schwarz
+C. Braun
+D. Dunkel
+Answer: ",B,True
+29,Welche Haarfarbe hat Albus Potter?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Welche Haarfarbe hat Albus Potter?
+A. Rot
+B. Schwarz
+C. Blond
+D. Braun
+Answer: ",D,False
+30,Welche Haarfarbe hat Petunia Dursley?,C,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Welche Haarfarbe hat Petunia Dursley?
+A. Dunkel
+B. Silber
+C. Blond
+D. Braun
+Answer: ",D,False
+31,Welche Haarfarbe hat Dudley Dursley?,C,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Welche Haarfarbe hat Dudley Dursley?
+A. Dunkel
+B. Braun
+C. Blond
+D. Rot
+Answer: ",D,False
+32,Welche Haarfarbe hat William Weasley?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Welche Haarfarbe hat William Weasley?
+A. Blond
+B. Rot
+C. Dunkel
+D. Silber
+Answer: ",D,False
+33,Welche Haarfarbe hat Charles Weasley?,C,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Welche Haarfarbe hat Charles Weasley?
+A. Dunkel
+B. Silber
+C. Rot
+D. Schwarz
+Answer: ",B,False
+34,Welche Haarfarbe hat Arthur Weasley?,A,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Welche Haarfarbe hat Arthur Weasley?
+A. Rot
+B. Schwarz
+C. Dunkel
+D. Blond
+Answer: ",D,False
+35,Welche Haarfarbe hat Cedric Diggory?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Welche Haarfarbe hat Cedric Diggory?
+A. Silber
+B. Dunkel
+C. Braun
+D. Blond
+Answer: ",D,False
+36,Welche Haarfarbe hat Roger Davies?,C,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Welche Haarfarbe hat Roger Davies?
+A. Dunkel
+B. Silber
+C. Braun
+D. Schwarz
+Answer: ",A,False
+37,Welche Haarfarbe hat Aberforth Dumbledore?,C,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Welche Haarfarbe hat Aberforth Dumbledore?
+A. Dunkel
+B. Blond
+C. Silber
+D. Rot
+Answer: ",A,False
+38,Welche Haarfarbe hat Ariana Dumbledore?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Welche Haarfarbe hat Ariana Dumbledore?
+A. Schwarz
+B. Blond
+C. Dunkel
+D. Rot
+Answer: ",A,False
+39,Welche Haarfarbe hat Kendra Dumbledore?,D,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Welche Haarfarbe hat Kendra Dumbledore?
+A. Silber
+B. Rot
+C. Braun
+D. Schwarz
+Answer: ",A,False
+40,Welche Haarfarbe hat Draco Malfoy?,D,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Welche Haarfarbe hat Draco Malfoy?
+A. Rot
+B. Silber
+C. Dunkel
+D. Blond
+Answer: ",D,True
+41,Welche Haarfarbe hat Lucius Malfoy?,D,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Welche Haarfarbe hat Lucius Malfoy?
+A. Braun
+B. Schwarz
+C. Rot
+D. Blond
+Answer: ",B,False
+42,Welche Haarfarbe hat Narzissa Malfoy?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Welche Haarfarbe hat Narzissa Malfoy?
+A. Braun
+B. Blond
+C. Rot
+D. Dunkel
+Answer: ",B,True
+43,Welche Haarfarbe hat Scorpius Malfoy?,D,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Welche Haarfarbe hat Scorpius Malfoy?
+A. Silber
+B. Dunkel
+C. Schwarz
+D. Blond
+Answer: ",D,True
+44,Zu welchem Haus gehört Harry Potter?,C,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Zu welchem Haus gehört Harry Potter?
+A. Ravenclaw
+B. Slytherin
+C. Gryffindor
+D. Hufflepuff
+Answer: ",C,True
+45,Zu welchem Haus gehöre James Potter?,C,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Zu welchem Haus gehöre James Potter?
+A. Ravenclaw
+B. Slytherin
+C. Gryffindor
+D. Hufflepuff
+Answer: ",C,True
+46,Zu welchem Haus gehört Ron Weasley?,C,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Zu welchem Haus gehört Ron Weasley?
+A. Ravenclaw
+B. Slytherin
+C. Gryffindor
+D. Hufflepuff
+Answer: ",C,True
+47,Zu welchem Haus gehört Hermine Granger?,C,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Zu welchem Haus gehört Hermine Granger?
+A. Ravenclaw
+B. Slytherin
+C. Gryffindor
+D. Hufflepuff
+Answer: ",C,True
+48,Zu welchem Haus gehört Cho Chang?,A,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Zu welchem Haus gehört Cho Chang?
+A. Ravenclaw
+B. Slytherin
+C. Gryffindor
+D. Hufflepuff
+Answer: ",A,True
+49,Zu welchem Haus gehört Albus Potter?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Zu welchem Haus gehört Albus Potter?
+A. Ravenclaw
+B. Slytherin
+C. Gryffindor
+D. Hufflepuff
+Answer: ",C,False
+50,Zu welchem Haus gehört Charles Weasley?,C,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Zu welchem Haus gehört Charles Weasley?
+A. Ravenclaw
+B. Slytherin
+C. Gryffindor
+D. Hufflepuff
+Answer: ",D,False
+51,Zu welchem Haus gehört Arthur Weasley?,C,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Zu welchem Haus gehört Arthur Weasley?
+A. Ravenclaw
+B. Slytherin
+C. Gryffindor
+D. Hufflepuff
+Answer: ",D,False
+52,Zu welchem Haus gehört Cedric Diggory?,D,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Zu welchem Haus gehört Cedric Diggory?
+A. Ravenclaw
+B. Slytherin
+C. Gryffindor
+D. Hufflepuff
+Answer: ",C,False
+53,Zu welchem Haus gehört Roger Davies?,A,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Zu welchem Haus gehört Roger Davies?
+A. Ravenclaw
+B. Slytherin
+C. Gryffindor
+D. Hufflepuff
+Answer: ",A,True
+54,Zu welchem Haus gehört Aberforth Dumbledore?,C,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Zu welchem Haus gehört Aberforth Dumbledore?
+A. Ravenclaw
+B. Slytherin
+C. Gryffindor
+D. Hufflepuff
+Answer: ",D,False
+55,Zu welchem Haus gehört Draco Malfoy?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Zu welchem Haus gehört Draco Malfoy?
+A. Ravenclaw
+B. Slytherin
+C. Gryffindor
+D. Hufflepuff
+Answer: ",B,True
+56,Zu welchem Haus gehört Lucius Malfoy?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Zu welchem Haus gehört Lucius Malfoy?
+A. Ravenclaw
+B. Slytherin
+C. Gryffindor
+D. Hufflepuff
+Answer: ",B,True
+57,Zu welchem Haus gehört Narcissa Malfoy?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Zu welchem Haus gehört Narcissa Malfoy?
+A. Ravenclaw
+B. Slytherin
+C. Gryffindor
+D. Hufflepuff
+Answer: ",B,True
+58,Zu welchem Haus gehört Scorpius Malfoy?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Zu welchem Haus gehört Scorpius Malfoy?
+A. Ravenclaw
+B. Slytherin
+C. Gryffindor
+D. Hufflepuff
+Answer: ",B,True
+59,In welcher Beziehung steht James Potter I zu Harry Potter?,C,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+In welcher Beziehung steht James Potter I zu Harry Potter?
+A. Ton
+B. Enkel
+C. Vater
+D. Schwester
+Answer: ",C,True
+60,Wer ist der Vater von Harry Potter?,D,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Wer ist der Vater von Harry Potter?
+A. Petunia Dursley
+B. Euphemia Töpferin
+C. Astoria Malfoy
+D. James Potter I
+Answer: ",D,True
+61,In welcher Beziehung steht Lily J. Potter zu Harry Potter?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+In welcher Beziehung steht Lily J. Potter zu Harry Potter?
+A. Freund
+B. Mutter
+C. Ehemann
+D. Neffe
+Answer: ",B,True
+62,Wer ist die Mutter von Harry Potter?,D,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Wer ist die Mutter von Harry Potter?
+A. Harry Potter
+B. Aberforth Dumbledore
+C. Ron Weasley
+D. Lily J. Potter
+Answer: ",D,True
+63,In welcher Beziehung steht Ron Weasley zu Harry Potter?,C,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+In welcher Beziehung steht Ron Weasley zu Harry Potter?
+A. Vater
+B. Enkel
+C. Freund
+D. Schwester
+Answer: ",C,True
+64,Wer ist der Freund von Harry Potter?,C,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Wer ist der Freund von Harry Potter?
+A. Petunia Dursley
+B. Astoria Malfoy
+C. Ron Weasley
+D. Charles Weasley
+Answer: ",C,True
+65,In welcher Beziehung steht Hermine Granger zu Harry Potter?,A,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+In welcher Beziehung steht Hermine Granger zu Harry Potter?
+A. Freund
+B. Tante
+C. Tochter
+D. Ehefrau
+Answer: ",A,True
+66,Wer ist der Freund von Harry Potter?,C,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Wer ist der Freund von Harry Potter?
+A. Lucius Malfoy
+B. Lily J. Potter
+C. Hermine Granger
+D. Harry Potter
+Answer: ",C,True
+67,In welcher Beziehung stehen James Potter zu Lily J.Töpfer?,D,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+In welcher Beziehung stehen James Potter zu Lily J.Töpfer?
+A. Bruder
+B. Neffe
+C. Mutter
+D. Ehemann
+Answer: ",D,True
+68,In welcher Beziehung steht Harry Potter zu Lily J.Töpfer?,C,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+In welcher Beziehung steht Harry Potter zu Lily J.Töpfer?
+A. Mutter
+B. Neffe
+C. Ton
+D. Freund
+Answer: ",D,False
+69,Wer ist der Sohn von Lily J. Potter?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Wer ist der Sohn von Lily J. Potter?
+A. Albus Potter
+B. Harry Potter
+C. Percival Dumbledore
+D. Charles Weasley
+Answer: ",B,True
+70,In welcher Beziehung stehen Albus Potter zu Lily J.Töpfer?,A,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+In welcher Beziehung stehen Albus Potter zu Lily J.Töpfer?
+A. Enkel
+B. Bruder
+C. Ehemann
+D. Tochter
+Answer: ",A,True
+71,Wer ist der Enkel von Lily J. Potter?,A,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Wer ist der Enkel von Lily J. Potter?
+A. Albus Potter
+B. Lucius Malfoy
+C. Draco Malfoy
+D. Percival Dumbledore
+Answer: ",A,True
+72,In welcher Beziehung stehen Petunia Dursley und Lily J.Töpfer?,D,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+In welcher Beziehung stehen Petunia Dursley und Lily J.Töpfer?
+A. Tante
+B. Tochter
+C. Ehemann
+D. Schwester
+Answer: ",D,True
+73,Wer ist die Schwester von Lily J. Potter?,C,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Wer ist die Schwester von Lily J. Potter?
+A. Aberforth Dumbledore
+B. Fleamont Töpfer
+C. Petunia Dursley
+D. Ariana Dumbledore
+Answer: ",C,True
+74,In welcher Beziehung stehen Dudley Dursley zu Lily J.Töpfer?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+In welcher Beziehung stehen Dudley Dursley zu Lily J.Töpfer?
+A. Enkel
+B. Neffe
+C. Ehemann
+D. Mutter
+Answer: ",B,True
+75,Wer ist der Neffe von Lily J. Potter?,D,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Wer ist der Neffe von Lily J. Potter?
+A. James Potter I
+B. Harry Potter
+C. Charles Weasley
+D. Dudley Dursley
+Answer: ",A,False
+76,In welcher Beziehung steht Harry Potter zu James Potter I?,D,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+In welcher Beziehung steht Harry Potter zu James Potter I?
+A. Neffe
+B. Enkel
+C. Schwester
+D. Ton
+Answer: ",B,False
+77,Wer ist der Sohn von James Potter I?,C,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Wer ist der Sohn von James Potter I?
+A. Arthur Weasley
+B. Astoria Malfoy
+C. Harry Potter
+D. Albus Potter
+Answer: ",D,False
+78,In welcher Beziehung steht Lily J. Potter zu James Potter I?,D,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+In welcher Beziehung steht Lily J. Potter zu James Potter I?
+A. Tante
+B. Großmutter
+C. Neffe
+D. Ehefrau
+Answer: ",D,True
+79,Wer ist die Frau von James Potter I?,C,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Wer ist die Frau von James Potter I?
+A. James Potter I
+B. William Weasley
+C. Lily J. Potter
+D. Arthur Weasley
+Answer: ",C,True
+80,In welcher Beziehung steht Fleamont Potter zu James Potter I?,D,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+In welcher Beziehung steht Fleamont Potter zu James Potter I?
+A. Neffe
+B. Ehefrau
+C. Mutter
+D. Vater
+Answer: ",D,True
+81,Wer ist der Vater von James Potter I?,C,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Wer ist der Vater von James Potter I?
+A. Albus Potter
+B. Ron Weasley
+C. Fleamont Töpfer
+D. Aberforth Dumbledore
+Answer: ",C,True
+82,In welcher Beziehung steht Euphemia Potter zu James Potter I?,D,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+In welcher Beziehung steht Euphemia Potter zu James Potter I?
+A. Schwester
+B. Freund
+C. Großmutter
+D. Mutter
+Answer: ",D,True
+83,Wer ist die Mutter von James Potter I?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Wer ist die Mutter von James Potter I?
+A. Ron Weasley
+B. Euphemia Töpferin
+C. Lucius Malfoy
+D. Ariana Dumbledore
+Answer: ",B,True
+84,In welcher Beziehung steht Albus Potter zu James Potter I?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+In welcher Beziehung steht Albus Potter zu James Potter I?
+A. Tante
+B. Enkel
+C. Bruder
+D. Freund
+Answer: ",B,True
+85,Wer ist der Enkel von James Potter I?,A,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Wer ist der Enkel von James Potter I?
+A. Albus Potter
+B. Für Chang
+C. Hermine Granger
+D. Percival Dumbledore
+Answer: ",A,True
+86,In welcher Beziehung steht William Weasley zu Ron Weasley?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+In welcher Beziehung steht William Weasley zu Ron Weasley?
+A. Ton
+B. Bruder
+C. Großmutter
+D. Ehefrau
+Answer: ",B,True
+87,Wer ist der Bruder von Ron Weasley?,D,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Wer ist der Bruder von Ron Weasley?
+A. Dudley Dursley
+B. James Potter I
+C. Kendra Dumbledore
+D. William Weasley
+Answer: ",D,True
+88,In welcher Beziehung steht Charles Weasley zu Ron Weasley?,C,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+In welcher Beziehung steht Charles Weasley zu Ron Weasley?
+A. Enkel
+B. Großmutter
+C. Bruder
+D. Ehefrau
+Answer: ",C,True
+89,Wer ist der Bruder von Ron Weasley?,A,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Wer ist der Bruder von Ron Weasley?
+A. Charles Weasley
+B. Cedric Diggory
+C. William Weasley
+D. Astoria Malfoy
+Answer: ",C,False
+90,In welcher Beziehung steht Hermine Granger zu Ron Weasley?,D,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+In welcher Beziehung steht Hermine Granger zu Ron Weasley?
+A. Ton
+B. Bruder
+C. Vater
+D. Ehefrau
+Answer: ",A,False
+91,Wer ist die Frau von Ron Weasley?,C,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Wer ist die Frau von Ron Weasley?
+A. Percival Dumbledore
+B. Scorpius Malfoy
+C. Hermine Granger
+D. Lucius Malfoy
+Answer: ",C,True
+92,In welcher Beziehung steht Arthur Weasley zu Ron Weasley?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+In welcher Beziehung steht Arthur Weasley zu Ron Weasley?
+A. Großmutter
+B. Vater
+C. Tochter
+D. Enkel
+Answer: ",D,False
+93,Wer ist der Vater von Ron Weasley?,A,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Wer ist der Vater von Ron Weasley?
+A. Arthur Weasley
+B. Für Chang
+C. Draco Malfoy
+D. Hermine Granger
+Answer: ",A,True
+94,In welcher Beziehung steht Rose Granger-Weasley zu Ron Weasley?,D,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+In welcher Beziehung steht Rose Granger-Weasley zu Ron Weasley?
+A. Neffe
+B. Ehefrau
+C. Schwester
+D. Tochter
+Answer: ",D,True
+95,In welcher Beziehung steht Hugo Granger-Weasley zu Ron Weasley?,D,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+In welcher Beziehung steht Hugo Granger-Weasley zu Ron Weasley?
+A. Ehefrau
+B. Neffe
+C. Schwester
+D. Ton
+Answer: ",B,False
+96,In welcher Beziehung steht Ron Weasley zu Hermine Granger?,A,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+In welcher Beziehung steht Ron Weasley zu Hermine Granger?
+A. Ehemann
+B. Ton
+C. Ehefrau
+D. Großmutter
+Answer: ",B,False
+97,Wer ist der Ehemann von Hermine Granger?,D,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Wer ist der Ehemann von Hermine Granger?
+A. Petunia Dursley
+B. Lucius Malfoy
+C. Dudley Dursley
+D. Ron Weasley
+Answer: ",D,True
+98,In welcher Beziehung stehen Monica Wilkins und Hermine Granger?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+In welcher Beziehung stehen Monica Wilkins und Hermine Granger?
+A. Enkel
+B. Mutter
+C. Schwester
+D. Neffe
+Answer: ",B,True
+99,In welcher Beziehung stehen Hugo Granger-Weasley zu Hermine Granger?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+In welcher Beziehung stehen Hugo Granger-Weasley zu Hermine Granger?
+A. Neffe
+B. Ton
+C. Tante
+D. Großmutter
+Answer: ",A,False
+100,In welcher Beziehung steht Rose Granger-Weasley zu Hermine Granger?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+In welcher Beziehung steht Rose Granger-Weasley zu Hermine Granger?
+A. Ton
+B. Tochter
+C. Mutter
+D. Großvater
+Answer: ",B,True
+101,In welcher Beziehung steht Percival Dumbledore zu Albus Dumbledore?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+In welcher Beziehung steht Percival Dumbledore zu Albus Dumbledore?
+A. Großvater
+B. Vater
+C. Enkel
+D. Schwester
+Answer: ",A,False
+102,Wer ist der Vater von Albus Dumbledore?,D,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Wer ist der Vater von Albus Dumbledore?
+A. Astoria Malfoy
+B. Harry Potter
+C. Arthur Weasley
+D. Percival Dumbledore
+Answer: ",D,True
+103,In welcher Beziehung stehen Kendra Dumbledore zu Albus Dumbledore?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+In welcher Beziehung stehen Kendra Dumbledore zu Albus Dumbledore?
+A. Tante
+B. Mutter
+C. Ton
+D. Vater
+Answer: ",A,False
+104,Wer ist die Mutter von Albus Dumbledore?,D,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Wer ist die Mutter von Albus Dumbledore?
+A. Lucius Malfoy
+B. Ariana Dumbledore
+C. Für Chang
+D. Kendra Dumbledore
+Answer: ",D,True
+105,In welcher Beziehung stehen Aberforth Dumbledore zu Albus Dumbledore?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+In welcher Beziehung stehen Aberforth Dumbledore zu Albus Dumbledore?
+A. Ehemann
+B. Bruder
+C. Mutter
+D. Schwester
+Answer: ",B,True
+106,Wer ist der Bruder von Albus Dumbledore?,A,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Wer ist der Bruder von Albus Dumbledore?
+A. Aberforth Dumbledore
+B. Dudley Dursley
+C. Percival Dumbledore
+D. Harry Potter
+Answer: ",A,True
+107,In welcher Beziehung stehen Ariana Dumbledore zu Albus Dumbledore?,A,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+In welcher Beziehung stehen Ariana Dumbledore zu Albus Dumbledore?
+A. Schwester
+B. Vater
+C. Ehefrau
+D. Freund
+Answer: ",A,True
+108,Wer ist die Schwester von Albus Dumbledore?,D,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Wer ist die Schwester von Albus Dumbledore?
+A. Petunia Dursley
+B. Percival Dumbledore
+C. Hermine Granger
+D. Ariana Dumbledore
+Answer: ",D,True
+109,In welcher Beziehung stehen Lucius Malfoy zu Draco Malfoy?,D,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+In welcher Beziehung stehen Lucius Malfoy zu Draco Malfoy?
+A. Bruder
+B. Großmutter
+C. Ehefrau
+D. Ton
+Answer: ",D,True
+110,Wer ist der Sohn von Draco Malfoy?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Wer ist der Sohn von Draco Malfoy?
+A. Cedric Diggory
+B. Lucius Malfoy
+C. Fleamont Töpfer
+D. Hermine Granger
+Answer: ",B,True
+111,In welcher Beziehung stehen Narzissa Malfoy zu Draco Malfoy?,C,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+In welcher Beziehung stehen Narzissa Malfoy zu Draco Malfoy?
+A. Mutter
+B. Tante
+C. Ton
+D. Bruder
+Answer: ",B,False
+112,Wer ist der Sohn von Draco Malfoy?,A,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Wer ist der Sohn von Draco Malfoy?
+A. Narzissa Malfoy
+B. Petunia Dursley
+C. Percival Dumbledore
+D. Dudley Dursley
+Answer: ",A,True
+113,In welcher Beziehung stehen Astoria Malfoy zu Draco Malfoy?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+In welcher Beziehung stehen Astoria Malfoy zu Draco Malfoy?
+A. Freund
+B. Ehefrau
+C. Großvater
+D. Ton
+Answer: ",B,True
+114,Wer ist die Frau von Draco Malfoy?,A,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Wer ist die Frau von Draco Malfoy?
+A. Astoria Malfoy
+B. Fleamont Töpfer
+C. Narzissa Malfoy
+D. William Weasley
+Answer: ",C,False
+115,In welcher Beziehung stehen Scorpius Malfoy zu Draco Malfoy?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+In welcher Beziehung stehen Scorpius Malfoy zu Draco Malfoy?
+A. Großvater
+B. Ton
+C. Tochter
+D. Tante
+Answer: ",D,False
+116,Wer ist der Sohn von Draco Malfoy?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Wer ist der Sohn von Draco Malfoy?
+A. Draco Malfoy
+B. Scorpius Malfoy
+C. Arthur Weasley
+D. Percival Dumbledore
+Answer: ",B,True
+117,In welcher Beziehung stehen James Potter I zu Fleamont Potter?,D,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+In welcher Beziehung stehen James Potter I zu Fleamont Potter?
+A. Tante
+B. Ehefrau
+C. Bruder
+D. Ton
+Answer: ",D,True
+118,Wer ist der Sohn von Fleamont Potter?,A,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Wer ist der Sohn von Fleamont Potter?
+A. James Potter I
+B. Ron Weasley
+C. Draco Malfoy
+D. Arthur Weasley
+Answer: ",A,True
+119,In welcher Beziehung stehen James Potter I. zu Euphemia Potter?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+In welcher Beziehung stehen James Potter I. zu Euphemia Potter?
+A. Ehemann
+B. Ton
+C. Mutter
+D. Enkel
+Answer: ",A,False
+120,Wer ist der Sohn von Euphemia Potter?,C,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Wer ist der Sohn von Euphemia Potter?
+A. Percival Dumbledore
+B. William Weasley
+C. James Potter I
+D. Lily J. Potter
+Answer: ",D,False
+121,In welcher Beziehung stehen James Potter I zu Albus Potter?,C,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+In welcher Beziehung stehen James Potter I zu Albus Potter?
+A. Mutter
+B. Ehefrau
+C. Großvater
+D. Ton
+Answer: ",C,True
+122,Wer ist der Großvater von Albus Potter?,D,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Wer ist der Großvater von Albus Potter?
+A. Albus Potter
+B. Harry Potter
+C. Aberforth Dumbledore
+D. James Potter I
+Answer: ",D,True
+123,In welcher Beziehung stehen Lily J. Potter zu Albus Potter?,A,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+In welcher Beziehung stehen Lily J. Potter zu Albus Potter?
+A. Großmutter
+B. Bruder
+C. Ton
+D. Mutter
+Answer: ",D,False
+124,Wer ist die Großmutter von Albus Potter?,D,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Wer ist die Großmutter von Albus Potter?
+A. Scorpius Malfoy
+B. Harry Potter
+C. Roger Davies
+D. Lily J. Potter
+Answer: ",D,True
+125,In welcher Beziehung steht Lily J.Potter zu Petunia Dursley?,C,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+In welcher Beziehung steht Lily J.Potter zu Petunia Dursley?
+A. Mutter
+B. Großmutter
+C. Schwester
+D. Vater
+Answer: ",C,True
+126,Wer ist die Schwester von Petunia Dursley?,A,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Wer ist die Schwester von Petunia Dursley?
+A. Lily J. Potter
+B. Lucius Malfoy
+C. James Potter I
+D. Scorpius Malfoy
+Answer: ",A,True
+127,In welcher Beziehung stehen Lily J. Potter zu Dudley Dursley?,A,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+In welcher Beziehung stehen Lily J. Potter zu Dudley Dursley?
+A. Tante
+B. Vater
+C. Ehemann
+D. Bruder
+Answer: ",A,True
+128,Wer ist die Tante von Dudley Dursley?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Wer ist die Tante von Dudley Dursley?
+A. Fleamont Töpfer
+B. Lily J. Potter
+C. Astoria Malfoy
+D. Albus Potter
+Answer: ",B,True
+129,In welcher Beziehung steht Ron Weasley zu William Weasley?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+In welcher Beziehung steht Ron Weasley zu William Weasley?
+A. Schwester
+B. Bruder
+C. Ton
+D. Ehefrau
+Answer: ",B,True
+130,Wer ist der Bruder von William Weasley?,C,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Wer ist der Bruder von William Weasley?
+A. Lily J. Potter
+B. Charles Weasley
+C. Ron Weasley
+D. James Potter I
+Answer: ",D,False
+131,In welcher Beziehung steht Ron Weasley zu Charles Weasley?,C,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+In welcher Beziehung steht Ron Weasley zu Charles Weasley?
+A. Freund
+B. Enkel
+C. Bruder
+D. Großvater
+Answer: ",B,False
+132,Wer ist der Bruder von Charles Weasley?,C,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Wer ist der Bruder von Charles Weasley?
+A. Für Chang
+B. Scorpius Malfoy
+C. Ron Weasley
+D. Ariana Dumbledore
+Answer: ",C,True
+133,In welcher Beziehung steht Ron Weasley zu Rose Granger-Weasley?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+In welcher Beziehung steht Ron Weasley zu Rose Granger-Weasley?
+A. Großvater
+B. Vater
+C. Tante
+D. Enkel
+Answer: ",D,False
+134,Wer ist der Vater von Rose Granger-Weasley?,D,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Wer ist der Vater von Rose Granger-Weasley?
+A. Ariana Dumbledore
+B. Draco Malfoy
+C. Arthur Weasley
+D. Ron Weasley
+Answer: ",D,True
+135,In welcher Beziehung stehen Ron Weasley zu Hugo Granger-Weasley?,A,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+In welcher Beziehung stehen Ron Weasley zu Hugo Granger-Weasley?
+A. Vater
+B. Großvater
+C. Ehemann
+D. Neffe
+Answer: ",D,False
+136,Wer ist der Vater von Hugo Granger-Weasley?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Wer ist der Vater von Hugo Granger-Weasley?
+A. Fleamont Töpfer
+B. Ron Weasley
+C. Kendra Dumbledore
+D. Petunia Dursley
+Answer: ",A,False
+137,In welcher Beziehung steht Ron Weasley zu Arthur Weasley?,D,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+In welcher Beziehung steht Ron Weasley zu Arthur Weasley?
+A. Ehemann
+B. Tante
+C. Ehefrau
+D. Ton
+Answer: ",D,True
+138,Wer ist der Sohn von Arthur Weasley?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Wer ist der Sohn von Arthur Weasley?
+A. Ariana Dumbledore
+B. Ron Weasley
+C. Fleamont Töpfer
+D. Percival Dumbledore
+Answer: ",B,True
+139,In welcher Beziehung stehen Hermine Granger zu Rose Granger-Weasley?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+In welcher Beziehung stehen Hermine Granger zu Rose Granger-Weasley?
+A. Bruder
+B. Mutter
+C. Enkel
+D. Neffe
+Answer: ",D,False
+140,Wer ist die Mutter von Rose Granger-Weasley?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Wer ist die Mutter von Rose Granger-Weasley?
+A. Roger Davies
+B. Hermine Granger
+C. Arthur Weasley
+D. Lily J. Potter
+Answer: ",D,False
+141,In welcher Beziehung steht Hermine Granger zu Hugo Granger-Weasley?,C,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+In welcher Beziehung steht Hermine Granger zu Hugo Granger-Weasley?
+A. Tante
+B. Neffe
+C. Mutter
+D. Ehefrau
+Answer: ",D,False
+142,Wer ist die Mutter von Hugo Granger-Weasley?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Wer ist die Mutter von Hugo Granger-Weasley?
+A. Ariana Dumbledore
+B. Hermine Granger
+C. Euphemia Töpferin
+D. Charles Weasley
+Answer: ",B,True
+143,In welcher Beziehung steht Hermine Granger zu Monica Wilkins?,D,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+In welcher Beziehung steht Hermine Granger zu Monica Wilkins?
+A. Neffe
+B. Enkel
+C. Ehemann
+D. Tochter
+Answer: ",D,True
+144,Wer ist die Tochter von Monica Wilkins?,D,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Wer ist die Tochter von Monica Wilkins?
+A. Roger Davies
+B. Lily J. Potter
+C. Euphemia Töpferin
+D. Hermine Granger
+Answer: ",B,False
+145,In welcher Beziehung steht Albus Dumbledore zu Aberforth Dumbledore?,C,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+In welcher Beziehung steht Albus Dumbledore zu Aberforth Dumbledore?
+A. Neffe
+B. Schwester
+C. Bruder
+D. Mutter
+Answer: ",C,True
+146,In welcher Beziehung stehen Albus Dumbledore zu Ariana Dumbledore?,A,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+In welcher Beziehung stehen Albus Dumbledore zu Ariana Dumbledore?
+A. Bruder
+B. Ton
+C. Freund
+D. Ehemann
+Answer: ",A,True
+147,In welcher Beziehung stehen Albus Dumbledore zu Percival Dumbledore?,D,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+In welcher Beziehung stehen Albus Dumbledore zu Percival Dumbledore?
+A. Großvater
+B. Vater
+C. Großmutter
+D. Ton
+Answer: ",A,False
+148,In welcher Beziehung steht Albus Dumbledore zu Kendra Dumbledore?,A,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+In welcher Beziehung steht Albus Dumbledore zu Kendra Dumbledore?
+A. Ton
+B. Freund
+C. Neffe
+D. Bruder
+Answer: ",D,False
+149,In welcher Beziehung stehen Draco Malfoy zu Lucius Malfoy?,D,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+In welcher Beziehung stehen Draco Malfoy zu Lucius Malfoy?
+A. Tante
+B. Mutter
+C. Tochter
+D. Vater
+Answer: ",D,True
+150,Wer ist der Vater von Lucius Malfoy?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Wer ist der Vater von Lucius Malfoy?
+A. Lucius Malfoy
+B. Draco Malfoy
+C. Euphemia Töpferin
+D. Für Chang
+Answer: ",A,False
+151,In welcher Beziehung stehen Draco Malfoy zu Narcissa Malfoy?,A,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+In welcher Beziehung stehen Draco Malfoy zu Narcissa Malfoy?
+A. Mutter
+B. Vater
+C. Neffe
+D. Bruder
+Answer: ",C,False
+152,Wer ist die Mutter von Narzissa Malfoy?,C,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Wer ist die Mutter von Narzissa Malfoy?
+A. Lily J. Potter
+B. Percival Dumbledore
+C. Draco Malfoy
+D. Cedric Diggory
+Answer: ",A,False
+153,In welcher Beziehung stehen Draco Malfoy zu Scorpius Malfoy?,A,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+In welcher Beziehung stehen Draco Malfoy zu Scorpius Malfoy?
+A. Ehemann
+B. Schwester
+C. Tante
+D. Freund
+Answer: ",D,False
+154,Wer ist der Ehemann von Scorpius Malfoy?,A,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Wer ist der Ehemann von Scorpius Malfoy?
+A. Draco Malfoy
+B. Arthur Weasley
+C. Scorpius Malfoy
+D. Für Chang
+Answer: ",A,True
+155,In welcher Beziehung stehen Draco Malfoy zu Astoria Malfoy?,A,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+In welcher Beziehung stehen Draco Malfoy zu Astoria Malfoy?
+A. Vater
+B. Enkel
+C. Bruder
+D. Ehemann
+Answer: ",D,False
+156,Wer ist der Vater von Astoria Malfoy?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Wer ist der Vater von Astoria Malfoy?
+A. Lily J. Potter
+B. Draco Malfoy
+C. Hermine Granger
+D. Harry Potter
+Answer: ",B,True
+157,Was ist die Art des Zaubers namens Aberto?,C,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Aberto?
+A. Gegenzauber
+B. Gegen-Charm
+C. Charme
+D. Verklärung
+Answer: ",A,False
+158,Was ist die Art des Zaubers namens Accio?,D,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Accio?
+A. Gegenzauber
+B. Unverklärung
+C. Gegen-Charm
+D. Charme
+Answer: ",D,True
+159,Was ist die Art des Zaubers namens Alterslinie?,D,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Alterslinie?
+A. Verklärung
+B. Verhexen
+C. Buchstabieren
+D. Charme
+Answer: ",A,False
+160,Was ist die Art des Zaubers namens Alarte Ascendare?,C,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Alarte Ascendare?
+A. Gegenzauber
+B. Gegen-Charm
+C. Charme
+D. Verhexen
+Answer: ",D,False
+161,Was ist die Art des Zaubers namens Alohomora?,D,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Alohomora?
+A. Transport
+B. Verschwörung
+C. Gegen-Jinx
+D. Charme
+Answer: ",D,True
+162,Was ist die Art des Zaubers namens Anti-Cheat-Zauber?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Anti-Cheat-Zauber?
+A. Transport
+B. Charme
+C. Unverklärung
+D. Gegen-Charme
+Answer: ",D,False
+163,Was ist die Art des Zaubers namens Anti-Erscheinungszauber?,A,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Anti-Erscheinungszauber?
+A. Charme
+B. Fluch
+C. Verfluchen
+D. Gegen-Charme
+Answer: ",D,False
+164,Was ist die Art des Zaubers namens Anti-Disapparition Jinx?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Anti-Disapparition Jinx?
+A. Gegen-Jinx
+B. Verhexen
+C. Verklärung
+D. Gegen-Charm
+Answer: ",D,False
+165,Was ist die Art des Zaubers namens Anti-Eindringlings-Jinx?,A,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Anti-Eindringlings-Jinx?
+A. Verhexen
+B. Verschwinden
+C. Charme
+D. Fluch
+Answer: ",A,True
+166,Was ist die Art des Zaubers namens Aparecium?,D,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Aparecium?
+A. Verschwörung
+B. Buchstabieren
+C. Gegen-Charm
+D. Charme
+Answer: ",D,True
+167,Was ist die Art des Zaubers namens Appare Vestigium?,C,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Appare Vestigium?
+A. Transport
+B. Verfluchen
+C. Charme
+D. Gegen-Jinx
+Answer: ",A,False
+168,Was ist die Art des Zaubers namens Apparition?,C,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Apparition?
+A. Verfluchen
+B. Unbekannt
+C. Transport
+D. Gegenzauber
+Answer: ",C,True
+169,Was ist die Art des Zaubers namens Aqua Eructo?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Aqua Eructo?
+A. Gegen-Charme
+B. Charme
+C. Gegenzauber
+D. Buchstabieren
+Answer: ",A,False
+170,Was ist die Art des Zaubers namens Arania Exumai?,C,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Arania Exumai?
+A. Gegenzauber
+B. Unverklärung
+C. Charme
+D. Verschwörung
+Answer: ",A,False
+171,Was ist die Art des Zaubers namens Arresto Momentum?,A,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Arresto Momentum?
+A. Charme
+B. Verschwinden
+C. Transport
+D. Fluch
+Answer: ",A,True
+172,"Was ist die Art des Zaubers, der als Pfeilschießzauber bezeichnet wird?",C,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers, der als Pfeilschießzauber bezeichnet wird?
+A. Gegen-Jinx
+B. Verklärung
+C. Verschwörung
+D. Verfluchen
+Answer: ",D,False
+173,Was ist die Art des Zaubers namens Ascendio?,C,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Ascendio?
+A. Buchstabieren
+B. Fluch
+C. Charme
+D. Transport
+Answer: ",D,False
+174,Was ist die Art des Zaubers namens Avada Kedavra?,C,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Avada Kedavra?
+A. Verschwinden
+B. Fluch
+C. Verfluchen
+D. Gegenzauber
+Answer: ",B,False
+175,Was ist die Art des Zaubers namens Avifors?,A,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Avifors?
+A. Verklärung
+B. Unverklärung
+C. Gegen-Charm
+D. Buchstabieren
+Answer: ",A,True
+176,Was ist die Art des Zaubers namens Avenseguim?,C,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Avenseguim?
+A. Verschwinden
+B. Fluch
+C. Charme
+D. Verschwörung
+Answer: ",A,False
+177,Was ist die Art des Zaubers namens Plappernder Fluch?,D,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Plappernder Fluch?
+A. Verhexen
+B. Unbekannt
+C. Charme
+D. Verfluchen
+Answer: ",D,True
+178,Was ist die Art des Zaubers namens Badgering?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Badgering?
+A. Gegenzauber
+B. Verklärung
+C. Unverklärung
+D. Gegen-Jinx
+Answer: ",D,False
+179,Was ist die Art des Zaubers namens Bat-Bogey Hex?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Bat-Bogey Hex?
+A. Verschwörung
+B. Fluch
+C. Verhexen
+D. Unbekannt
+Answer: ",B,True
+180,"Was ist die Art des Zaubers mit dem Namen ""Schillerndes Hex""?",A,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers mit dem Namen ""Schillerndes Hex""?
+A. Fluch
+B. Gegenzauber
+C. Charme
+D. Gegen-Charm
+Answer: ",D,False
+181,Was ist die Art des Zaubers namens Verhexte Schneebälle?,C,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Verhexte Schneebälle?
+A. Fluch
+B. Transport
+C. Charme
+D. Unverklärung
+Answer: ",A,False
+182,Was ist die Art des Zaubers namens Blauglockenflammen?,D,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Blauglockenflammen?
+A. Unverklärung
+B. Verhexen
+C. Gegen-Jinx
+D. Charme
+Answer: ",D,True
+183,Was ist die Art des Zaubers namens Blaue Funken?,C,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Blaue Funken?
+A. Gegenzauber
+B. Verhexen
+C. Charme
+D. Verfluchen
+Answer: ",A,False
+184,Was ist die Art des Zaubers namens Bombarda?,D,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Bombarda?
+A. Verhexen
+B. Gegen-Jinx
+C. Unverklärung
+D. Charme
+Answer: ",D,True
+185,Was ist die Art des Zaubers namens Bombarda Maxima?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Bombarda Maxima?
+A. Verschwinden
+B. Charme
+C. Unbekannt
+D. Verklärung
+Answer: ",D,False
+186,Was ist die Art des Zaubers namens Tapferkeitszauber?,D,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Tapferkeitszauber?
+A. Buchstabieren
+B. Verklärung
+C. Verschwinden
+D. Charme
+Answer: ",D,True
+187,"Was ist die Art des Zaubers, der Brückenbeschwörungszauber genannt wird?",C,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers, der Brückenbeschwörungszauber genannt wird?
+A. Gegen-Jinx
+B. Verhexen
+C. Charme
+D. Verfluchen
+Answer: ",C,True
+188,Was ist die Art des Zaubers namens Besen-Jinx?,C,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Besen-Jinx?
+A. Unverklärung
+B. Transport
+C. Verhexen
+D. Verfluchen
+Answer: ",D,False
+189,Was ist die Art des Zaubers namens Bubble-Head Charm?,A,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Bubble-Head Charm?
+A. Charme
+B. Fluch
+C. Gegen-Charm
+D. Transport
+Answer: ",A,True
+190,Was ist die Art des Zaubers namens Bubble Spell?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Bubble Spell?
+A. Verklärung
+B. Charme
+C. Gegen-Charme
+D. Buchstabieren
+Answer: ",A,False
+191,Was ist die Art des Zaubers namens Calvorio?,D,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Calvorio?
+A. Verklärung
+B. Charme
+C. Gegen-Charm
+D. Verfluchen
+Answer: ",D,True
+192,Was ist die Art des Zaubers namens Cantis?,C,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Cantis?
+A. Verschwinden
+B. Verfluchen
+C. Charme
+D. Verklärung
+Answer: ",D,False
+193,Was ist die Art des Zaubers namens Capacious extremis?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Capacious extremis?
+A. Unbekannt
+B. Charme
+C. Gegenzauber
+D. Transport
+Answer: ",D,False
+194,Was ist die Art des Zaubers namens Carpe Retractum?,C,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Carpe Retractum?
+A. Verschwinden
+B. Gegen-Charm
+C. Charme
+D. Verschwörung
+Answer: ",A,False
+195,Was ist die Art des Zaubers namens Kaskadierender Jinx?,D,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Kaskadierender Jinx?
+A. Fluch
+B. Gegen-Jinx
+C. Buchstabieren
+D. Verhexen
+Answer: ",D,True
+196,Was ist die Art des Zaubers namens Caterwauling Charm?,D,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Caterwauling Charm?
+A. Gegen-Charme
+B. Unbekannt
+C. Fluch
+D. Charme
+Answer: ",D,True
+197,Was ist die Art des Zaubers namens Cave inimicum?,C,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Cave inimicum?
+A. Verklärung
+B. Gegen-Charm
+C. Charme
+D. Fluch
+Answer: ",D,False
+198,Was ist die Art des Zaubers namens Celescere?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Celescere?
+A. Verhexen
+B. Charme
+C. Unbekannt
+D. Buchstabieren
+Answer: ",A,False
+199,Was ist die Art des Zaubers namens Jubelzauber?,D,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Jubelzauber?
+A. Unbekannt
+B. Buchstabieren
+C. Transport
+D. Charme
+Answer: ",D,True
+200,Was ist die Art des Zaubers namens Circumrota?,D,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Circumrota?
+A. Verklärung
+B. Gegenzauber
+C. Verhexen
+D. Charme
+Answer: ",A,False
+201,Was ist die Art des Zaubers namens Cistem Aperio?,C,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Cistem Aperio?
+A. Fluch
+B. Unverklärung
+C. Charme
+D. Unbekannt
+Answer: ",A,False
+202,Was ist die Art des Zaubers namens Colloportus?,C,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Colloportus?
+A. Verklärung
+B. Verschwinden
+C. Charme
+D. Unverklärung
+Answer: ",D,False
+203,Was ist die Art des Zaubers namens Colloshoo?,A,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Colloshoo?
+A. Fluch
+B. Verschwinden
+C. Transport
+D. Gegen-Jinx
+Answer: ",A,True
+204,Was ist die Art des Zaubers namens Colovaria?,C,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Colovaria?
+A. Gegen-Charm
+B. Gegen-Jinx
+C. Charme
+D. Verhexen
+Answer: ",D,False
+205,Was ist die Art des Zaubers namens Confringo?,D,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Confringo?
+A. Verklärung
+B. Transport
+C. Buchstabieren
+D. Verfluchen
+Answer: ",D,True
+206,Was ist die Art des Zaubers namens Confundo?,C,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Confundo?
+A. Unbekannt
+B. Verschwörung
+C. Charme
+D. Verklärung
+Answer: ",C,True
+207,Was ist die Art des Zaubers namens Bindehautentzündungsfluch?,D,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Bindehautentzündungsfluch?
+A. Unverklärung
+B. Verschwörung
+C. Charme
+D. Verfluchen
+Answer: ",D,True
+208,Was ist die Art des Zaubers namens Cracker Jinx?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Cracker Jinx?
+A. Verschwinden
+B. Verhexen
+C. Charme
+D. Fluch
+Answer: ",D,False
+209,"Was ist die Art des Zaubers, der Cribbing-Zauber genannt wird?",B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers, der Cribbing-Zauber genannt wird?
+A. Fluch
+B. Buchstabieren
+C. Verschwörung
+D. Charme
+Answer: ",D,False
+210,Was ist die Art des Zaubers namens Crinus Muto?,A,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Crinus Muto?
+A. Verklärung
+B. Gegen-Charm
+C. Gegen-Charme
+D. Gegenzauber
+Answer: ",D,False
+211,Was ist die Art des Zaubers namens Crucio?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Crucio?
+A. Gegenzauber
+B. Verfluchen
+C. Unverklärung
+D. Transport
+Answer: ",B,True
+212,Was ist die Art des Zaubers namens Defodio?,D,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Defodio?
+A. Verklärung
+B. Unbekannt
+C. Verschwörung
+D. Charme
+Answer: ",D,True
+213,Was ist die Art des Zaubers namens Deletrius?,C,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Deletrius?
+A. Verhexen
+B. Unverklärung
+C. Charme
+D. Transport
+Answer: ",B,False
+214,Was ist die Art des Zaubers namens Densaugeo?,A,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Densaugeo?
+A. Fluch
+B. Gegen-Charme
+C. Transport
+D. Unverklärung
+Answer: ",A,True
+215,Was ist die Art des Zaubers namens Deprimo?,D,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Deprimo?
+A. Gegenzauber
+B. Verschwörung
+C. Gegen-Jinx
+D. Charme
+Answer: ",D,True
+216,Was ist die Art des Zaubers namens Depulso?,C,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Depulso?
+A. Verschwinden
+B. Unverklärung
+C. Charme
+D. Gegenzauber
+Answer: ",D,False
+217,Was ist die Art des Zaubers namens Descendo?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Descendo?
+A. Unverklärung
+B. Charme
+C. Gegen-Charm
+D. Verhexen
+Answer: ",D,False
+218,Was ist die Art des Zaubers namens Verschlechterungs-Verhexung?,A,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Verschlechterungs-Verhexung?
+A. Fluch
+B. Gegen-Charm
+C. Buchstabieren
+D. Gegen-Charme
+Answer: ",D,False
+219,Was ist die Art des Zaubers namens Diffindo?,D,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Diffindo?
+A. Verschwinden
+B. Transport
+C. Verfluchen
+D. Charme
+Answer: ",A,False
+220,Was ist die Art des Zaubers namens Diminuendo?,D,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Diminuendo?
+A. Transport
+B. Verklärung
+C. Verfluchen
+D. Charme
+Answer: ",B,False
+221,Was ist die Art des Zaubers namens Dissendium?,A,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Dissendium?
+A. Charme
+B. Gegenzauber
+C. Transport
+D. Unverklärung
+Answer: ",D,False
+222,Was ist die Art des Zaubers namens Desillusionierungszauber?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Desillusionierungszauber?
+A. Verschwinden
+B. Charme
+C. Verklärung
+D. Verhexen
+Answer: ",D,False
+223,Was ist die Art des Zaubers namens Draconifors?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Draconifors?
+A. Gegen-Charme
+B. Verklärung
+C. Verschwörung
+D. Verfluchen
+Answer: ",D,False
+224,Was ist die Art des Zaubers namens Dürrezauber?,D,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Dürrezauber?
+A. Transport
+B. Gegen-Charme
+C. Verklärung
+D. Charme
+Answer: ",D,True
+225,Was ist die Art des Zaubers namens Duro?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Duro?
+A. Gegenzauber
+B. Charme
+C. Buchstabieren
+D. Gegen-Charme
+Answer: ",D,False
+226,"Was ist die Art des Zaubers mit dem Namen ""Ohrenschrumpfender Fluch""?",B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers mit dem Namen ""Ohrenschrumpfender Fluch""?
+A. Buchstabieren
+B. Verfluchen
+C. Unverklärung
+D. Verschwinden
+Answer: ",D,False
+227,Was ist die Art des Zaubers namens Ebublio?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Ebublio?
+A. Verschwinden
+B. Verhexen
+C. Unverklärung
+D. Gegen-Charm
+Answer: ",D,False
+228,Was ist die Art des Zaubers namens Engorgio?,D,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Engorgio?
+A. Unverklärung
+B. Gegen-Jinx
+C. Transport
+D. Charme
+Answer: ",A,False
+229,Was ist die Art des Zaubers namens Eingeweide-austreibender Fluch?,A,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Eingeweide-austreibender Fluch?
+A. Verfluchen
+B. Buchstabieren
+C. Unbekannt
+D. Verschwinden
+Answer: ",A,True
+230,Was ist die Art des Zaubers namens Epoximise?,C,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Epoximise?
+A. Buchstabieren
+B. Gegen-Jinx
+C. Verklärung
+D. Verfluchen
+Answer: ",D,False
+231,Was ist die Art des Zaubers namens Erecto?,D,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Erecto?
+A. Transport
+B. Gegen-Charme
+C. Fluch
+D. Charme
+Answer: ",D,True
+232,Was ist die Art des Zaubers namens Evanesce?,C,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Evanesce?
+A. Gegenzauber
+B. Fluch
+C. Verklärung
+D. Verhexen
+Answer: ",C,True
+233,Was ist die Art des Zaubers namens Evanesco?,C,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Evanesco?
+A. Verschwinden
+B. Unverklärung
+C. Verklärung
+D. Transport
+Answer: ",A,False
+234,Was ist die Art des Zaubers namens Everte Statum?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Everte Statum?
+A. Gegen-Charme
+B. Buchstabieren
+C. Verschwörung
+D. Fluch
+Answer: ",D,False
+235,Was ist die Art des Zaubers namens Expecto Patronum?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Expecto Patronum?
+A. Verschwinden
+B. Charme
+C. Verschwörung
+D. Fluch
+Answer: ",B,True
+236,Was ist die Art des Zaubers namens Expelliarmus?,A,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Expelliarmus?
+A. Charme
+B. Fluch
+C. Verklärung
+D. Gegen-Charm
+Answer: ",D,False
+237,Was ist die Art des Zaubers namens Expulso?,A,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Expulso?
+A. Verfluchen
+B. Charme
+C. Verschwinden
+D. Gegenzauber
+Answer: ",D,False
+238,Was ist die Art des Zaubers namens Löschzauber?,A,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Löschzauber?
+A. Charme
+B. Gegenzauber
+C. Gegen-Charm
+D. Verfluchen
+Answer: ",D,False
+239,Was ist die Art des Zaubers mit dem Namen Federleichter Zauber?,A,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers mit dem Namen Federleichter Zauber?
+A. Charme
+B. Gegenzauber
+C. Fluch
+D. Gegen-Charme
+Answer: ",A,True
+240,Was ist die Art des Zaubers namens Fianto Duri?,A,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Fianto Duri?
+A. Charme
+B. Verhexen
+C. Unverklärung
+D. Buchstabieren
+Answer: ",A,True
+241,Was ist die Art des Zaubers namens Fidelius-Zauber?,A,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Fidelius-Zauber?
+A. Charme
+B. Verschwinden
+C. Gegen-Charm
+D. Gegenzauber
+Answer: ",D,False
+242,Was ist die Art des Zaubers namens Fiendfyre?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Fiendfyre?
+A. Verklärung
+B. Verfluchen
+C. Fluch
+D. Verhexen
+Answer: ",D,False
+243,Was ist die Art des Zaubers namens Finestra?,A,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Finestra?
+A. Charme
+B. Verschwörung
+C. Fluch
+D. Gegen-Jinx
+Answer: ",A,True
+244,Was ist die Art des Zaubers namens Endliches Incantatem?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Endliches Incantatem?
+A. Unbekannt
+B. Gegenzauber
+C. Buchstabieren
+D. Verhexen
+Answer: ",D,False
+245,Was ist die Art des Zaubers namens Fingerentfernender Jinx?,C,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Fingerentfernender Jinx?
+A. Gegenzauber
+B. Transport
+C. Verhexen
+D. Charme
+Answer: ",A,False
+246,Was ist die Art des Zaubers namens Feuersturm?,C,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Feuersturm?
+A. Buchstabieren
+B. Transport
+C. Charme
+D. Gegenzauber
+Answer: ",D,False
+247,Was ist die Art des Zaubers namens Flagrante Curse?,D,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Flagrante Curse?
+A. Unbekannt
+B. Buchstabieren
+C. Verklärung
+D. Verfluchen
+Answer: ",D,True
+248,Was ist die Art des Zaubers namens Flagrate?,A,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Flagrate?
+A. Charme
+B. Verschwörung
+C. Gegenzauber
+D. Verschwinden
+Answer: ",D,False
+249,Was ist die Art des Zaubers namens Flammenfrost-Zauber?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Flammenfrost-Zauber?
+A. Buchstabieren
+B. Charme
+C. Fluch
+D. Unbekannt
+Answer: ",C,False
+250,"Was ist die Art des Zaubers, der als Fläschchenbeschwörungszauber bezeichnet wird?",D,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers, der als Fläschchenbeschwörungszauber bezeichnet wird?
+A. Gegen-Jinx
+B. Verfluchen
+C. Verschwinden
+D. Verschwörung
+Answer: ",D,True
+251,Was ist die Art des Zaubers namens Flintifors?,C,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Flintifors?
+A. Unverklärung
+B. Gegen-Jinx
+C. Verklärung
+D. Gegen-Charm
+Answer: ",A,False
+252,Was ist die Art des Zaubers namens Flipendo?,C,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Flipendo?
+A. Verfluchen
+B. Verschwinden
+C. Verhexen
+D. Charme
+Answer: ",D,False
+253,Was ist die Art des Zaubers namens Flipendo Duo?,A,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Flipendo Duo?
+A. Verhexen
+B. Gegenzauber
+C. Verschwörung
+D. Gegen-Charme
+Answer: ",D,False
+254,Was ist die Art des Zaubers namens Flipendo Maxima?,A,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Flipendo Maxima?
+A. Verhexen
+B. Unbekannt
+C. Verschwinden
+D. Verfluchen
+Answer: ",A,True
+255,Was ist die Art des Zaubers namens Flipendo Tria?,A,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Flipendo Tria?
+A. Verhexen
+B. Gegen-Jinx
+C. Transport
+D. Unbekannt
+Answer: ",A,True
+256,Was ist die Art des Zaubers namens Fliegender Zauber?,A,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Fliegender Zauber?
+A. Charme
+B. Verhexen
+C. Unbekannt
+D. Gegen-Jinx
+Answer: ",A,True
+257,Was ist die Art des Zaubers namens Fracto Strata?,A,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Fracto Strata?
+A. Buchstabieren
+B. Gegen-Charm
+C. Transport
+D. Charme
+Answer: ",D,False
+258,Was ist die Art des Zaubers namens Fumos?,D,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Fumos?
+A. Gegen-Charme
+B. Verschwinden
+C. Verhexen
+D. Charme
+Answer: ",D,True
+259,Was ist die Art des Zaubers namens Fumos Duo?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Fumos Duo?
+A. Gegen-Charm
+B. Charme
+C. Fluch
+D. Buchstabieren
+Answer: ",A,False
+260,Was ist die Art des Zaubers namens Furnunculus?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Furnunculus?
+A. Fluch
+B. Verhexen
+C. Charme
+D. Gegen-Charme
+Answer: ",A,False
+261,Was ist die Art des Zaubers namens Pelzzauber?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Pelzzauber?
+A. Buchstabieren
+B. Charme
+C. Verfluchen
+D. Fluch
+Answer: ",D,False
+262,Was ist die Art des Zaubers namens Geminio?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Geminio?
+A. Verschwinden
+B. Charme
+C. Verfluchen
+D. Gegen-Jinx
+Answer: ",D,False
+263,Was ist die Art des Zaubers namens Glacius?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Glacius?
+A. Transport
+B. Charme
+C. Gegen-Charme
+D. Gegen-Jinx
+Answer: ",D,False
+264,Was ist die Art des Zaubers namens Glacius Duo?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Glacius Duo?
+A. Buchstabieren
+B. Charme
+C. Unbekannt
+D. Transport
+Answer: ",D,False
+265,Was ist die Art des Zaubers namens Glacius Tria?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Glacius Tria?
+A. Fluch
+B. Charme
+C. Gegen-Charme
+D. Gegenzauber
+Answer: ",D,False
+266,Was ist die Art des Zaubers namens Glisseo?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Glisseo?
+A. Verschwinden
+B. Charme
+C. Unbekannt
+D. Verfluchen
+Answer: ",A,False
+267,Was ist die Art des Zaubers namens Greifzauber?,D,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Greifzauber?
+A. Fluch
+B. Verschwinden
+C. Verschwörung
+D. Charme
+Answer: ",D,True
+268,"Was ist die Art des Zaubers mit dem Namen ""Haarverdichtender Zauber""?",C,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers mit dem Namen ""Haarverdichtender Zauber""?
+A. Verfluchen
+B. Unbekannt
+C. Charme
+D. Unverklärung
+Answer: ",C,True
+269,Was ist die Art des Zaubers namens Herbifors?,A,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Herbifors?
+A. Verklärung
+B. Gegen-Charme
+C. Fluch
+D. Buchstabieren
+Answer: ",A,True
+270,Was ist die Art des Zaubers namens Herbivicus?,A,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Herbivicus?
+A. Charme
+B. Fluch
+C. Gegen-Jinx
+D. Verschwinden
+Answer: ",A,True
+271,Was ist die Art des Zaubers namens Homenum Revelio?,D,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Homenum Revelio?
+A. Unbekannt
+B. Verklärung
+C. Verfluchen
+D. Charme
+Answer: ",D,True
+272,Was ist die Art des Zaubers namens Homonculous Charm?,D,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Homonculous Charm?
+A. Gegenzauber
+B. Gegen-Jinx
+C. Verklärung
+D. Charme
+Answer: ",D,True
+273,Was ist die Art des Zaubers namens Hurling Hex?,C,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Hurling Hex?
+A. Verschwörung
+B. Verklärung
+C. Fluch
+D. Verfluchen
+Answer: ",D,False
+274,Was ist die Art des Zaubers namens Impedimenta?,A,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Impedimenta?
+A. Verhexen
+B. Gegenzauber
+C. Charme
+D. Unbekannt
+Answer: ",B,False
+275,Was ist die Art des Zaubers namens Imperio?,D,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Imperio?
+A. Gegen-Charme
+B. Gegen-Jinx
+C. Unverklärung
+D. Verfluchen
+Answer: ",D,True
+276,Was ist die Art des Zaubers namens Inanimatus Conjurus?,A,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Inanimatus Conjurus?
+A. Verklärung
+B. Charme
+C. Verschwinden
+D. Verschwörung
+Answer: ",D,False
+277,Was ist die Art des Zaubers mit dem Namen Incarerous?,D,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers mit dem Namen Incarerous?
+A. Fluch
+B. Buchstabieren
+C. Gegen-Charm
+D. Verschwörung
+Answer: ",A,False
+278,Was ist die Art des Zaubers namens Inflatus?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Inflatus?
+A. Charme
+B. Verhexen
+C. Gegen-Jinx
+D. Gegen-Charm
+Answer: ",A,False
+279,Was ist die Art des Zaubers namens Jelly-Brain Jinx?,A,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Jelly-Brain Jinx?
+A. Verhexen
+B. Gegen-Jinx
+C. Verklärung
+D. Verschwörung
+Answer: ",A,True
+280,Was ist die Art des Zaubers namens Jelly-Fingers-Fluch?,C,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Jelly-Fingers-Fluch?
+A. Charme
+B. Gegenzauber
+C. Verfluchen
+D. Gegen-Charme
+Answer: ",D,False
+281,Was ist die Art des Zaubers namens Knieumkehr-Verhexung?,A,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Knieumkehr-Verhexung?
+A. Fluch
+B. Unbekannt
+C. Verfluchen
+D. Charme
+Answer: ",A,True
+282,Was ist die Art des Zaubers namens Langlock?,A,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Langlock?
+A. Verhexen
+B. Fluch
+C. Unverklärung
+D. Gegen-Charm
+Answer: ",A,True
+283,Was ist die Art des Zaubers namens Lapifors?,A,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Lapifors?
+A. Verklärung
+B. Gegen-Jinx
+C. Verschwörung
+D. Verschwinden
+Answer: ",A,True
+284,Was ist die Art des Zaubers namens Lauch-Jinx?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Lauch-Jinx?
+A. Verschwörung
+B. Verhexen
+C. Verfluchen
+D. Gegen-Charm
+Answer: ",D,False
+285,Was ist die Art des Zaubers namens Levicorpus?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Levicorpus?
+A. Charme
+B. Verhexen
+C. Verfluchen
+D. Verschwinden
+Answer: ",B,True
+286,Was ist die Art des Zaubers namens Liberacorpus?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Liberacorpus?
+A. Verschwörung
+B. Gegen-Jinx
+C. Unbekannt
+D. Gegenzauber
+Answer: ",D,False
+287,Was ist die Art des Zaubers namens Locomotor Mortis?,C,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Locomotor Mortis?
+A. Gegen-Charme
+B. Unbekannt
+C. Verfluchen
+D. Unverklärung
+Answer: ",D,False
+288,Was ist die Art des Zaubers namens Melofors?,A,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Melofors?
+A. Verhexen
+B. Gegen-Jinx
+C. Gegen-Charme
+D. Transport
+Answer: ",A,True
+289,Was ist die Art des Zaubers namens Meteolojinx recanto?,D,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Meteolojinx recanto?
+A. Verklärung
+B. Verhexen
+C. Buchstabieren
+D. Gegen-Charm
+Answer: ",D,True
+290,Was ist die Art des Zaubers namens Mimblewimble?,A,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Mimblewimble?
+A. Verfluchen
+B. Gegen-Jinx
+C. Verhexen
+D. Unbekannt
+Answer: ",C,False
+291,Was ist die Art des Zaubers namens Multicorfors?,C,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Multicorfors?
+A. Gegenzauber
+B. Gegen-Charm
+C. Verklärung
+D. Unbekannt
+Answer: ",A,False
+292,Was ist die Art des Zaubers namens Obscuro?,A,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Obscuro?
+A. Verschwörung
+B. Buchstabieren
+C. Fluch
+D. Transport
+Answer: ",C,False
+293,Was ist die Art des Zaubers namens Oppugno?,A,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Oppugno?
+A. Verhexen
+B. Fluch
+C. Unbekannt
+D. Gegen-Charme
+Answer: ",D,False
+294,Was ist die Art des Zaubers namens Orbis?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Orbis?
+A. Buchstabieren
+B. Verhexen
+C. Charme
+D. Transport
+Answer: ",D,False
+295,Was ist die Art des Zaubers namens Orchideous?,C,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Orchideous?
+A. Gegen-Jinx
+B. Verhexen
+C. Verschwörung
+D. Gegen-Charm
+Answer: ",D,False
+296,Was ist die Art des Zaubers namens Pfefferatem?,C,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Pfefferatem?
+A. Gegen-Charm
+B. Transport
+C. Fluch
+D. Unbekannt
+Answer: ",A,False
+297,Was ist die Art des Zaubers namens Petrificus Totalus?,B,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Petrificus Totalus?
+A. Buchstabieren
+B. Verfluchen
+C. Gegen-Charme
+D. Transport
+Answer: ",C,False
+298,Was ist die Art des Zaubers namens Piscifors?,C,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers namens Piscifors?
+A. Gegen-Charm
+B. Unverklärung
+C. Verklärung
+D. Verhexen
+Answer: ",D,False
+299,"Was ist die Art des Zaubers mit dem Namen ""Zeige mich""?",A,"Im Folgenden finden Sie Multiple-Choice-Fragen (mit Antworten) zu Harry Potter.
+
+Was ist die Art des Zaubers mit dem Namen ""Zeige mich""?
+A. Buchstabieren
+B. Gegen-Charm
+C. Transport
+D. Verhexen
+Answer: ",A,True
